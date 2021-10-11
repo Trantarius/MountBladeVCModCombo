@@ -1,5 +1,5 @@
 itemsfile version 3
-1266
+1258
  itm_no_item INVALID_ITEM INVALID_ITEM 1  invalid_item 0  12582914 9223388529554358287 3 0 1.500000 100 0 0 0 0 16384 103 0 90 0 522 528
  0
 0
@@ -12,33 +12,34 @@ itemsfile version 3
  0
 0
 
- itm_tutorial_battle_axe Long_Battle_Axe Long_Battle_Axe 1  Axt02-5 0  2251800287903747 9223635920207479039 480 262164 1.750000 100 0 0 0 4 31744 85 0 81 0 274 31
+ itm_tutorial_battle_axe Long_Battle_Axe Long_Battle_Axe 1  Axt02-5 0  2251800019468291 9223635920207479022 480 262164 1.750000 100 0 0 0 4 31744 85 0 81 0 256 38
  0
 0
 
- itm_tutorial_arrows Arrows Arrows 3  arrow 0  flying_arrow 2305843009213693952  quiver3 3458764513820540928  32773 2952790016 100 4398046511112 1.000000 110 0 0 0 0 0 0 0 95 40 257 0
+ itm_tutorial_arrows Arrows Arrows 3  arrow 0  flying_arrow 2305843009213693952  quiver3 3458764513820540928  32773 2952790016 100 4398046511112 1.000000 110 0 0 0 0 0 0 0 95 40 1 0
  0
 0
 
- itm_tutorial_bolts Bolts Bolts 4  bolt 0  flying_bolt 2305843009213693952  boltQuiver1 3458764513820540928  boltQuiver1 3458768911867052032  16809990 2952790016 164 4398046511112 1.500000 100 0 0 0 0 0 0 0 63 20 258 0
+ itm_tutorial_bolts Bolts Bolts 4  bolt 0  flying_bolt 2305843009213693952  boltQuiver1 3458764513820540928  boltQuiver1 3458768911867052032  16809990 2952790016 164 4398046511112 1.500000 100 0 0 0 0 0 0 0 63 20 2 0
  1
  35
 0
 
- itm_tutorial_short_bow Long_Bow Long_Bow 2  LongBow 0  LongBow_carry 3458764513820540928  274726920 5905584128 530 524298 1.000000 100 0 0 99 0 0 90 55 0 0 276 0
+ itm_tutorial_short_bow Long_Bow Long_Bow 2  LongBow 0  LongBow_carry 3458764513820540928  274726920 5905584128 530 524298 1.000000 100 0 0 99 0 0 90 55 0 0 26 0
  0
 0
 
- itm_tutorial_crossbow Crossbow Crossbow 1  crossbow 0  274726921 5637160960 250 10 2.250000 100 0 0 85 0 0 43 65 0 1 281 0
+ itm_tutorial_crossbow Crossbow Crossbow 1  crossbow 0  274726921 5637160960 250 10 2.250000 100 0 0 85 0 0 43 65 0 1 25 0
  0
 0
 
- itm_tutorial_throwing_daggers Javelins Javelins 2  javelin 0  javelin_carry 3458764513820540928  71303178 36507484160 200 4398046781450 1.000000 100 0 0 99 0 0 90 28 65 4 280 0
+ itm_tutorial_throwing_daggers Javelins Javelins 2  javelin 0  javelin_carry 3458764513820540928  4194314 36507484160 200 4398046781450 1.000000 100 0 0 99 0 0 90 28 65 4 280 0
  0
 0
 
- itm_tutorial_saddle_horse Saddle_Pony Saddle_Pony 2  Horse_01 0  Horse_01 120259346432  1 0 1700 119185342464 0.000000 50 0 10 0 0 70 36 40 91 0 12 0
- 0
+ itm_tutorial_saddle_horse Frankish_Stallion Frankish_Stallion 2  light_horse 0  light_horse 120259346432  65537 0 9300 120259346432 0.000000 10 0 18 0 4 140 38 48 98 0 24 0
+ 1
+ 19
 0
 
  itm_tutorial_shield Round_Shield Round_Shield 1  Roundshield_01 0  262151 5100273664 330 167772194 4.500000 100 0 20 0 0 310 85 0 43 0 0 0
@@ -53,47 +54,51 @@ itemsfile version 3
  0
 0
 
- itm_tutorial_sword Common_Sword Common_Sword 2  Sword03 0  Scabbard03 3458764513820540928  2251799817879554 9223388564182532111 790 286740 1.250000 100 0 0 0 3 25600 90 0 95 0 272 25
+ itm_tutorial_sword Common_Sword Common_Sword 2  Sword03 0  Scabbard03 3458764513820540928  2251799817879554 9223388564182532111 790 286740 1.250000 100 0 0 0 3 25600 90 0 95 0 278 25
  0
 0
 
- itm_tutorial_axe Axe Axe 1  Axt01-2 0  2251799893639170 9223388530091229198 370 262164 1.000000 100 0 0 0 4 25600 92 0 62 0 256 25
+ itm_tutorial_axe Axe Axe 1  Axt01-2 0  2251799893639170 9223388530091229198 370 262164 1.000000 100 0 0 0 4 25600 87 0 62 0 256 25
  0
 0
 
- itm_tutorial_dagger Seax Seax 2  Seax1 0  Seax1_Scabbard 3458764513820540928  2251799826284546 9223372072850292751 280 286740 0.500000 100 0 0 0 0 15360 99 0 40 0 281 15
+ itm_tutorial_dagger Seax Seax 2  Seax1 0  Seax1_Scabbard 3458764513820540928  2251799826284546 9223372072850292737 280 286740 0.500000 100 0 0 0 0 15360 99 0 40 0 281 15
  0
 0
 
- itm_horse_meat Horse_Meat Horse_Meat 1  raw_meat 0  34078731 0 12 0 40.000000 100 30 0 0 0 0 0 0 0 40 0 0
+ itm_runed_hammer Runed_Hammer Runed_Hammer 1  thor_hammer 0  79691778 9223388530091229198 9000 0 3.500000 100 0 0 0 0 28672 90 0 60 0 0 540
  0
 0
 
- itm_practice_sword Common_Sword Common_Sword 2  Sword03 0  Scabbard03 3458764513820540928  2251799817879554 9223388564182532111 790 286740 1.250000 100 0 0 0 3 25600 90 0 95 0 272 25
+ itm_horse_meat Horse_Meat Horse_Meat 1  raw_meat 0  34078731 0 12 0 80.000000 100 30 0 0 0 0 0 0 0 40 0 0
  0
 0
 
- itm_heavy_practice_sword Goidelic_Champion_Sword Goidelic_Champion_Sword 2  GP_swords04 0  GP_swords04_Scabbard 3458764513820540928  2251800088412163 9223635954365890800 1030 286740 2.000000 100 0 0 0 4 46080 85 0 105 0 272 45
+ itm_practice_sword Common_Sword Common_Sword 2  Sword03 0  Scabbard03 3458764513820540928  2251799817879554 9223388564182532111 790 286740 1.250000 100 0 0 0 3 25600 90 0 95 0 278 25
  0
 0
 
- itm_practice_dagger Seax Seax 2  Seax1 0  Seax1_Scabbard 3458764513820540928  2251799826284546 9223372072850292751 880 286740 0.500000 100 0 0 0 0 15360 96 0 40 0 281 15
+ itm_heavy_practice_sword Goidelic_Champion_Sword Goidelic_Champion_Sword 2  GP_swords04 0  GP_swords04_Scabbard 3458764513820540928  2251800088412163 9223635954365890800 1030 286740 1.500000 100 0 0 0 11 46080 89 0 105 0 282 48
  0
 0
 
- itm_practice_axe Axe Axe 1  Axt01-2 0  2251799893639170 9223388530091229198 370 262164 1.000000 100 0 0 0 4 25600 92 0 62 0 256 25
+ itm_practice_dagger Seax Seax 2  Seax1 0  Seax1_Scabbard 3458764513820540928  2251799826284546 9223372072850292737 880 286740 0.500000 100 0 0 0 0 15360 96 0 40 0 281 15
  0
 0
 
- itm_arena_axe Short_Axe Short_Axe 1  Axt01-3 0  2251799893639170 9223388530091229198 370 262164 1.000000 100 0 0 0 3 23552 94 0 52 0 256 23
+ itm_practice_axe Axe Axe 1  Axt01-2 0  2251799893639170 9223388530091229198 370 262164 1.000000 100 0 0 0 4 25600 87 0 62 0 256 25
  0
 0
 
- itm_arena_sword Common_Sword Common_Sword 2  Sword03 0  Scabbard03 3458764513820540928  2251799817879554 9223388564182532111 790 286740 1.250000 100 0 0 0 3 25600 90 0 95 0 272 25
+ itm_arena_axe Short_Axe Short_Axe 1  Axt01-3 0  2251799893639170 9223388530091229198 370 262164 1.000000 100 0 0 0 3 23552 89 0 52 0 256 23
  0
 0
 
- itm_arena_sword_two_handed Goidelic_Champion_Sword Goidelic_Champion_Sword 2  GP_swords04 0  GP_swords04_Scabbard 3458764513820540928  2251800088412163 9223635954365890800 1030 286740 2.000000 100 0 0 0 4 46080 85 0 105 0 272 45
+ itm_arena_sword Common_Sword Common_Sword 2  Sword03 0  Scabbard03 3458764513820540928  2251799817879554 9223388564182532111 790 286740 1.250000 100 0 0 0 3 25600 90 0 95 0 278 25
+ 0
+0
+
+ itm_arena_sword_two_handed Goidelic_Champion_Sword Goidelic_Champion_Sword 2  GP_swords04 0  GP_swords04_Scabbard 3458764513820540928  2251800088412163 9223635954365890800 1030 286740 1.500000 100 0 0 0 11 46080 89 0 105 0 282 48
  0
 0
 
@@ -113,16 +118,16 @@ itemsfile version 3
  0
 0
 
- itm_practice_bow Long_Bow Long_Bow 2  LongBow 0  LongBow_carry 3458764513820540928  6291464 5905584128 530 524298 1.000000 100 0 0 99 0 0 90 50 0 0 276 0
+ itm_practice_bow Long_Bow Long_Bow 2  LongBow 0  LongBow_carry 3458764513820540928  6291464 5905584128 530 524298 1.000000 100 0 0 99 0 0 90 50 0 0 26 0
  0
 0
 
- itm_practice_crossbow Sling Sling 1  Sling 0  272629776 458752 250 0 0.500000 100 0 0 90 0 0 85 55 0 1 532 0
+ itm_practice_crossbow Sling Sling 1  Sling 0  272629776 458752 250 0 0.500000 100 0 0 93 0 0 65 55 0 1 532 0
  1
  35
 0
 
- itm_practice_javelin Javelins Javelins 2  javelin 0  javelin_carry 3458764513820540928  608174090 36507484160 200 4398046781450 1.000000 100 0 0 99 0 0 90 28 65 4 280 0
+ itm_practice_javelin Javelins Javelins 2  javelin 0  javelin_carry 3458764513820540928  541065226 36507484160 200 4398046781450 1.000000 100 0 0 99 0 0 90 28 65 4 280 0
  0
 0
 
@@ -130,39 +135,40 @@ itemsfile version 3
  0
 0
 
- itm_practice_throwing_daggers Javelins Javelins 2  javelin 0  javelin_carry 3458764513820540928  71303178 36507484160 200 4398046781450 1.000000 100 0 0 99 0 0 90 28 65 4 280 0
+ itm_practice_throwing_daggers Javelins Javelins 2  javelin 0  javelin_carry 3458764513820540928  4194314 36507484160 200 4398046781450 1.000000 100 0 0 99 0 0 90 28 65 4 280 0
  0
 0
 
- itm_practice_throwing_daggers_100_amount Javelins Javelins 2  javelin 0  javelin_carry 3458764513820540928  71303178 36507484160 200 4398046781450 1.000000 100 0 0 99 0 0 90 28 65 100 280 0
+ itm_practice_throwing_daggers_100_amount Javelins Javelins 2  javelin 0  javelin_carry 3458764513820540928  4194314 36507484160 200 4398046781450 1.000000 100 0 0 99 0 0 90 28 65 100 280 0
  0
 0
 
- itm_practice_horse Saddle_Pony Saddle_Pony 2  Horse_01 0  Horse_01 120259346432  1 0 1700 119185342464 0.000000 50 0 10 0 0 70 36 40 91 0 12 0
+ itm_practice_horse Frankish_Stallion Frankish_Stallion 2  pale_horse 0  pale_horse 120259346432  65537 0 9300 120259346432 0.000000 10 0 18 0 4 140 38 48 98 0 24 0
+ 1
+ 19
+0
+
+ itm_practice_arrows Arrows Arrows 3  arrow 0  flying_arrow 2305843009213693952  quiver3 3458764513820540928  32773 2952790016 100 4398046511112 1.000000 110 0 0 0 0 0 0 0 95 40 1 0
  0
 0
 
- itm_practice_arrows Arrows Arrows 3  arrow 0  flying_arrow 2305843009213693952  quiver3 3458764513820540928  32773 2952790016 100 4398046511112 1.000000 110 0 0 0 0 0 0 0 95 40 257 0
+ itm_practice_bolts Sling_Rocks Sling_Rocks 2  throwing_stone 0  throwing_stone 2305843009213693952  18 0 50 4398046511112 1.500000 100 0 0 0 0 0 0 0 3 40 514 0
  0
 0
 
- itm_practice_bolts Sling_Rocks Sling_Rocks 2  throwing_stone 0  throwing_stone 2305843009213693952  18 0 50 4398046511112 0.500000 100 0 0 0 0 0 0 0 3 50 514 0
+ itm_practice_arrows_10_amount Arrows Arrows 3  arrow 0  flying_arrow 2305843009213693952  quiver3 3458764513820540928  32773 2952790016 100 4398046511112 2.000000 110 0 0 0 0 0 0 0 95 40 1 0
  0
 0
 
- itm_practice_arrows_10_amount Arrows Arrows 3  arrow 0  flying_arrow 2305843009213693952  quiver3 3458764513820540928  32773 2952790016 100 4398046511112 2.000000 110 0 0 0 0 0 0 0 95 40 257 0
+ itm_practice_arrows_100_amount Arrows Arrows 3  arrow 0  flying_arrow 2305843009213693952  quiver3 3458764513820540928  32773 2952790016 100 4398046511112 3.000000 110 0 0 0 0 0 0 0 95 40 1 0
  0
 0
 
- itm_practice_arrows_100_amount Arrows Arrows 3  arrow 0  flying_arrow 2305843009213693952  quiver3 3458764513820540928  32773 2952790016 100 4398046511112 3.000000 110 0 0 0 0 0 0 0 95 40 257 0
+ itm_practice_bolts_9_amount Practice_Bolts Practice_Bolts 4  bolt 0  flying_bolt 2305843009213693952  boltQuiver1 3458764513820540928  boltQuiver1 3458768911867052032  16809990 2952790016 164 4398046511112 2.000000 100 0 0 0 0 0 0 0 63 20 2 0
  0
 0
 
- itm_practice_bolts_9_amount Practice_Bolts Practice_Bolts 4  bolt 0  flying_bolt 2305843009213693952  boltQuiver1 3458764513820540928  boltQuiver1 3458768911867052032  16809990 2952790016 164 4398046511112 2.000000 100 0 0 0 0 0 0 0 63 20 258 0
- 0
-0
-
- itm_practice_boots Boots Boots 1  Trouser01 0  536874766 0 190 56623232 1.000000 100 0 0 19 0 0 0 0 0 0 0 0
+ itm_practice_boots Boots Boots 1  Trouser01 0  536874766 0 190 56623232 1.000000 100 0 0 9 0 0 0 0 0 0 0 0
  0
 0
 
@@ -370,34 +376,34 @@ itemsfile version 3
  0
 0
 
- itm_mead Mead Mead 1  vc_Mead 0  34144267 0 350 0 50.000000 100 50 0 0 0 0 0 0 0 40 0 0
+ itm_mead Mead Mead 1  vc_Mead 0  34144267 0 350 0 95.000000 100 50 0 0 0 0 0 0 0 40 0 0
  0
 0
 
- itm_salt Salt Salt 1  vc_salt 0  65547 0 305 0 50.000000 120 0 0 0 0 0 0 0 0 0 0 0
+ itm_salt Salt Salt 1  vc_salt 0  65547 0 305 0 100.000000 120 0 0 0 0 0 0 0 0 0 0 0
  1
  19
 0
 
- itm_tar Tar Tar 1  vc_tar 0  65547 0 380 0 50.000000 90 0 0 0 0 0 0 0 0 0 0 0
+ itm_tar Tar Tar 1  vc_tar 0  65547 0 380 0 90.000000 90 0 0 0 0 0 0 0 0 0 0 0
  1
  17
 0
 
- itm_jewelry Jewellery Jewellery 1  vc_jewelry 0  33619979 0 1000 0 5.000000 100 0 0 0 0 0 0 0 0 100 0 0
+ itm_jewelry Jewellery Jewellery 1  vc_jewelry 0  33619979 0 1000 0 3.000000 100 0 0 0 0 0 0 0 0 100 0 0
  1
  19
 0
 
- itm_raw_flax Flax_Bundle Flax_Bundle 1  raw_flax 0  65547 0 280 0 40.000000 40 0 0 0 0 0 0 0 0 0 0 0
+ itm_raw_flax Flax_Bundle Flax_Bundle 1  raw_flax 0  65547 0 280 0 75.000000 40 0 0 0 0 0 0 0 0 0 0 0
  0
 0
 
- itm_linen Linen Linen 1  vc_linen 0  65547 0 365 0 40.000000 40 0 0 0 0 0 0 0 0 0 0 0
+ itm_linen Linen Linen 1  vc_linen 0  65547 0 365 0 70.000000 40 0 0 0 0 0 0 0 0 0 0 0
  0
 0
 
- itm_wool Wool Wool 1  vc_wool 0  65547 0 230 0 40.000000 90 0 0 0 0 0 0 0 0 0 0 0
+ itm_wool Wool Wool 1  vc_wool 0  65547 0 230 0 80.000000 90 0 0 0 0 0 0 0 0 0 0 0
  0
 0
 
@@ -416,15 +422,15 @@ itemsfile version 3
  17
 0
 
- itm_silver Silver Silver 1  vc_silver 0  65547 0 725 0 7.000000 100 0 0 0 0 0 0 0 0 0 0 0
+ itm_silver Silver Silver 1  vc_silver 0  65547 0 725 0 4.000000 100 0 0 0 0 0 0 0 0 0 0 0
  0
 0
 
- itm_iron Iron Iron 1  vc_silver 0  65547 0 304 0 60.000000 50 0 0 0 0 0 0 0 0 0 0 0
+ itm_iron Iron Iron 1  vc_silver 0  65547 0 304 0 85.000000 50 0 0 0 0 0 0 0 0 0 0 0
  0
 0
 
- itm_stone Stone Stone 1  vc_silver 0  65547 0 104 0 60.000000 30 0 0 0 0 0 0 0 0 0 0 0
+ itm_stone Stone Stone 1  vc_silver 0  65547 0 104 0 300.000000 30 0 0 0 0 0 0 0 0 0 0 0
  0
 0
 
@@ -432,15 +438,15 @@ itemsfile version 3
  0
 0
 
- itm_vc_raw_leather Hides Hides 1  vc_bearFur 0  65547 0 320 0 40.000000 90 0 0 0 0 0 0 0 0 0 0 0
+ itm_vc_raw_leather Hides Hides 1  vc_bearFur 0  65547 0 320 0 70.000000 90 0 0 0 0 0 0 0 0 0 0 0
  0
 0
 
- itm_timber Timber Timber 1  vc_wood 0  65547 0 300 0 60.000000 90 0 0 0 0 0 0 0 0 0 0 0
+ itm_timber Timber Timber 1  vc_wood 0  65547 0 300 0 180.000000 90 0 0 0 0 0 0 0 0 0 0 0
  0
 0
 
- itm_soapstone Soapstone Soapstone 1  vc_soapastone 0  65547 0 320 0 40.000000 90 0 0 0 0 0 0 0 0 0 0 0
+ itm_soapstone Soapstone Soapstone 1  vc_soapastone 0  65547 0 320 0 50.000000 90 0 0 0 0 0 0 0 0 0 0 0
  0
 0
 
@@ -448,76 +454,76 @@ itemsfile version 3
  0
 0
 
- itm_wine Wine Wine 1  vc_wine 0  34144267 0 780 0 60.000000 100 50 0 0 0 0 0 0 0 40 0 0
+ itm_wine Wine Wine 1  vc_wine 0  34144267 0 780 0 95.000000 100 50 0 0 0 0 0 0 0 40 0 0
  1
  19
 0
 
- itm_ale Ale Ale 1  vc_Ale 0  34144267 0 280 0 60.000000 100 50 0 0 0 0 0 0 0 50 0 0
+ itm_ale Ale Ale 1  vc_Ale 0  34144267 0 280 0 100.000000 100 50 0 0 0 0 0 0 0 50 0 0
  0
 0
 
- itm_smoked_fish Smoked_Fish Smoked_Fish 1  vc_smokedFish 0  34144267 0 90 0 15.000000 110 50 0 0 0 0 0 0 0 150 0 0
+ itm_smoked_fish Smoked_Fish Smoked_Fish 1  vc_smokedFish 0  34144267 0 90 0 30.000000 110 50 0 0 0 0 0 0 0 150 0 0
  0
 0
 
- itm_cheese Cheese Cheese 1  vc_cheese 0  34144267 0 85 0 6.000000 110 50 0 0 0 0 0 0 0 90 0 0
+ itm_cheese Cheese Cheese 1  vc_cheese 0  34144267 0 85 0 12.000000 110 50 0 0 0 0 0 0 0 90 0 0
  0
 0
 
- itm_vc_honey Honey Honey 1  vc_honey 0  34144267 0 220 0 5.000000 110 40 0 0 0 0 0 0 0 90 0 0
+ itm_vc_honey Honey Honey 1  vc_honey 0  34144267 0 220 0 10.000000 110 40 0 0 0 0 0 0 0 90 0 0
  0
 0
 
- itm_sausages Sausages Sausages 1  vc_sausages 0  34144267 0 35 0 10.000000 110 70 0 0 0 0 0 0 0 120 0 0
+ itm_sausages Sausages Sausages 1  vc_sausages 0  34144267 0 35 0 20.000000 110 70 0 0 0 0 0 0 0 120 0 0
  0
 0
 
- itm_cabbages Vegetables Vegetables 1  vc_vegies 0  34144267 0 40 0 15.000000 110 40 0 0 0 0 0 0 0 150 0 0
+ itm_cabbages Vegetables Vegetables 1  vc_vegies 0  34144267 0 40 0 30.000000 110 40 0 0 0 0 0 0 0 150 0 0
  0
 0
 
- itm_dried_meat Dried_Meat Dried_Meat 1  vc_dryMeat 0  34144267 0 150 0 15.000000 100 60 0 0 0 0 0 0 0 150 0 0
+ itm_dried_meat Dried_Meat Dried_Meat 1  vc_dryMeat 0  34144267 0 150 0 30.000000 100 60 0 0 0 0 0 0 0 150 0 0
  0
 0
 
- itm_apples Fruit Fruit 1  vc_fruit 0  34144267 0 40 0 20.000000 110 40 0 0 0 0 0 0 0 150 0 0
+ itm_apples Fruit Fruit 1  vc_fruit 0  34144267 0 40 0 40.000000 110 40 0 0 0 0 0 0 0 150 0 0
  0
 0
 
- itm_barley Barley Barley 1  vc_barley 0  33619979 0 18 0 30.000000 60 20 0 0 0 0 0 0 0 150 0 0
+ itm_barley Barley Barley 1  vc_barley 0  33619979 0 18 0 60.000000 60 20 0 0 0 0 0 0 0 150 0 0
  0
 0
 
- itm_venison Boar_Meat Boar_Meat 1  vc_huntedMeat 0  34144267 0 110 0 20.000000 100 70 0 0 0 0 0 0 0 120 0 0
+ itm_venison Boar_Meat Boar_Meat 1  vc_huntedMeat 0  34144267 0 110 0 40.000000 100 70 0 0 0 0 0 0 0 120 0 0
  0
 0
 
- itm_grain Wheat Wheat 1  vc_Wheat 0  33619979 0 20 0 30.000000 110 30 0 0 0 0 0 0 0 150 0 0
+ itm_grain Wheat Wheat 1  vc_Wheat 0  33619979 0 20 0 60.000000 110 30 0 0 0 0 0 0 0 150 0 0
  0
 0
 
- itm_cattle_meat Beef Beef 1  vc_beef 0  34144267 0 120 0 20.000000 100 80 0 0 0 0 0 0 0 150 0 0
+ itm_cattle_meat Beef Beef 1  vc_beef 0  34144267 0 120 0 40.000000 100 80 0 0 0 0 0 0 0 150 0 0
  0
 0
 
- itm_bread Bread Bread 1  vc_bread 0  34144267 0 25 0 15.000000 110 40 0 0 0 0 0 0 0 150 0 0
+ itm_bread Bread Bread 1  vc_bread 0  34144267 0 25 0 40.000000 110 40 0 0 0 0 0 0 0 150 0 0
  0
 0
 
- itm_chicken Chicken Chicken 1  vc_chicken 0  34144267 0 65 0 10.000000 110 40 0 0 0 0 0 0 0 150 0 0
+ itm_chicken Chicken Chicken 1  vc_chicken 0  34144267 0 65 0 20.000000 110 40 0 0 0 0 0 0 0 150 0 0
  0
 0
 
- itm_pork Pork Pork 1  vc_pork 0  34144267 0 89 0 15.000000 100 70 0 0 0 0 0 0 0 150 0 0
+ itm_pork Pork Pork 1  vc_pork 0  34144267 0 89 0 30.000000 100 70 0 0 0 0 0 0 0 150 0 0
  0
 0
 
- itm_butter Butter Butter 1  vc_butter 0  34144267 0 100 0 6.000000 110 40 0 0 0 0 0 0 0 90 0 0
+ itm_butter Butter Butter 1  vc_butter 0  34144267 0 100 0 12.000000 110 40 0 0 0 0 0 0 0 90 0 0
  0
 0
 
- itm_siege_supply Supplies Supplies 1  ale_barrel 0  11 0 96 0 40.000000 70 0 0 0 0 0 0 0 0 0 0 0
+ itm_siege_supply Supplies Supplies 1  ale_barrel 0  11 0 96 0 80.000000 70 0 0 0 0 0 0 0 0 0 0 0
  0
 0
 
@@ -529,47 +535,47 @@ itemsfile version 3
  0
 0
 
- itm_common_horse Horse Horse 2  Horse_01 0  Horse_01 120259346432  65537 0 6300 120259346432 0.000000 10 0 16 0 2 100 40 50 97 0 18 0
+ itm_common_horse Horse Horse 2  Horse_01 0  Horse_01 120259346432  65537 0 4100 120259346432 0.000000 10 0 16 0 2 100 40 50 92 0 18 0
  0
 0
 
- itm_common_horse2 Horse Horse 2  Horse_02 0  Horse_02 120259346432  65537 0 6300 120259346432 0.000000 10 0 16 0 2 100 40 50 97 0 18 0
+ itm_common_horse2 Horse Horse 2  Horse_02 0  Horse_02 120259346432  65537 0 4100 120259346432 0.000000 10 0 16 0 2 100 40 50 92 0 18 0
  0
 0
 
- itm_common_pony Pony Pony 2  Pony_01 0  Pony_01 119185342464  65537 0 3700 119185342464 0.000000 30 0 10 0 1 90 36 43 91 0 12 0
+ itm_common_pony Pony Pony 2  Pony_01 0  Pony_01 119185342464  65537 0 1630 119185342464 0.000000 30 0 10 0 1 90 44 43 86 0 12 0
  0
 0
 
- itm_common_pony2 Pony Pony 2  Pony_02 0  Pony_02 119185342464  65537 0 3700 119185342464 0.000000 30 0 10 0 1 90 36 43 91 0 12 0
+ itm_common_pony2 Pony Pony 2  Pony_02 0  Pony_02 119185342464  65537 0 1630 119185342464 0.000000 30 0 10 0 1 90 44 43 86 0 12 0
  0
 0
 
- itm_wild_horse Horse Horse 2  Wild_Horse_01 0  Wild_Horse_01 120259346432  65537 0 6300 120259346432 0.000000 10 0 16 0 2 100 40 50 97 0 18 0
+ itm_wild_horse Horse Horse 2  Wild_Horse_01 0  Wild_Horse_01 120259346432  65537 0 2900 120259346432 0.000000 10 0 16 0 4 100 35 51 92 0 12 0
  1
  35
 0
 
- itm_wild_horse2 Horse Horse 2  Wild_Horse_02 0  Wild_Horse_02 120259346432  65537 0 6300 120259346432 0.000000 10 0 16 0 2 100 40 50 97 0 18 0
+ itm_wild_horse2 Horse Horse 2  Wild_Horse_02 0  Wild_Horse_02 120259346432  65537 0 2900 120259346432 0.000000 10 0 16 0 4 100 35 51 92 0 12 0
  1
  35
 0
 
- itm_wild_pony Pony Pony 2  Wild_Pony_01 0  Wild_Pony_01 119185342464  65537 0 3600 119185342464 0.000000 30 0 10 0 1 95 31 43 90 0 12 0
+ itm_wild_pony Rus_Mount Rus_Mount 2  brown_pony 0  brown_pony 120259346432  65537 0 9900 120259346432 0.000000 10 0 28 0 3 120 44 46 88 0 20 0
  1
- 35
+ 16
 0
 
- itm_wild_pony2 Pony Pony 2  Wild_Pony_02 0  Wild_Pony_02 119185342464  65537 0 3600 119185342464 0.000000 30 0 10 0 1 95 31 43 90 0 12 0
+ itm_wild_pony2 Rus_Mount Rus_Mount 2  grey_pony 0  grey_pony 120259346432  65537 0 9900 120259346432 0.000000 10 0 28 0 3 120 44 46 88 0 20 0
  1
- 35
+ 16
 0
 
- itm_cow1 Cow Cow 1  cow_1 0  0 0 1200 119185342464 0.000000 40 0 6 0 0 60 26 18 96 0 12 0
+ itm_cow1 Cow Cow 1  cow_1 0  0 0 1200 119185342464 0.000000 40 0 6 0 0 60 26 18 91 0 12 0
  0
 0
 
- itm_cow2 Cow Cow 1  cow_2 0  0 0 1200 119185342464 0.000000 40 0 6 0 0 60 26 18 96 0 12 0
+ itm_cow2 Cow Cow 1  cow_2 0  0 0 1200 119185342464 0.000000 40 0 6 0 0 60 26 18 91 0 12 0
  0
 0
 
@@ -577,34 +583,34 @@ itemsfile version 3
  0
 0
 
- itm_khergit_arrows Piercing_Arrows Piercing_Arrows 3  arrow2 0  flying_arrow2 2305843009213693952  quiver2 3458764513820540928  5 2952790016 610 4398046511112 1.500000 10 0 0 0 0 0 0 0 95 30 3 0
+ itm_khergit_arrows Piercing_Arrows Piercing_Arrows 3  arrow2 0  flying_arrow2 2305843009213693952  quiver2 3458764513820540928  5 2952790016 910 4398046511112 1.000000 10 0 0 0 0 0 0 0 95 36 6 0
  0
 0
 
- itm_barbed_arrows Barbed_Arrows Barbed_Arrows 3  barbed_arrow 0  flying_barbed_arrow 2305843009213693952  quiver1 3458764513820540928  98309 2952790016 400 4398046511112 1.000000 60 0 0 0 0 0 0 0 95 35 2 0
+ itm_barbed_arrows Barbed_Arrows Barbed_Arrows 3  barbed_arrow 0  flying_barbed_arrow 2305843009213693952  quiver1 3458764513820540928  98309 2952790016 400 4398046511112 1.000000 60 0 0 0 0 0 0 0 95 36 3 0
  0
 0
 
- itm_bodkin_arrows Bodkin_Arrows Bodkin_Arrows 3  bodkin_arrow 0  flying_bodkin_arrow 2305843009213693952  quiver4 3458764513820540928  98309 2952790016 500 4398046511112 1.000000 20 0 0 0 0 0 0 0 95 30 3 0
+ itm_bodkin_arrows Bodkin_Arrows Bodkin_Arrows 3  bodkin_arrow 0  flying_bodkin_arrow 2305843009213693952  quiver4 3458764513820540928  98309 2952790016 750 4398046511112 1.000000 20 0 0 0 0 0 0 0 95 40 4 0
  0
 0
 
- itm_bolts Bolts Bolts 4  bolt 0  flying_bolt 2305843009213693952  boltQuiver1 3458764513820540928  boltQuiver1 3458768911867052032  16875526 2952790016 264 4398046511112 1.000000 100 0 0 0 0 0 0 0 63 40 258 0
+ itm_bolts Bolts Bolts 4  bolt 0  flying_bolt 2305843009213693952  boltQuiver1 3458764513820540928  boltQuiver1 3458768911867052032  16875526 2952790016 264 4398046511112 1.000000 100 0 0 0 0 0 0 0 63 40 2 0
  1
  35
 0
 
- itm_bolts2 Piercing_Bolts Piercing_Bolts 4  bolt2 0  flying_bolt2 2305843009213693952  boltQuiver2 3458764513820540928  boltQuiver2 3458768911867052032  16875526 2952790016 664 4398046511112 1.000000 10 0 0 0 0 0 0 0 63 35 261 0
+ itm_bolts2 Piercing_Bolts Piercing_Bolts 4  bolt2 0  flying_bolt2 2305843009213693952  boltQuiver2 3458764513820540928  boltQuiver2 3458768911867052032  16875526 2952790016 664 4398046511112 1.000000 10 0 0 0 0 0 0 0 63 34 6 0
  1
  35
 0
 
- itm_bolts3 Barbed_Bolts Barbed_Bolts 4  barbed_bolt 0  flying_barbed_bolt 2305843009213693952  boltQuiver3 3458764513820540928  boltQuiver3 3458768911867052032  16875526 2952790016 464 4398046511112 1.000000 60 0 0 0 0 0 0 0 63 38 260 0
+ itm_bolts3 Barbed_Bolts Barbed_Bolts 4  barbed_bolt 0  flying_barbed_bolt 2305843009213693952  boltQuiver3 3458764513820540928  boltQuiver3 3458768911867052032  16875526 2952790016 464 4398046511112 1.000000 60 0 0 0 0 0 0 0 63 38 3 0
  1
  35
 0
 
- itm_bolts4 Bodkin_Bolts Bodkin_Bolts 4  bodkin_bolt 0  flying_bodkin_bolt 2305843009213693952  boltQuiver4 3458764513820540928  boltQuiver4 3458768911867052032  16875526 2952790016 564 4398046511112 1.000000 10 0 0 0 0 0 0 0 63 35 261 0
+ itm_bolts4 Bodkin_Bolts Bodkin_Bolts 4  bodkin_bolt 0  flying_bodkin_bolt 2305843009213693952  boltQuiver4 3458764513820540928  boltQuiver4 3458768911867052032  16875526 2952790016 564 4398046511112 1.000000 10 0 0 0 0 0 0 0 63 35 5 0
  1
  35
 0
@@ -617,264 +623,264 @@ itemsfile version 3
  0
 0
 
- itm_leather_gloves Leather_Gloves Leather_Gloves 1  leather_gloves_L 0  65551 0 90 123732096 0.250000 50 0 6 0 0 0 0 0 0 0 0 0
+ itm_leather_gloves Leather_Gloves Leather_Gloves 1  leather_gloves_L 0  65551 0 400 6291584 0.250000 50 0 2 0 0 0 0 0 0 0 0 0
  0
 0
 
- itm_carbatinae_1 Leather_Shoes Leather_Shoes 1  Trouser01 0  536940302 0 180 56623232 1.000000 100 0 0 16 0 0 0 0 0 0 0 0
+ itm_carbatinae_1 Leather_Shoes Leather_Shoes 1  Trouser01 0  536940302 0 180 56623232 1.000000 100 0 0 6 0 0 0 0 0 0 0 0
  0
 0
 
- itm_carbatinae_2 Wrapping_Boots Wrapping_Boots 1  Trouser05 0  536940302 0 375 56623232 1.000000 100 0 0 23 0 0 0 0 0 0 0 0
+ itm_carbatinae_2 Wrapping_Boots Wrapping_Boots 1  Trouser05 0  536940302 0 375 56623232 1.000000 100 0 0 13 0 0 0 0 0 0 0 0
  0
 0
 
- itm_carbatinae_3 Leather_Shoes Leather_Shoes 1  Trouser08 0  536940302 0 180 56623232 1.000000 100 0 0 16 0 0 0 0 0 0 0 0
+ itm_carbatinae_3 Leather_Shoes Leather_Shoes 1  Trouser08 0  536940302 0 180 56623232 1.000000 100 0 0 6 0 0 0 0 0 0 0 0
  0
 0
 
- itm_carbatinae_4 Leather_Shoes Leather_Shoes 1  Trouser11 0  536940302 0 170 56623232 1.000000 100 0 0 16 0 0 0 0 0 0 0 0
+ itm_carbatinae_4 Leather_Shoes Leather_Shoes 1  Trouser11 0  536940302 0 170 56623232 1.000000 100 0 0 6 0 0 0 0 0 0 0 0
  0
 0
 
- itm_carbatinae_5 Wrapping_Boots Wrapping_Boots 1  Trouser15 0  536940302 0 365 56623232 1.000000 100 0 0 23 0 0 0 0 0 0 0 0
+ itm_carbatinae_5 Wrapping_Boots Wrapping_Boots 1  Trouser15 0  536940302 0 365 56623232 1.000000 100 0 0 13 0 0 0 0 0 0 0 0
  0
 0
 
- itm_carbatinae_6 Leather_Shoes Leather_Shoes 1  Trouser21 0  536940302 0 190 56623232 1.000000 100 0 0 16 0 0 0 0 0 0 0 0
+ itm_carbatinae_6 Leather_Shoes Leather_Shoes 1  Trouser21 0  536940302 0 190 56623232 1.000000 100 0 0 6 0 0 0 0 0 0 0 0
  0
 0
 
- itm_carbatinae_7 Wrapping_Boots Wrapping_Boots 1  Trouser25 0  536940302 0 385 56623232 1.000000 100 0 0 23 0 0 0 0 0 0 0 0
+ itm_carbatinae_7 Wrapping_Boots Wrapping_Boots 1  Trouser25 0  536940302 0 385 56623232 1.000000 100 0 0 13 0 0 0 0 0 0 0 0
  0
 0
 
- itm_carbatinae_8 Leather_Shoes Leather_Shoes 1  Trouser31 0  536940302 0 165 56623232 1.000000 100 0 0 16 0 0 0 0 0 0 0 0
+ itm_carbatinae_8 Leather_Shoes Leather_Shoes 1  Trouser31 0  536940302 0 165 56623232 1.000000 100 0 0 6 0 0 0 0 0 0 0 0
  0
 0
 
- itm_carbatinae_9 Wrapping_Boots Wrapping_Boots 1  Trouser35 0  536940302 0 355 56623232 1.000000 100 0 0 23 0 0 0 0 0 0 0 0
+ itm_carbatinae_9 Wrapping_Boots Wrapping_Boots 1  Trouser35 0  536940302 0 355 56623232 1.000000 100 0 0 13 0 0 0 0 0 0 0 0
  0
 0
 
- itm_carbatinae_10 Leather_Shoes Leather_Shoes 1  Trouser38 0  536940302 0 160 56623232 1.000000 100 0 0 16 0 0 0 0 0 0 0 0
+ itm_carbatinae_10 Leather_Shoes Leather_Shoes 1  Trouser38 0  536940302 0 160 56623232 1.000000 100 0 0 6 0 0 0 0 0 0 0 0
  0
 0
 
- itm_carbatinae_vc1 Ankle_Boots Ankle_Boots 1  Trouser02 0  536940302 0 220 56623232 1.000000 100 0 0 19 0 0 0 0 0 0 0 0
+ itm_carbatinae_vc1 Ankle_Boots Ankle_Boots 1  Trouser02 0  536940302 0 220 56623232 1.000000 100 0 0 9 0 0 0 0 0 0 0 0
  0
 0
 
- itm_carbatinae_vc2 Ankle_Boots Ankle_Boots 1  Trouser12 0  536940302 0 210 56623232 1.000000 100 0 0 19 0 0 0 0 0 0 0 0
+ itm_carbatinae_vc2 Ankle_Boots Ankle_Boots 1  Trouser12 0  536940302 0 210 56623232 1.000000 100 0 0 9 0 0 0 0 0 0 0 0
  0
 0
 
- itm_carbatinae_vc3 Ankle_Boots Ankle_Boots 1  Trouser14 0  536940302 0 210 56623232 1.000000 100 0 0 19 0 0 0 0 0 0 0 0
+ itm_carbatinae_vc3 Ankle_Boots Ankle_Boots 1  Trouser14 0  536940302 0 210 56623232 1.000000 100 0 0 9 0 0 0 0 0 0 0 0
  0
 0
 
- itm_carbatinae_vc4 Quality_Wrapping_Boots Quality_Wrapping_Boots 1  Trouser20 0  536940302 0 445 56623232 1.000000 100 0 0 24 0 0 0 0 0 0 0 0
+ itm_carbatinae_vc4 Quality_Wrapping_Boots Quality_Wrapping_Boots 1  Trouser20 0  536940302 0 445 56623232 1.000000 100 0 0 14 0 0 0 0 0 0 0 0
  0
 0
 
- itm_carbatinae_vc5 Ankle_Boots Ankle_Boots 1  Trouser22 0  536940302 0 230 56623232 1.000000 100 0 0 19 0 0 0 0 0 0 0 0
+ itm_carbatinae_vc5 Ankle_Boots Ankle_Boots 1  Trouser22 0  536940302 0 230 56623232 1.000000 100 0 0 9 0 0 0 0 0 0 0 0
  0
 0
 
- itm_carbatinae_vc6 Ankle_Boots Ankle_Boots 1  Trouser32 0  536940302 0 190 56623232 1.000000 100 0 0 19 0 0 0 0 0 0 0 0
+ itm_carbatinae_vc6 Ankle_Boots Ankle_Boots 1  Trouser32 0  536940302 0 190 56623232 1.000000 100 0 0 9 0 0 0 0 0 0 0 0
  0
 0
 
- itm_carbatinae_1s Leather_Shoes Leather_Shoes 1  Trouser03 0  536940302 0 180 56623232 2.000000 40 0 0 16 0 0 0 0 0 0 0 0
+ itm_carbatinae_1s Leather_Shoes Leather_Shoes 1  Trouser03 0  536940302 0 180 56623232 2.000000 40 0 0 6 0 0 0 0 0 0 0 0
  10
  19 20 21 22 23 24 25 26 27 28
 0
 
- itm_carbatinae_2s Wrapping_Boots Wrapping_Boots 1  Trouser07 0  536940302 0 375 56623232 2.000000 40 0 0 23 0 0 0 0 0 0 0 0
+ itm_carbatinae_2s Wrapping_Boots Wrapping_Boots 1  Trouser07 0  536940302 0 375 56623232 2.000000 40 0 0 13 0 0 0 0 0 0 0 0
  10
  19 20 21 22 23 24 25 26 27 28
 0
 
- itm_carbatinae_3s Wrapping_Boots Wrapping_Boots 1  Trouser16 0  536940302 0 365 56623232 2.000000 40 0 0 23 0 0 0 0 0 0 0 0
+ itm_carbatinae_3s Wrapping_Boots Wrapping_Boots 1  Trouser16 0  536940302 0 365 56623232 2.000000 40 0 0 13 0 0 0 0 0 0 0 0
  10
  19 20 21 22 23 24 25 26 27 28
 0
 
- itm_carbatinae_4s Rawhide_Shoes Rawhide_Shoes 1  Trouser23 0  536940302 0 195 56623232 2.000000 40 0 0 17 0 0 0 0 0 0 0 0
+ itm_carbatinae_4s Rawhide_Shoes Rawhide_Shoes 1  Trouser23 0  536940302 0 195 56623232 2.000000 40 0 0 7 0 0 0 0 0 0 0 0
  10
  19 20 21 22 23 24 25 26 27 28
 0
 
- itm_carbatinae_5s Rawhide_Shoes Rawhide_Shoes 1  Trouser33 0  536940302 0 175 56623232 2.000000 40 0 0 17 0 0 0 0 0 0 0 0
+ itm_carbatinae_5s Rawhide_Shoes Rawhide_Shoes 1  Trouser33 0  536940302 0 175 56623232 2.000000 40 0 0 7 0 0 0 0 0 0 0 0
  10
  19 20 21 22 23 24 25 26 27 28
 0
 
- itm_carbatinae_6s Ankle_Boots Ankle_Boots 1  Trouser36 0  536940302 0 190 56623232 2.000000 40 0 0 20 0 0 0 0 0 0 0 0
+ itm_carbatinae_6s Ankle_Boots Ankle_Boots 1  Trouser36 0  536940302 0 190 56623232 2.000000 40 0 0 10 0 0 0 0 0 0 0 0
  10
  19 20 21 22 23 24 25 26 27 28
 0
 
- itm_carbatinae_vc1s Quality_Wrapping_Boots Quality_Wrapping_Boots 1  Trouser27 0  536940302 0 475 56623232 1.500000 40 0 0 25 0 0 0 0 0 0 0 0
+ itm_carbatinae_vc1s Quality_Wrapping_Boots Quality_Wrapping_Boots 1  Trouser27 0  536940302 0 475 56623232 1.500000 40 0 0 15 0 0 0 0 0 0 0 0
  10
  19 20 21 22 23 24 25 26 27 28
 0
 
- itm_carbatinae_vc2s Ankle_Boots Ankle_Boots 1  Trouser34 0  536940302 0 190 56623232 1.500000 40 0 0 20 0 0 0 0 0 0 0 0
+ itm_carbatinae_vc2s Ankle_Boots Ankle_Boots 1  Trouser34 0  536940302 0 190 56623232 1.500000 40 0 0 10 0 0 0 0 0 0 0 0
  10
  19 20 21 22 23 24 25 26 27 28
 0
 
- itm_carbatinae_vc3s Quality_Wrapping_Boots Quality_Wrapping_Boots 1  Trouser37 0  536940302 0 425 56623232 1.500000 40 0 0 25 0 0 0 0 0 0 0 0
+ itm_carbatinae_vc3s Quality_Wrapping_Boots Quality_Wrapping_Boots 1  Trouser37 0  536940302 0 425 56623232 1.500000 40 0 0 15 0 0 0 0 0 0 0 0
  10
  19 20 21 22 23 24 25 26 27 28
 0
 
- itm_carbatinae_vc4s Wrapping_Boots Wrapping_Boots 1  Trouser40 0  536940302 0 345 56623232 1.500000 40 0 0 23 0 0 0 0 0 0 0 0
+ itm_carbatinae_vc4s Wrapping_Boots Wrapping_Boots 1  Trouser40 0  536940302 0 345 56623232 1.500000 40 0 0 13 0 0 0 0 0 0 0 0
  10
  19 20 21 22 23 24 25 26 27 28
 0
 
- itm_carbatinae_1v Ankle_Boots Ankle_Boots 1  Trouser04 0  536940302 0 220 56623232 2.000000 40 0 0 20 0 0 0 0 0 0 0 0
+ itm_carbatinae_1v Ankle_Boots Ankle_Boots 1  Trouser04 0  536940302 0 220 56623232 2.000000 40 0 0 10 0 0 0 0 0 0 0 0
  5
  16 17 18 19 23
 0
 
- itm_carbatinae_2v Wrapping_Boots Wrapping_Boots 1  Trouser06 0  536940302 0 375 56623232 2.000000 40 0 0 23 0 0 0 0 0 0 0 0
+ itm_carbatinae_2v Wrapping_Boots Wrapping_Boots 1  Trouser06 0  536940302 0 375 56623232 2.000000 40 0 0 13 0 0 0 0 0 0 0 0
  5
  16 17 18 19 23
 0
 
- itm_carbatinae_3v Wrapping_Boots Wrapping_Boots 1  Trouser10 0  536940302 0 375 56623232 2.000000 40 0 0 23 0 0 0 0 0 0 0 0
+ itm_carbatinae_3v Wrapping_Boots Wrapping_Boots 1  Trouser10 0  536940302 0 375 56623232 2.000000 40 0 0 13 0 0 0 0 0 0 0 0
  5
  16 17 18 19 23
 0
 
- itm_carbatinae_4v Quality_Wrapping_Boots Quality_Wrapping_Boots 1  Trouser17 0  536940302 0 445 56623232 2.000000 40 0 0 25 0 0 0 0 0 0 0 0
+ itm_carbatinae_4v Quality_Wrapping_Boots Quality_Wrapping_Boots 1  Trouser17 0  536940302 0 445 56623232 2.000000 40 0 0 16 0 0 0 0 0 0 0 0
  5
  16 17 18 19 23
 0
 
- itm_carbatinae_5v Rawhide_Shoes Rawhide_Shoes 1  Trouser13 0  536940302 0 180 56623232 2.000000 40 0 0 17 0 0 0 0 0 0 0 0
+ itm_carbatinae_5v Rawhide_Shoes Rawhide_Shoes 1  Trouser13 0  536940302 0 180 56623232 2.000000 40 0 0 7 0 0 0 0 0 0 0 0
  5
  16 17 18 19 23
 0
 
- itm_carbatinae_6v Wrapping_Boots Wrapping_Boots 1  Trouser26 0  536940302 0 385 56623232 2.000000 40 0 0 23 0 0 0 0 0 0 0 0
+ itm_carbatinae_6v Wrapping_Boots Wrapping_Boots 1  Trouser26 0  536940302 0 385 56623232 2.000000 40 0 0 13 0 0 0 0 0 0 0 0
  5
  16 17 18 19 23
 0
 
- itm_carbatinae_vc1v Ankle_Boots Ankle_Boots 1  Trouser24 0  536940302 0 230 56623232 1.500000 40 0 0 20 0 0 0 0 0 0 0 0
+ itm_carbatinae_vc1v Ankle_Boots Ankle_Boots 1  Trouser24 0  536940302 0 230 56623232 1.500000 40 0 0 10 0 0 0 0 0 0 0 0
  5
  16 17 18 19 23
 0
 
- itm_carbatinae_vc2v Quality_Wrapping_Boots Quality_Wrapping_Boots 1  Trouser30 0  536940302 0 475 56623232 1.500000 40 0 0 25 0 0 0 0 0 0 0 0
+ itm_carbatinae_vc2v Quality_Wrapping_Boots Quality_Wrapping_Boots 1  Trouser30 0  536940302 0 475 56623232 1.500000 40 0 0 15 0 0 0 0 0 0 0 0
  5
  16 17 18 19 23
 0
 
- itm_carbatinae_11q Leather_Shoes Leather_Shoes 1  Trouser18 0  536940302 0 170 56623232 2.000000 20 0 0 16 0 0 0 0 0 0 0 0
+ itm_carbatinae_11q Leather_Shoes Leather_Shoes 1  Trouser18 0  536940302 0 170 56623232 2.000000 20 0 0 6 0 0 0 0 0 0 0 0
  0
 0
 
- itm_carbatinae_12q Leather_Shoes Leather_Shoes 1  Trouser28 0  536940302 0 190 56623232 2.000000 20 0 0 16 0 0 0 0 0 0 0 0
+ itm_carbatinae_12q Leather_Shoes Leather_Shoes 1  Trouser28 0  536940302 0 190 56623232 2.000000 20 0 0 6 0 0 0 0 0 0 0 0
  0
 0
 
- itm_carbatinae_11qs Quality_Wrapping_Boots Quality_Wrapping_Boots 1  Trouser09 0  536940302 0 465 56623232 2.000000 20 0 0 25 0 0 0 0 0 0 0 0
+ itm_carbatinae_11qs Quality_Wrapping_Boots Quality_Wrapping_Boots 1  Trouser09 0  536940302 0 465 56623232 2.000000 20 0 0 16 0 0 0 0 0 0 0 0
  10
  19 20 21 22 23 24 25 26 27 28
 0
 
- itm_carbatinae_12qs Quality_Wrapping_Boots Quality_Wrapping_Boots 1  Trouser29 0  536940302 0 475 56623232 2.000000 20 0 0 25 0 0 0 0 0 0 0 0
+ itm_carbatinae_12qs Quality_Wrapping_Boots Quality_Wrapping_Boots 1  Trouser29 0  536940302 0 475 56623232 2.000000 20 0 0 16 0 0 0 0 0 0 0 0
  10
  19 20 21 22 23 24 25 26 27 28
 0
 
- itm_carbatinae_13qs Quality_Wrapping_Boots Quality_Wrapping_Boots 1  Trouser39 0  536940302 0 425 56623232 2.000000 20 0 0 25 0 0 0 0 0 0 0 0
+ itm_carbatinae_13qs Quality_Wrapping_Boots Quality_Wrapping_Boots 1  Trouser39 0  536940302 0 425 56623232 2.000000 20 0 0 16 0 0 0 0 0 0 0 0
  10
  19 20 21 22 23 24 25 26 27 28
 0
 
- itm_carbatinae_14qs Quality_Wrapping_Boots Quality_Wrapping_Boots 1  Trouser40 0  536940302 0 405 56623232 1.500000 20 0 0 25 0 0 0 0 0 0 0 0
+ itm_carbatinae_14qs Quality_Wrapping_Boots Quality_Wrapping_Boots 1  Trouser40 0  536940302 0 405 56623232 1.500000 20 0 0 15 0 0 0 0 0 0 0 0
  10
  19 20 21 22 23 24 25 26 27 28
 0
 
- itm_carbatinae_14qv Quality_Wrapping_Boots Quality_Wrapping_Boots 1  Trouser19 0  536940302 0 445 56623232 2.000000 20 0 0 25 0 0 0 0 0 0 0 0
+ itm_carbatinae_14qv Quality_Wrapping_Boots Quality_Wrapping_Boots 1  Trouser19 0  536940302 0 445 56623232 2.000000 20 0 0 16 0 0 0 0 0 0 0 0
  0
 0
 
- itm_bare_foot_man Cheap_Shoes Cheap_Shoes 1  Legs08 0  536940302 0 125 56623232 0.500000 50 0 0 13 0 0 0 0 0 0 0 0
+ itm_bare_foot_man Cheap_Shoes Cheap_Shoes 1  Legs08 0  536940302 0 125 56623232 0.500000 50 0 0 3 0 0 0 0 0 0 0 0
  0
 0
 
- itm_just_man_boots_medium Rawhide_Shoes Rawhide_Shoes 1  Legs03 0  536940302 0 165 56623232 0.500000 100 0 0 15 0 0 0 0 0 0 0 0
+ itm_just_man_boots_medium Rawhide_Shoes Rawhide_Shoes 1  Legs03 0  536940302 0 165 56623232 0.500000 100 0 0 5 0 0 0 0 0 0 0 0
  8
  29 30 31 32 33 34 35 36
 0
 
- itm_just_man_boots_light Light_Ankle_Boots Light_Ankle_Boots 1  Legs04 0  536940302 0 150 56623232 0.500000 100 0 0 18 0 0 0 0 0 0 0 0
+ itm_just_man_boots_light Light_Ankle_Boots Light_Ankle_Boots 1  Legs04 0  536940302 0 150 56623232 0.500000 100 0 0 8 0 0 0 0 0 0 0 0
  8
  29 30 31 32 33 34 35 36
 0
 
- itm_just_man_shoes Leather_Shoes Leather_Shoes 1  Legs01 0  536940302 0 150 56623232 0.500000 80 0 0 15 0 0 0 0 0 0 0 0
+ itm_just_man_shoes Leather_Shoes Leather_Shoes 1  Legs01 0  536940302 0 150 56623232 0.500000 80 0 0 5 0 0 0 0 0 0 0 0
  8
  29 30 31 32 33 34 35 36
 0
 
- itm_just_man_boots_dark Light_Ankle_Boots Light_Ankle_Boots 1  Legs02 0  536940302 0 265 56623232 0.500000 80 0 0 18 0 0 0 0 0 0 0 0
+ itm_just_man_boots_dark Light_Ankle_Boots Light_Ankle_Boots 1  Legs02 0  536940302 0 265 56623232 0.500000 80 0 0 8 0 0 0 0 0 0 0 0
  8
  29 30 31 32 33 34 35 36
 0
 
- itm_gaelshoes_1 Goidelic_Shoes Goidelic_Shoes 1  GaelicTrouser01 0  536940302 0 150 56623232 1.500000 100 0 0 15 0 0 0 0 0 0 0 0
+ itm_gaelshoes_1 Goidelic_Shoes Goidelic_Shoes 1  GaelicTrouser01 0  536940302 0 150 56623232 1.500000 100 0 0 5 0 0 0 0 0 0 0 0
  8
  29 30 31 32 33 34 35 36
 0
 
- itm_gaelshoes_2 Goidelic_Shoes Goidelic_Shoes 1  GaelicTrouser02 0  536940302 0 150 56623232 1.500000 100 0 0 15 0 0 0 0 0 0 0 0
+ itm_gaelshoes_2 Goidelic_Shoes Goidelic_Shoes 1  GaelicTrouser02 0  536940302 0 150 56623232 1.500000 100 0 0 5 0 0 0 0 0 0 0 0
  8
  29 30 31 32 33 34 35 36
 0
 
- itm_gaelshoes_3 Goidelic_Boots Goidelic_Boots 1  Legs06 0  536940302 0 300 56623232 1.500000 100 0 0 19 0 0 0 0 0 0 0 0
+ itm_gaelshoes_3 Goidelic_Boots Goidelic_Boots 1  Legs06 0  536940302 0 300 56623232 1.500000 100 0 0 9 0 0 0 0 0 0 0 0
  8
  29 30 31 32 33 34 35 36
 0
 
- itm_womenshoes_1 Simple_Shoes Simple_Shoes 1  Legs_female01 0  536874766 0 150 56623232 1.000000 100 0 0 15 0 0 0 0 0 0 0 0
+ itm_womenshoes_1 Simple_Shoes Simple_Shoes 1  Legs_female01 0  536874766 0 150 56623232 1.000000 100 0 0 5 0 0 0 0 0 0 0 0
  0
 0
 
- itm_womenshoes_2 Simple_Ankle_Boots Simple_Ankle_Boots 1  Legs_female02 0  536874766 0 300 56623232 1.000000 100 0 0 18 0 0 0 0 0 0 0 0
+ itm_womenshoes_2 Simple_Ankle_Boots Simple_Ankle_Boots 1  Legs_female02 0  536874766 0 300 56623232 1.000000 100 0 0 8 0 0 0 0 0 0 0 0
  0
 0
 
- itm_womenshoes_3 Simple_Shoes Simple_Shoes 1  Legs_female03 0  536874766 0 150 56623232 1.000000 100 0 0 15 0 0 0 0 0 0 0 0
+ itm_womenshoes_3 Simple_Shoes Simple_Shoes 1  Legs_female03 0  536874766 0 150 56623232 1.000000 100 0 0 5 0 0 0 0 0 0 0 0
  0
 0
 
- itm_womenshoes_4 Simple_Ankle_Boots Simple_Ankle_Boots 1  Legs_female04 0  536874766 0 300 56623232 1.000000 100 0 0 18 0 0 0 0 0 0 0 0
+ itm_womenshoes_4 Simple_Ankle_Boots Simple_Ankle_Boots 1  Legs_female04 0  536874766 0 300 56623232 1.000000 100 0 0 8 0 0 0 0 0 0 0 0
  0
 0
 
- itm_womenshoes_5 Simple_Boots Simple_Boots 1  Legs_female05 0  536874766 0 300 56623232 1.000000 20 0 0 22 0 0 0 0 0 0 0 0
+ itm_womenshoes_5 Simple_Boots Simple_Boots 1  Legs_female05 0  536874766 0 300 56623232 1.000000 20 0 0 12 0 0 0 0 0 0 0 0
  0
 0
 
- itm_womenshoes_6 Simple_Ankle_Boots Simple_Ankle_Boots 1  Legs_female_gael01 0  536874766 0 300 56623232 1.000000 100 0 0 18 0 0 0 0 0 0 0 0
+ itm_womenshoes_6 Simple_Ankle_Boots Simple_Ankle_Boots 1  Legs_female_gael01 0  536874766 0 300 56623232 1.000000 100 0 0 8 0 0 0 0 0 0 0 0
  0
 0
 
- itm_womenshoes_7 Simple_Shoes Simple_Shoes 1  Legs_female_gael02 0  536874766 0 150 56623232 1.000000 100 0 0 15 0 0 0 0 0 0 0 0
+ itm_womenshoes_7 Simple_Shoes Simple_Shoes 1  Legs_female_gael02 0  536874766 0 150 56623232 1.000000 100 0 0 5 0 0 0 0 0 0 0 0
  0
 0
 
- itm_womenshoes_8 Simple_Shoes Simple_Shoes 1  Legs_female06 0  536874766 0 130 56623232 1.000000 50 0 0 13 0 0 0 0 0 0 0 0
+ itm_womenshoes_8 Simple_Shoes Simple_Shoes 1  Legs_female06 0  536874766 0 130 56623232 1.000000 50 0 0 3 0 0 0 0 0 0 0 0
  0
 0
 
@@ -1076,7 +1082,7 @@ itemsfile version 3
  16 17 18 19 23
 0
 
- itm_btunic_16 Norse_Light_Armor Norse_Light_Armor 1  Tunic_Norse_03B 0  553713677 0 1000 56623232 1.500000 20 0 24 9 0 0 0 0 0 0 0 0
+ itm_btunic_16 Norse_Light_Armor Norse_Light_Armor 1  Tunic_Norse_03B 0  553713677 0 1000 56623232 1.500000 20 0 26 10 0 0 0 0 0 0 0 0
  5
  16 17 18 19 23
 0
@@ -1504,26 +1510,26 @@ itemsfile version 3
  0
 0
 
- itm_picts_hoodtunic_02 Pictish_Cloak Pictish_Cloak 1  Cloak_Picts_02 0  16781325 0 300 56623232 0.250000 40 0 10 5 0 0 0 0 0 0 0 0
+ itm_picts_hoodtunic_02 Pictish_Cloak Pictish_Cloak 1  Cloak_Picts_02 0  16781325 0 300 56623232 0.500000 40 0 10 5 0 0 0 0 0 0 0 0
  0
 0
 
- itm_picts_hoodtunic_03 Pictish_Hood Pictish_Hood 1  Hood_Picts_01 0  553713677 0 225 56623232 0.250000 20 0 10 4 0 0 0 0 0 0 0 0
+ itm_picts_hoodtunic_03 Pictish_Hood Pictish_Hood 1  Hood_Picts_01 0  553713677 0 225 56623232 2.000000 20 0 10 4 0 0 0 0 0 0 0 0
  1
  35
 0
 
- itm_picts_hoodtunic_04 Pictish_Hood Pictish_Hood 1  Hood_Picts_02 0  550313721869 0 225 56623232 0.500000 20 8 10 4 0 0 0 0 0 0 0 0
+ itm_picts_hoodtunic_04 Pictish_Hood Pictish_Hood 1  Hood_Picts_02 0  550313721869 0 225 56623232 2.000000 20 8 10 4 0 0 0 0 0 0 0 0
  1
  35
 0
 
- itm_picts_hoodtunic_05 Pictish_Hood Pictish_Hood 1  Hood_Picts_03 0  553713677 0 225 56623232 0.250000 20 0 10 4 0 0 0 0 0 0 0 0
+ itm_picts_hoodtunic_05 Pictish_Hood Pictish_Hood 1  Hood_Picts_03 0  553713677 0 225 56623232 2.000000 20 0 10 4 0 0 0 0 0 0 0 0
  1
  35
 0
 
- itm_picts_hoodtunic_06 Pictish_Hood Pictish_Hood 1  Hood_Picts_04 0  550313721869 0 270 56623232 0.500000 20 10 12 4 0 0 0 0 0 0 0 0
+ itm_picts_hoodtunic_06 Pictish_Hood Pictish_Hood 1  Hood_Picts_04 0  550313721869 0 270 56623232 2.000000 20 10 12 4 0 0 0 0 0 0 0 0
  1
  35
 0
@@ -1548,12 +1554,12 @@ itemsfile version 3
  35
 0
 
- itm_picts_hoodtunic_14 Hooded_Pictish_Tunic Hooded_Pictish_Tunic 1  Tunic_Picts_03 0  550313721869 0 375 56623232 0.750000 40 10 16 4 0 0 0 0 0 0 0 0
+ itm_picts_hoodtunic_14 Hooded_Pictish_Tunic Hooded_Pictish_Tunic 1  Tunic_Picts_03 0  550313721869 0 375 56623232 0.500000 40 10 16 4 0 0 0 0 0 0 0 0
  1
  35
 0
 
- itm_picts_hoodtunic_15 Hooded_Pictish_Tunic Hooded_Pictish_Tunic 1  Tunic_Picts_03B 0  550313721869 0 330 56623232 0.750000 40 8 14 4 0 0 0 0 0 0 0 0
+ itm_picts_hoodtunic_15 Hooded_Pictish_Tunic Hooded_Pictish_Tunic 1  Tunic_Picts_03B 0  550313721869 0 330 56623232 0.500000 40 8 14 4 0 0 0 0 0 0 0 0
  1
  35
 0
@@ -1858,35 +1864,35 @@ itemsfile version 3
  19 20 21 22 23
 0
 
- itm_britontunic_1woman Bear_Skin Bear_Skin 1  Berserkr01 0  1100065275917 0 1350 56623232 2.750000 40 13 31 9 0 0 0 0 0 0 0 0
+ itm_britontunic_1woman Bear_Skin Bear_Skin 1  Berserkr01 0  1100065275917 0 1350 56623232 3.750000 40 26 31 9 0 0 0 0 0 0 0 0
  0
 0
 
- itm_britontunic_2woman Bear_Skin Bear_Skin 1  Berserkr02 0  553648141 0 1500 56623232 3.000000 40 13 31 10 0 0 0 0 0 0 0 0
+ itm_britontunic_2woman Bear_Skin Bear_Skin 1  Berserkr02 0  553648141 0 1500 56623232 5.000000 40 26 31 14 0 0 0 0 0 0 0 0
  0
 0
 
- itm_britontunic_3woman Bear_Skin Bear_Skin 1  Berserkr03 0  1100065275917 0 1350 56623232 2.750000 40 13 31 9 0 0 0 0 0 0 0 0
+ itm_britontunic_3woman Bear_Skin Bear_Skin 1  Berserkr03 0  1100065275917 0 1350 56623232 3.750000 40 26 31 9 0 0 0 0 0 0 0 0
  0
 0
 
- itm_britontunic_4woman Bear_Skin Bear_Skin 1  Berserkr04 0  553648141 0 1500 56623232 3.000000 40 13 31 10 0 0 0 0 0 0 0 0
+ itm_britontunic_4woman Bear_Skin Bear_Skin 1  Berserkr04 0  553648141 0 1500 56623232 5.000000 40 26 31 14 0 0 0 0 0 0 0 0
  0
 0
 
- itm_britontunic_5woman Wolf_Skin Wolf_Skin 1  Berserkr05 0  1100065275917 0 1125 56623232 2.250000 40 12 29 8 0 0 0 0 0 0 0 0
+ itm_britontunic_5woman Wolf_Skin Wolf_Skin 1  Berserkr05 0  1100065275917 0 1125 56623232 2.250000 40 24 29 8 0 0 0 0 0 0 0 0
  0
 0
 
- itm_britontunic_6woman Wolf_Skin Wolf_Skin 1  Berserkr06 0  553648141 0 1350 56623232 2.750000 40 12 31 9 0 0 0 0 0 0 0 0
+ itm_britontunic_6woman Wolf_Skin Wolf_Skin 1  Berserkr06 0  553648141 0 1350 56623232 3.750000 40 24 31 13 0 0 0 0 0 0 0 0
  0
 0
 
- itm_britontunic_7woman Wolf_Skin Wolf_Skin 1  Berserkr07 0  1100065275917 0 1125 56623232 2.250000 40 12 29 8 0 0 0 0 0 0 0 0
+ itm_britontunic_7woman Wolf_Skin Wolf_Skin 1  Berserkr07 0  1100065275917 0 1125 56623232 2.250000 40 24 29 8 0 0 0 0 0 0 0 0
  0
 0
 
- itm_britontunic_8woman Wolf_Skin Wolf_Skin 1  Berserkr08 0  553648141 0 1350 56623232 2.750000 40 12 31 9 0 0 0 0 0 0 0 0
+ itm_britontunic_8woman Wolf_Skin Wolf_Skin 1  Berserkr08 0  553648141 0 1350 56623232 3.750000 40 24 31 13 0 0 0 0 0 0 0 0
  0
 0
 
@@ -2290,7 +2296,7 @@ itemsfile version 3
  24 25 26 27 28
 0
 
- itm_gambeson43 Norse_Long_Gambeson Norse_Long_Gambeson 1  Gamb_Norse_05 0  553713677 0 2400 56623232 6.000000 20 0 37 13 8 0 0 0 0 0 0 0
+ itm_gambeson43 Norse_Long_Gambeson Norse_Long_Gambeson 1  Gamb_Norse_05 0  553713677 0 2400 56623232 6.000000 20 0 37 14 8 0 0 0 0 0 0 0
  5
  16 17 18 23 19
 0
@@ -2320,321 +2326,321 @@ itemsfile version 3
  16 17 18 19 20 21 22 23 24 25 26 27 28
 0
 
- itm_mail_shirt Frisian_Byrnie Frisian_Byrnie 1  Chain_Frisian_01 0  553713677 0 6750 167772196 16.000000 10 0 42 22 9 0 0 0 0 0 0 0
+ itm_mail_shirt Frisian_Byrnie Frisian_Byrnie 1  Chain_Frisian_01 0  553713677 0 6750 167772196 16.000000 10 0 50 22 9 0 0 0 0 0 0 0
  2
  19 20
 0
 
- itm_mail_shirt_1 Common_Byrnie Common_Byrnie 1  Chainmail_02 0  553713677 0 6750 167772196 16.000000 10 0 42 22 9 0 0 0 0 0 0 0
+ itm_mail_shirt_1 Common_Byrnie Common_Byrnie 1  Chainmail_02 0  553713677 0 6750 167772196 16.000000 10 0 50 22 9 0 0 0 0 0 0 0
  0
 0
 
- itm_mail_shirt_2 Pictish_Lorica Pictish_Lorica 1  Chain_Picts_05 0  553713677 0 4500 167772196 16.000000 10 0 40 22 9 0 0 0 0 0 0 0
+ itm_mail_shirt_2 Pictish_Lorica Pictish_Lorica 1  Chain_Picts_05 0  553713677 0 4500 167772196 16.000000 10 0 48 22 9 0 0 0 0 0 0 0
  1
  35
 0
 
- itm_mail_shirt_3 Common_Byrnie Common_Byrnie 1  Chainmail_04 0  553713677 0 8100 167772196 20.000000 10 0 44 24 12 0 0 0 0 0 0 0
+ itm_mail_shirt_3 Common_Byrnie Common_Byrnie 1  Chainmail_04 0  553713677 0 8100 167772196 20.000000 10 0 52 24 12 0 0 0 0 0 0 0
  0
 0
 
- itm_mail_shirt_6 Pictish_Lorica Pictish_Lorica 1  Chain_Picts_01 0  553713677 0 4500 167772196 16.000000 10 0 40 22 9 0 0 0 0 0 0 0
+ itm_mail_shirt_6 Pictish_Lorica Pictish_Lorica 1  Chain_Picts_01 0  553713677 0 4500 167772196 16.000000 10 0 48 22 9 0 0 0 0 0 0 0
  1
  35
 0
 
- itm_mail_shirt_7 Pictish_Lorica Pictish_Lorica 1  Chain_Picts_02 0  553713677 0 6750 167772196 17.500000 10 0 42 22 10 0 0 0 0 0 0 0
+ itm_mail_shirt_7 Pictish_Lorica Pictish_Lorica 1  Chain_Picts_02 0  553713677 0 6750 167772196 17.500000 10 0 50 22 10 0 0 0 0 0 0 0
  1
  35
 0
 
- itm_mail_shirt_8 Cloaked_Pictish_Lorica Cloaked_Pictish_Lorica 1  Chain_Picts_03 0  553713677 0 9000 167772196 19.000000 10 0 42 25 11 0 0 0 0 0 0 0
+ itm_mail_shirt_8 Cloaked_Pictish_Lorica Cloaked_Pictish_Lorica 1  Chain_Picts_03 0  553713677 0 9000 167772196 19.000000 10 0 50 25 11 0 0 0 0 0 0 0
  1
  35
 0
 
- itm_mail_shirt_9 Cloaked_Pictish_Lorica Cloaked_Pictish_Lorica 1  Chain_Picts_04 0  553713677 0 8100 167772196 17.500000 10 0 44 22 10 0 0 0 0 0 0 0
+ itm_mail_shirt_9 Cloaked_Pictish_Lorica Cloaked_Pictish_Lorica 1  Chain_Picts_04 0  553713677 0 8100 167772196 17.500000 10 0 52 22 10 0 0 0 0 0 0 0
  1
  35
 0
 
- itm_mail_shirt_10 Elite_Briton_Byrnie Elite_Briton_Byrnie 1  Chain_Briton_06 0  553648141 0 9900 167772196 20.000000 10 0 45 24 12 0 0 0 0 0 0 0
+ itm_mail_shirt_10 Elite_Briton_Byrnie Elite_Briton_Byrnie 1  Chain_Briton_06 0  553648141 0 9900 167772196 20.000000 10 0 53 24 12 0 0 0 0 0 0 0
  5
  24 25 26 27 28
 0
 
- itm_mail_shirt_11 Elite_Briton_Byrnie Elite_Briton_Byrnie 1  Chain_Briton_08 0  553648141 0 13500 167772196 22.250000 10 0 50 24 14 0 0 0 0 0 0 0
+ itm_mail_shirt_11 Elite_Briton_Byrnie Elite_Briton_Byrnie 1  Chain_Briton_08 0  553648141 0 13500 167772196 22.250000 10 0 58 24 14 0 0 0 0 0 0 0
  5
  24 25 26 27 28
 0
 
- itm_mail_shirt_11_2 Frisian_Byrnie Frisian_Byrnie 1  Chain_Frisian_06 0  553713677 0 9900 167772196 17.500000 10 0 44 24 10 0 0 0 0 0 0 0
+ itm_mail_shirt_11_2 Frisian_Byrnie Frisian_Byrnie 1  Chain_Frisian_06 0  553713677 0 9900 167772196 17.500000 10 0 52 24 10 0 0 0 0 0 0 0
  2
  19 20
 0
 
- itm_mail_shirt_11_3 Pictish_Lorica Pictish_Lorica 1  Chain_Picts_06 0  553713677 0 6750 167772196 17.500000 10 0 42 22 10 0 0 0 0 0 0 0
+ itm_mail_shirt_11_3 Pictish_Lorica Pictish_Lorica 1  Chain_Picts_06 0  553713677 0 6750 167772196 17.500000 10 0 50 22 10 0 0 0 0 0 0 0
  1
  35
 0
 
- itm_mail_shirt_12 Common_Byrnie Common_Byrnie 1  Chainmail_06 0  553713677 0 8100 167772196 20.000000 10 0 45 24 12 0 0 0 0 0 0 0
+ itm_mail_shirt_12 Common_Byrnie Common_Byrnie 1  Chainmail_06 0  553713677 0 8100 167772196 20.000000 10 0 53 24 12 0 0 0 0 0 0 0
  0
 0
 
- itm_mail_shirt_13 Common_Byrnie Common_Byrnie 1  Chainmail_07 0  553713677 0 8100 167772196 20.000000 10 0 45 24 12 0 0 0 0 0 0 0
+ itm_mail_shirt_13 Common_Byrnie Common_Byrnie 1  Chainmail_07 0  553713677 0 8100 167772196 20.000000 10 0 53 24 12 0 0 0 0 0 0 0
  0
 0
 
- itm_mail_shirt_4 Frisian_Byrnie Frisian_Byrnie 1  Chain_Frisian_03 0  553713677 0 8100 167772196 20.000000 10 0 45 24 12 0 0 0 0 0 0 0
+ itm_mail_shirt_4 Frisian_Byrnie Frisian_Byrnie 1  Chain_Frisian_03 0  553713677 0 8100 167772196 20.000000 10 0 53 24 12 0 0 0 0 0 0 0
  2
  19 20
 0
 
- itm_mail_shirt_5 Pictish_Lorica Pictish_Lorica 1  Chain_Picts_07 0  553713677 0 4500 167772196 16.000000 10 0 40 22 9 0 0 0 0 0 0 0
+ itm_mail_shirt_5 Pictish_Lorica Pictish_Lorica 1  Chain_Picts_07 0  553713677 0 4500 167772196 16.000000 10 0 48 22 9 0 0 0 0 0 0 0
  1
  35
 0
 
- itm_mail_shirt_5_1 Elite_Briton_Byrnie Elite_Briton_Byrnie 1  Chain_Briton_07 0  553713677 0 11250 167772196 21.000000 10 0 48 24 13 0 0 0 0 0 0 0
+ itm_mail_shirt_5_1 Elite_Briton_Byrnie Elite_Briton_Byrnie 1  Chain_Briton_07 0  553713677 0 11250 167772196 21.000000 10 0 56 24 13 0 0 0 0 0 0 0
  5
  24 25 26 27 28
 0
 
- itm_mail_shirt_5_2 Elite_Saxon_Halsberg Elite_Saxon_Halsberg 1  Chain_Saxon_07 0  553648141 0 11250 167772196 21.000000 10 0 46 26 13 0 0 0 0 0 0 0
+ itm_mail_shirt_5_2 Elite_Saxon_Halsberg Elite_Saxon_Halsberg 1  Chain_Saxon_07 0  553648141 0 11250 167772196 21.000000 10 0 54 26 13 0 0 0 0 0 0 0
  4
  20 21 22 23
 0
 
- itm_mail_shirt_12_1 Common_Halsberg Common_Halsberg 1  Chainmail_03 0  553713677 0 6750 167772196 19.000000 10 0 42 24 11 0 0 0 0 0 0 0
+ itm_mail_shirt_12_1 Common_Halsberg Common_Halsberg 1  Chainmail_03 0  553713677 0 6750 167772196 19.000000 10 0 50 24 11 0 0 0 0 0 0 0
  0
 0
 
- itm_mail_shirt_12_2 Common_Halsberg Common_Halsberg 1  Chainmail_05 0  553713677 0 9900 167772196 21.000000 10 0 44 25 13 0 0 0 0 0 0 0
+ itm_mail_shirt_12_2 Common_Halsberg Common_Halsberg 1  Chainmail_05 0  553713677 0 9900 167772196 21.000000 10 0 52 25 13 0 0 0 0 0 0 0
  0
 0
 
- itm_mail_shirt_12_3 Common_Halsberg Common_Halsberg 1  Chainmail_08 0  553713677 0 11250 167772196 21.000000 10 0 45 25 13 0 0 0 0 0 0 0
+ itm_mail_shirt_12_3 Common_Halsberg Common_Halsberg 1  Chainmail_08 0  553713677 0 11250 167772196 21.000000 10 0 53 25 13 0 0 0 0 0 0 0
  0
 0
 
- itm_mail_shirt_12_4 Common_Halsberg Common_Halsberg 1  Chainmail_09 0  553713677 0 11350 167772196 21.000000 10 0 45 26 13 0 0 0 0 0 0 0
+ itm_mail_shirt_12_4 Common_Halsberg Common_Halsberg 1  Chainmail_09 0  553713677 0 11350 167772196 21.000000 10 0 53 26 13 0 0 0 0 0 0 0
  0
 0
 
- itm_mail_shirt_13_1 Elite_Saxon_Halsberg Elite_Saxon_Halsberg 1  Chain_Saxon_08 0  553648141 0 13500 167772196 24.000000 10 0 50 26 14 0 0 0 0 0 0 0
+ itm_mail_shirt_13_1 Elite_Saxon_Halsberg Elite_Saxon_Halsberg 1  Chain_Saxon_08 0  553648141 0 13500 167772196 23.000000 10 0 58 24 14 0 0 0 0 0 0 0
  4
  20 21 22 23
 0
 
- itm_mail_shirt_13_2 Saxon_Halsberg Saxon_Halsberg 1  Chain_Saxon_05 0  553648141 0 9000 167772196 22.250000 10 0 48 25 14 0 0 0 0 0 0 0
+ itm_mail_shirt_13_2 Saxon_Halsberg Saxon_Halsberg 1  Chain_Saxon_05 0  553648141 0 9000 167772196 22.250000 10 0 56 25 14 0 0 0 0 0 0 0
  4
  20 21 22 23
 0
 
- itm_mail_shirt_13_3 Saxon_Halsberg Saxon_Halsberg 1  Chain_Saxon_04 0  553713677 0 8100 167772196 21.000000 10 0 45 25 13 0 0 0 0 0 0 0
+ itm_mail_shirt_13_3 Saxon_Halsberg Saxon_Halsberg 1  Chain_Saxon_04 0  553713677 0 8100 167772196 21.000000 10 0 53 25 13 0 0 0 0 0 0 0
  4
  20 21 22 23
 0
 
- itm_mail_shirt_13_4 Elite_Saxon_Lorica Elite_Saxon_Lorica 1  Chain_Saxon_06 0  553648141 0 9900 167772196 19.000000 10 0 44 26 11 0 0 0 0 0 0 0
+ itm_mail_shirt_13_4 Elite_Saxon_Lorica Elite_Saxon_Lorica 1  Chain_Saxon_06 0  553648141 0 9900 167772196 19.000000 10 0 52 26 11 0 0 0 0 0 0 0
  4
  20 21 22 23
 0
 
- itm_byrnie Common_Halsberg Common_Halsberg 1  Chainmail_01 0  553713677 0 6750 167772196 17.500000 10 0 42 23 12 0 0 0 0 0 0 0
+ itm_byrnie Common_Halsberg Common_Halsberg 1  Chainmail_01 0  553713677 0 6750 167772196 17.500000 10 0 50 23 12 0 0 0 0 0 0 0
  0
 0
 
- itm_byrnie2 Frisian_Lorica Frisian_Lorica 1  Chain_Frisian_02 0  553713677 0 6750 167772196 17.500000 10 0 42 23 10 0 0 0 0 0 0 0
+ itm_byrnie2 Frisian_Lorica Frisian_Lorica 1  Chain_Frisian_02 0  553713677 0 6750 167772196 17.500000 10 0 50 23 10 0 0 0 0 0 0 0
  2
  19 20
 0
 
- itm_byrnie3 Common_Halsberg Common_Halsberg 1  Chainmail_10 0  553713677 0 11250 167772196 21.000000 10 0 45 25 13 0 0 0 0 0 0 0
+ itm_byrnie3 Common_Halsberg Common_Halsberg 1  Chainmail_10 0  553713677 0 11250 167772196 21.000000 10 0 53 25 13 0 0 0 0 0 0 0
  0
 0
 
- itm_byrnie4 Briton_Byrnie Briton_Byrnie 1  Chain_Briton_03 0  553713677 0 9000 167772196 19.000000 10 0 45 24 11 0 0 0 0 0 0 0
+ itm_byrnie4 Briton_Byrnie Briton_Byrnie 1  Chain_Briton_03 0  553713677 0 9000 167772196 19.000000 10 0 53 24 11 0 0 0 0 0 0 0
  5
  24 25 26 27 28
 0
 
- itm_byrnie5 Saxon_Halsberg Saxon_Halsberg 1  Chain_Saxon_01 0  553713677 0 6750 167772196 17.500000 10 0 42 23 10 0 0 0 0 0 0 0
+ itm_byrnie5 Saxon_Halsberg Saxon_Halsberg 1  Chain_Saxon_01 0  553713677 0 6750 167772196 17.500000 10 0 50 23 10 0 0 0 0 0 0 0
  4
  20 21 22 23
 0
 
- itm_byrnie6 Briton_Byrnie Briton_Byrnie 1  Chain_Briton_04 0  553713677 0 8100 167772196 20.000000 10 0 45 24 12 0 0 0 0 0 0 0
+ itm_byrnie6 Briton_Byrnie Briton_Byrnie 1  Chain_Briton_04 0  553713677 0 8100 167772196 20.000000 10 0 53 24 12 0 0 0 0 0 0 0
  5
  24 25 26 27 28
 0
 
- itm_byrnie7 Elite_Frisian_Lorica Elite_Frisian_Lorica 1  Chain_Frisian_07 0  553648141 0 11250 167772196 20.000000 10 0 45 23 12 0 0 0 0 0 0 0
+ itm_byrnie7 Elite_Norse_Lorica Elite_Norse_Lorica 1  Chain_Frisian_07 0  553648141 0 11250 167772196 20.000000 10 0 53 23 12 0 0 0 0 0 0 0
  2
  19 20
 0
 
- itm_byrnie8 Elite_Frisian_Halsberg Elite_Frisian_Halsberg 1  Chain_Frisian_08 0  553648141 0 13500 167772196 22.250000 10 0 50 24 14 0 0 0 0 0 0 0
+ itm_byrnie8 Elite_Norse_Halsberg Elite_Norse_Halsberg 1  Chain_Frisian_08 0  553648141 0 15500 167772196 22.250000 10 0 58 24 14 0 0 0 0 0 0 0
  2
  19 20
 0
 
- itm_byrnie9 Goidelic_Lorica Goidelic_Lorica 1  Chain_Irish_01 0  553648141 0 6750 167772196 17.500000 10 0 42 23 10 0 0 0 0 0 0 0
+ itm_byrnie9 Goidelic_Lorica Goidelic_Lorica 1  Chain_Irish_01 0  553648141 0 6750 167772196 17.500000 10 0 50 23 10 0 0 0 0 0 0 0
  7
  29 30 31 32 33 34 36
 0
 
- itm_byrnie10 Goidelic_Lorica Goidelic_Lorica 1  Chain_Irish_02 0  553648141 0 4500 167772196 16.000000 10 0 40 23 9 0 0 0 0 0 0 0
+ itm_byrnie10 Goidelic_Lorica Goidelic_Lorica 1  Chain_Irish_02 0  553648141 0 4500 167772196 16.000000 10 0 48 23 9 0 0 0 0 0 0 0
  7
  29 30 31 32 33 34 36
 0
 
- itm_byrnie11 Cloaked_Goidelic_Lorica Cloaked_Goidelic_Lorica 1  Chain_Irish_03 0  553648141 0 9000 167772196 20.000000 10 0 44 24 12 0 0 0 0 0 0 0
+ itm_byrnie11 Cloaked_Goidelic_Lorica Cloaked_Goidelic_Lorica 1  Chain_Irish_03 0  553648141 0 9000 167772196 20.000000 10 0 52 24 12 0 0 0 0 0 0 0
  7
  29 30 31 32 33 34 36
 0
 
- itm_byrnie12 Cloaked_Goidelic_Lorica Cloaked_Goidelic_Lorica 1  Chain_Irish_04 0  553648141 0 9000 167772196 20.000000 10 0 42 25 12 0 0 0 0 0 0 0
+ itm_byrnie12 Cloaked_Goidelic_Lorica Cloaked_Goidelic_Lorica 1  Chain_Irish_04 0  553648141 0 9000 167772196 20.000000 10 0 50 25 12 0 0 0 0 0 0 0
  7
  29 30 31 32 33 34 36
 0
 
- itm_byrnie13 Briton_Byrnie Briton_Byrnie 1  Chain_Briton_01 0  553648141 0 6750 167772196 16.000000 10 0 42 22 9 0 0 0 0 0 0 0
+ itm_byrnie13 Briton_Byrnie Briton_Byrnie 1  Chain_Briton_01 0  553648141 0 6750 167772196 16.000000 10 0 50 22 9 0 0 0 0 0 0 0
  5
  24 25 26 27 28
 0
 
- itm_byrnie14 Briton_Byrnie Briton_Byrnie 1  Chain_Briton_02 0  553648141 0 6750 167772196 16.000000 10 0 42 22 9 0 0 0 0 0 0 0
+ itm_byrnie14 Briton_Byrnie Briton_Byrnie 1  Chain_Briton_02 0  553648141 0 6750 167772196 16.000000 10 0 50 22 9 0 0 0 0 0 0 0
  5
  24 25 26 27 28
 0
 
- itm_byrnie15 Cloaked_Briton_Byrnie Cloaked_Briton_Byrnie 1  Chain_Briton_05 0  553648141 0 9000 167772196 19.000000 10 0 44 24 11 0 0 0 0 0 0 0
+ itm_byrnie15 Cloaked_Briton_Byrnie Cloaked_Briton_Byrnie 1  Chain_Briton_05 0  553648141 0 9000 167772196 19.000000 10 0 52 24 11 0 0 0 0 0 0 0
  5
  24 25 26 27 28
 0
 
- itm_byrnie16 Norse_Hringserks Norse_Hringserks 1  Chain_Norse_01 0  553713677 0 6750 167772196 17.500000 10 0 42 23 10 0 0 0 0 0 0 0
+ itm_byrnie16 Norse_Hringserks Norse_Hringserks 1  Chain_Norse_01 0  553713677 0 6750 167772196 17.500000 10 0 50 23 10 0 0 0 0 0 0 0
  5
  16 17 18 19 23
 0
 
- itm_byrnie17 Norse_Hringserks Norse_Hringserks 1  Chain_Norse_02 0  553713677 0 6750 167772196 17.500000 10 0 42 23 10 0 0 0 0 0 0 0
+ itm_byrnie17 Norse_Hringserks Norse_Hringserks 1  Chain_Norse_02 0  553713677 0 6750 167772196 17.500000 10 0 50 23 10 0 0 0 0 0 0 0
  5
  16 17 18 19 23
 0
 
- itm_byrnie18 Norse_Hringserks Norse_Hringserks 1  Chain_Norse_03 0  553713677 0 8100 167772196 21.000000 10 0 45 25 13 0 0 0 0 0 0 0
+ itm_byrnie18 Norse_Hringserks Norse_Hringserks 1  Chain_Norse_03 0  553713677 0 8100 167772196 21.000000 10 0 53 25 13 0 0 0 0 0 0 0
  5
  16 17 18 19 23
 0
 
- itm_byrnie19 Norse_Hringserks Norse_Hringserks 1  Chain_Norse_04 0  553713677 0 8100 167772196 21.000000 10 0 45 25 13 0 0 0 0 0 0 0
+ itm_byrnie19 Norse_Hringserks Norse_Hringserks 1  Chain_Norse_04 0  553713677 0 8100 167772196 21.000000 10 0 53 25 13 0 0 0 0 0 0 0
  5
  16 17 18 19 23
 0
 
- itm_byrnie20 Frisian_Halsberg Frisian_Halsberg 1  Chain_Frisian_04 0  553713677 0 8100 167772196 20.000000 10 0 45 25 12 0 0 0 0 0 0 0
+ itm_byrnie20 Frisian_Halsberg Frisian_Halsberg 1  Chain_Frisian_04 0  553713677 0 8100 167772196 20.000000 10 0 53 25 12 0 0 0 0 0 0 0
  2
  19 20
 0
 
- itm_byrnie21 Saxon_Lorica Saxon_Lorica 1  Chain_Saxon_02 0  553713677 0 6750 167772196 17.500000 10 0 42 23 10 0 0 0 0 0 0 0
+ itm_byrnie21 Saxon_Lorica Saxon_Lorica 1  Chain_Saxon_02 0  553713677 0 6750 167772196 17.500000 10 0 50 23 10 0 0 0 0 0 0 0
  4
  20 21 22 23
 0
 
- itm_byrnie22 Saxon_Halsberg Saxon_Halsberg 1  Chain_Saxon_03 0  553713677 0 8100 167772196 20.000000 10 0 45 24 12 0 0 0 0 0 0 0
+ itm_byrnie22 Saxon_Halsberg Saxon_Halsberg 1  Chain_Saxon_03 0  553713677 0 8100 167772196 20.000000 10 0 53 24 12 0 0 0 0 0 0 0
  4
  20 21 22 23
 0
 
- itm_byrnie23 Angle_Halsberg Angle_Halsberg 1  Chain_Angle_01 0  553713677 0 6750 167772196 17.500000 10 0 42 23 10 0 0 0 0 0 0 0
+ itm_byrnie23 Angle_Halsberg Angle_Halsberg 1  Chain_Angle_01 0  553713677 0 6750 167772196 17.500000 10 0 50 23 10 0 0 0 0 0 0 0
  4
  20 21 22 23
 0
 
- itm_byrnie24 Angle_Halsberg Angle_Halsberg 1  Chain_Angle_02 0  553713677 0 6750 167772196 17.500000 10 0 42 23 10 0 0 0 0 0 0 0
+ itm_byrnie24 Angle_Halsberg Angle_Halsberg 1  Chain_Angle_02 0  553713677 0 6750 167772196 17.500000 10 0 50 23 10 0 0 0 0 0 0 0
  4
  20 21 22 23
 0
 
- itm_byrnie25 Angle_Halsberg Angle_Halsberg 1  Chain_Angle_03 0  553713677 0 8100 167772196 21.000000 10 0 45 25 13 0 0 0 0 0 0 0
+ itm_byrnie25 Angle_Halsberg Angle_Halsberg 1  Chain_Angle_03 0  553713677 0 8100 167772196 21.000000 10 0 53 25 13 0 0 0 0 0 0 0
  4
  20 21 22 23
 0
 
- itm_byrnie26 Angle_Halsberg Angle_Halsberg 1  Chain_Angle_04 0  553713677 0 8100 167772196 21.000000 10 0 45 25 13 0 0 0 0 0 0 0
+ itm_byrnie26 Angle_Halsberg Angle_Halsberg 1  Chain_Angle_04 0  553713677 0 8100 167772196 21.000000 10 0 53 25 13 0 0 0 0 0 0 0
  4
  20 21 22 23
 0
 
- itm_byrnie27 Cloaked_Angle_Halsberg Cloaked_Angle_Halsberg 1  Chain_Angle_05 0  553713677 0 9000 167772196 20.000000 10 0 46 24 12 0 0 0 0 0 0 0
+ itm_byrnie27 Cloaked_Angle_Halsberg Cloaked_Angle_Halsberg 1  Chain_Angle_05 0  553713677 0 9000 167772196 20.000000 10 0 54 24 12 0 0 0 0 0 0 0
  4
  20 21 22 23
 0
 
- itm_byrnie28 Angle_Halsberg_with_Fur Angle_Halsberg_with_Fur 1  Chain_Angle_06 0  553713677 0 11250 167772196 21.000000 10 0 46 25 13 0 0 0 0 0 0 0
+ itm_byrnie28 Angle_Halsberg_with_Fur Angle_Halsberg_with_Fur 1  Chain_Angle_06 0  553713677 0 11250 167772196 21.000000 10 0 54 25 13 0 0 0 0 0 0 0
  4
  20 21 22 23
 0
 
- itm_byrnie29 Cloaked_Angle_Halsberg Cloaked_Angle_Halsberg 1  Chain_Angle_07 0  553648141 0 9000 167772196 22.250000 10 0 48 25 14 0 0 0 0 0 0 0
+ itm_byrnie29 Cloaked_Angle_Halsberg Cloaked_Angle_Halsberg 1  Chain_Angle_07 0  553648141 0 9000 167772196 22.250000 10 0 56 25 14 0 0 0 0 0 0 0
  4
  20 21 22 23
 0
 
- itm_byrnie30 Angle_Halsberg_with_Fur Angle_Halsberg_with_Fur 1  Chain_Angle_08 0  553648141 0 13500 167772196 24.000000 10 0 50 25 14 0 0 0 0 0 0 0
+ itm_byrnie30 Angle_Halsberg_with_Fur Angle_Halsberg_with_Fur 1  Chain_Angle_08 0  553648141 0 13500 167772196 24.000000 10 0 58 25 14 0 0 0 0 0 0 0
  4
  20 21 22 23
 0
 
- itm_byrnie31 Cloaked_Norse_Hringserks Cloaked_Norse_Hringserks 1  Chain_Norse_05 0  553648141 0 9000 167772196 22.250000 10 0 48 25 13 0 0 0 0 0 0 0
+ itm_byrnie31 Cloaked_Norse_Hringserks Cloaked_Norse_Hringserks 1  Chain_Norse_05 0  553648141 0 9000 167772196 22.250000 10 0 56 25 13 0 0 0 0 0 0 0
  5
  16 17 18 19 23
 0
 
- itm_byrnie32 Norse_Hringserks Norse_Hringserks 1  Chain_Norse_06 0  553713677 0 9900 167772196 19.000000 10 0 44 26 11 0 0 0 0 0 0 0
+ itm_byrnie32 Norse_Hringserks Norse_Hringserks 1  Chain_Norse_06 0  553713677 0 9900 167772196 19.000000 10 0 52 26 11 0 0 0 0 0 0 0
  5
  16 17 18 19 23
 0
 
- itm_byrnie33 Norse_Hringserks_with_Fur Norse_Hringserks_with_Fur 1  Chain_Norse_07 0  553648141 0 11250 167772196 24.000000 10 0 46 24 14 0 0 0 0 0 0 0
+ itm_byrnie33 Norse_Hringserks_with_Fur Norse_Hringserks_with_Fur 1  Chain_Norse_07 0  553648141 0 11250 167772196 23.000000 10 0 54 26 14 0 0 0 0 0 0 0
  5
  16 17 18 19 23
 0
 
- itm_byrnie34 Norse_Hringserks_with_Fur Norse_Hringserks_with_Fur 1  Chain_Norse_08 0  553648141 0 13500 167772196 26.000000 10 0 50 26 14 0 0 0 0 0 0 0
+ itm_byrnie34 Norse_Hringserks_with_Fur Norse_Hringserks_with_Fur 1  Chain_Norse_08 0  553648141 0 15500 167772196 25.000000 10 0 58 28 14 0 0 0 0 0 0 0
  5
  16 17 18 19 23
 0
 
- itm_byrnie35 Frisian_Halsberg Frisian_Halsberg 1  Chain_Frisian_05 0  553648141 0 9000 167772196 22.250000 10 0 48 25 14 0 0 0 0 0 0 0
+ itm_byrnie35 Frisian_Halsberg Frisian_Halsberg 1  Chain_Frisian_05 0  553648141 0 9000 167772196 22.250000 10 0 56 25 14 0 0 0 0 0 0 0
  2
  19 20
 0
 
- itm_byrnie36 Goidelic_Lorica Goidelic_Lorica 1  Chain_Irish_05 0  553648141 0 6750 167772196 17.500000 10 0 42 23 10 0 0 0 0 0 0 0
+ itm_byrnie36 Goidelic_Lorica Goidelic_Lorica 1  Chain_Irish_05 0  553648141 0 6750 167772196 17.500000 10 0 50 23 10 0 0 0 0 0 0 0
  7
  29 30 31 32 33 34 36
 0
 
- itm_byrnie37 Goidelic_Lorica Goidelic_Lorica 1  Chain_Irish_06 0  553648141 0 4500 167772196 16.000000 10 0 40 23 9 0 0 0 0 0 0 0
+ itm_byrnie37 Goidelic_Lorica Goidelic_Lorica 1  Chain_Irish_06 0  553648141 0 4500 167772196 16.000000 10 0 48 23 9 0 0 0 0 0 0 0
  7
  29 30 31 32 33 34 36
 0
 
- itm_byrnie38 Goidelic_Lorica Goidelic_Lorica 1  Chain_Irish_07 0  553648141 0 6750 167772196 17.500000 10 0 42 23 10 0 0 0 0 0 0 0
+ itm_byrnie38 Goidelic_Lorica Goidelic_Lorica 1  Chain_Irish_07 0  553648141 0 6750 167772196 17.500000 10 0 50 23 10 0 0 0 0 0 0 0
  7
  29 30 31 32 33 34 36
 0
 
- itm_orm_byrnie Orm's_Lorica Orm's_Lorica 1  thor_armor 0  553648141 0 20440 167772196 19.000000 10 12 58 28 11 0 0 0 0 0 0 0
+ itm_orm_byrnie Orm's_Lorica Orm's_Lorica 1  thor_armor 0  553648141 0 26440 167772196 29.000000 10 13 60 26 14 0 0 0 0 0 0 0
  0
 0
 
- itm_lamellar_armor Scale_Lorica Scale_Lorica 1  Scalemail01 0  553648141 0 12000 167772196 16.000000 10 0 46 26 9 0 0 0 0 0 0 0
+ itm_lamellar_armor Scale_Lorica Scale_Lorica 1  Scalemail01 0  553648141 0 16000 167772196 16.500000 10 0 50 24 9 0 0 0 0 0 0 0
  0
 0
 
@@ -2902,7 +2908,7 @@ itemsfile version 3
  24 25 26 27 28
 0
 
- itm_briton_helm34 Helm_with_Mail Helm_with_Mail 1  Spangenhelm_rich2 0  1073741836 0 6060 167772198 2.000000 20 52 0 0 5 0 0 0 0 0 0 0
+ itm_briton_helm34 Helm_with_Mail Helm_with_Mail 1  Spangenhelm_rich2 0  1073741836 0 6060 167772198 2.000000 20 51 0 0 5 0 0 0 0 0 0 0
  5
  24 25 26 27 28
 0
@@ -3287,12 +3293,12 @@ itemsfile version 3
  16 17 18 19 23
 0
 
- itm_viking_helm7 Norse_Helm Norse_Helm 4  Stromvka2-10 0  Stromvka2_rusty-10 4  Stromvka2_rusty-10 32  Stromvka2_rusty-10 2  1073807372 0 2580 167772198 2.000000 10 44 0 0 4 0 0 0 0 0 0 0
+ itm_viking_helm7 Norse_Helm Norse_Helm 4  Stromvka2-10 0  Stromvka2_rusty-10 4  Stromvka2_rusty-10 32  Stromvka2_rusty-10 2  1073807372 0 2580 167772198 1.500000 10 44 0 0 4 0 0 0 0 0 0 0
  5
  16 17 18 19 23
 0
 
- itm_viking_helm8 Norse_Helm Norse_Helm 4  Stromvka1-10 0  Stromvka1_rusty-10 4  Stromvka1_rusty-10 32  Stromvka1_rusty-10 2  1073741836 0 2580 167772198 2.000000 10 44 0 0 4 0 0 0 0 0 0 0
+ itm_viking_helm8 Norse_Helm Norse_Helm 4  Stromvka1-10 0  Stromvka1_rusty-10 4  Stromvka1_rusty-10 32  Stromvka1_rusty-10 2  1073741836 0 2580 167772198 1.500000 10 44 0 0 4 0 0 0 0 0 0 0
  5
  16 17 18 19 23
 0
@@ -3377,17 +3383,17 @@ itemsfile version 3
  16 17 18 19 23
 0
 
- itm_vikingold_elitehelm1 Old_Norse_Helm Old_Norse_Helm 1  Gjermundbu_rusty 0  8797166829580 0 2580 167772198 2.000000 20 44 0 0 5 0 0 0 0 0 0 0
+ itm_vikingold_elitehelm1 Old_Norse_Helm Old_Norse_Helm 1  Gjermundbu_rusty 0  8797166829580 0 2580 167772198 1.500000 20 44 0 0 5 0 0 0 0 0 0 0
  5
  16 17 18 19 23
 0
 
- itm_vikingold_elitehelm2 Old_Norse_Helm Old_Norse_Helm 1  GjermundbuC_rusty 0  8797166829580 0 2580 167772198 2.000000 20 44 0 0 5 0 0 0 0 0 0 0
+ itm_vikingold_elitehelm2 Old_Norse_Helm Old_Norse_Helm 1  GjermundbuC_rusty 0  8797166829580 0 2580 167772198 1.500000 20 44 0 0 5 0 0 0 0 0 0 0
  5
  16 17 18 19 23
 0
 
- itm_vikingold_elitehelm3 Old_Norse_Helm Old_Norse_Helm 1  GjermundbuB_rusty 0  8797166829580 0 2580 167772198 2.000000 20 44 0 0 5 0 0 0 0 0 0 0
+ itm_vikingold_elitehelm3 Old_Norse_Helm Old_Norse_Helm 1  GjermundbuB_rusty 0  8797166829580 0 2580 167772198 1.500000 20 44 0 0 5 0 0 0 0 0 0 0
  5
  16 17 18 19 23
 0
@@ -3412,7 +3418,7 @@ itemsfile version 3
  16 17 18 19 23
 0
 
- itm_vikingold_elitehelm8 Rich_Norse_Helm Rich_Norse_Helm 1  GjermundbuC_rich1 0  8797166764044 0 4130 167772198 2.000000 10 49 0 0 5 0 0 0 0 0 0 0
+ itm_vikingold_elitehelm8 Rich_Norse_Helm Rich_Norse_Helm 1  GjermundbuC_rich1 0  8797166764044 0 4130 167772198 1.500000 10 49 0 0 5 0 0 0 0 0 0 0
  5
  16 17 18 19 23
 0
@@ -3422,12 +3428,12 @@ itemsfile version 3
  16 17 18 19 23
 0
 
- itm_viking_elitehelm1 Norse_Helm Norse_Helm 4  Gjermundbu 0  Gjermundbu_rusty 4  Gjermundbu_rusty 32  Gjermundbu_rusty 2  8797166829580 0 3030 167772198 2.000000 10 45 0 0 5 0 0 0 0 0 0 0
+ itm_viking_elitehelm1 Norse_Helm Norse_Helm 4  Gjermundbu 0  Gjermundbu_rusty 4  Gjermundbu_rusty 32  Gjermundbu_rusty 2  8797166829580 0 3030 167772198 1.500000 10 45 0 0 5 0 0 0 0 0 0 0
  5
  16 17 18 19 23
 0
 
- itm_viking_elitehelm2 Norse_Helm Norse_Helm 4  GjermundbuC 0  GjermundbuC_rusty 4  GjermundbuC_rusty 32  GjermundbuC_rusty 2  8797166829580 0 3030 167772198 2.000000 10 45 0 0 5 0 0 0 0 0 0 0
+ itm_viking_elitehelm2 Norse_Helm Norse_Helm 4  GjermundbuC 0  GjermundbuC_rusty 4  GjermundbuC_rusty 32  GjermundbuC_rusty 2  8797166829580 0 3030 167772198 1.500000 10 45 0 0 5 0 0 0 0 0 0 0
  5
  16 17 18 19 23
 0
@@ -3437,7 +3443,7 @@ itemsfile version 3
  16 17 18 19 23
 0
 
- itm_viking_elitehelm4 Norse_Helm Norse_Helm 4  GjermundbuB 0  GjermundbuB_rusty 4  GjermundbuB_rusty 32  GjermundbuB_rusty 2  8797166829580 0 3690 167772198 2.000000 10 47 0 0 5 0 0 0 0 0 0 0
+ itm_viking_elitehelm4 Norse_Helm Norse_Helm 4  GjermundbuB 0  GjermundbuB_rusty 4  GjermundbuB_rusty 32  GjermundbuB_rusty 2  8797166829580 0 3690 167772198 1.500000 10 47 0 0 5 0 0 0 0 0 0 0
  5
  16 17 18 19 23
 0
@@ -3467,7 +3473,7 @@ itemsfile version 3
  16 17 18 19 23
 0
 
- itm_viking_noblehelm1 Elite_Norse_Helm Elite_Norse_Helm 1  Gjermundbu_noble 0  8797166764044 0 4830 167772198 2.000000 10 47 0 0 5 0 0 0 0 0 0 0
+ itm_viking_noblehelm1 Elite_Norse_Helm Elite_Norse_Helm 1  Gjermundbu_noble 0  8797166764044 0 4830 167772198 1.500000 10 47 0 0 5 0 0 0 0 0 0 0
  5
  16 17 18 19 23
 0
@@ -3512,19 +3518,19 @@ itemsfile version 3
  29 30 31 32 33 34 35 36
 0
 
- itm_elf_helmet Elf's_Helm Elf's_Helm 1  Broa 0  1073745932 0 9120 167772198 2.000000 10 53 0 0 5 0 0 0 0 0 0 0
+ itm_elf_helmet Elf's_Helm Elf's_Helm 1  Broa 0  1073745932 0 9120 167772198 3.000000 10 53 0 0 5 0 0 0 0 0 0 0
  0
 0
 
- itm_noble_helm_smith Noble_Helm Noble_Helm 1  Coppergate_rich2 0  1073741836 0 6680 167772198 2.500000 10 51 0 0 5 0 0 0 0 0 0 0
+ itm_noble_helm_smith Noble_Helm Noble_Helm 1  Coppergate_rich2 0  1073741836 0 6680 167772198 2.500000 10 52 0 0 5 0 0 0 0 0 0 0
  0
 0
 
- itm_hersir_helm Hersir_Helm Hersir_Helm 1  GjermundbuC_rich2 0  1073741836 0 9120 167772198 2.500000 10 53 0 0 7 0 0 0 0 0 0 0
+ itm_hersir_helm Hersir_Helm Hersir_Helm 1  GjermundbuC_rich2 0  1073741836 0 9120 167772198 2.500000 10 52 0 0 7 0 0 0 0 0 0 0
  0
 0
 
- itm_crown1 Crown Crown 1  Crown 0  1090519052 0 10150 536870912 0.500000 10 30 0 0 0 0 0 0 0 0 0 0
+ itm_crown1 Crown Crown 1  Crown 0  1090519052 0 10150 536870912 0.500000 10 20 0 0 0 0 0 0 0 0 0 0
  0
 0
 
@@ -3540,60 +3546,60 @@ itemsfile version 3
  0
 0
 
- itm_club_hard Club Club 1  club 0  2251799826726914 9223388529554358286 180 262274 2.000000 100 0 0 0 0 12288 95 0 71 0 256 524
+ itm_club_hard Club Club 1  club 0  2251799826726914 9223388529554358286 180 262274 2.000000 100 0 0 0 0 12288 95 0 71 0 256 525
  0
 0
 
- itm_club_troll Troll's_Axe Troll's_Axe 1  Axt08 0  2251800155787267 9223635924032684272 1570 262164 4.000000 100 0 0 0 21 51200 70 0 120 0 522 50
+ itm_club_troll Dane_Axe Dane_Axe 1  Axt08 0  2251804450750467 9227594165825572352 1570 262164 2.500000 10 0 0 0 14 51200 80 0 120 0 256 48
  0
 0
 
- itm_knife Hunting_Knife Hunting_Knife 2  Knife1 0  Knife1_Scabbard 3458764513820540928  2251799826350082 9223372072850292751 380 286740 0.500000 100 0 0 0 0 9216 98 0 31 0 276 9
- 13
- 24 25 26 27 26 29 30 31 32 33 34 35 36
+ itm_knife Hunting_Knife Hunting_Knife 2  Knife1 0  Knife1_Scabbard 3458764513820540928  2251799826350082 9223372072850292737 380 286740 0.500000 100 0 0 0 0 9216 98 0 31 0 276 9
+ 12
+ 24 25 26 27 29 30 31 32 33 34 35 36
 0
 
- itm_knife2 Hunting_Knife Hunting_Knife 2  Knife2 0  Knife2_Scabbard 3458764513820540928  2251799826350082 9223372072850292751 380 286740 0.500000 100 0 0 0 0 9216 98 0 30 0 276 9
- 13
- 24 25 26 27 26 29 30 31 32 33 34 35 36
+ itm_knife2 Hunting_Knife Hunting_Knife 2  Knife2 0  Knife2_Scabbard 3458764513820540928  2251799826350082 9223372072850292737 380 286740 0.500000 100 0 0 0 0 9216 98 0 30 0 276 9
+ 12
+ 24 25 26 27 29 30 31 32 33 34 35 36
 0
 
- itm_knife3 Hunting_Knife Hunting_Knife 2  Knife3 0  Knife3_Scabbard 3458764513820540928  2251799826350082 9223372072850292751 380 286740 0.500000 100 0 0 0 0 9216 98 0 30 0 276 9
- 13
- 24 25 26 27 26 29 30 31 32 33 34 35 36
+ itm_knife3 Hunting_Knife Hunting_Knife 2  Knife3 0  Knife3_Scabbard 3458764513820540928  2251799826350082 9223372072850292737 380 286740 0.500000 100 0 0 0 0 9216 98 0 30 0 276 9
+ 12
+ 24 25 26 27 29 30 31 32 33 34 35 36
 0
 
- itm_knife4 Hunting_Knife Hunting_Knife 2  Knife4 0  Knife4_Scabbard 3458764513820540928  2251799826350082 9223372072850292751 380 286740 0.500000 100 0 0 0 0 9216 98 0 29 0 276 9
- 13
- 24 25 26 27 26 29 30 31 32 33 34 35 36
+ itm_knife4 Hunting_Knife Hunting_Knife 2  Knife4 0  Knife4_Scabbard 3458764513820540928  2251799826350082 9223372072850292737 380 286740 0.500000 100 0 0 0 0 9216 98 0 29 0 276 9
+ 12
+ 24 25 26 27 29 30 31 32 33 34 35 36
 0
 
- itm_knife5 Hunting_Knife Hunting_Knife 2  Knife5 0  Knife5_Scabbard 3458764513820540928  2251799826350082 9223372072850292751 380 286740 0.500000 100 0 0 0 0 9216 98 0 30 0 276 9
- 13
- 24 25 26 27 26 29 30 31 32 33 34 35 36
+ itm_knife5 Hunting_Knife Hunting_Knife 2  Knife5 0  Knife5_Scabbard 3458764513820540928  2251799826350082 9223372072850292737 380 286740 0.500000 100 0 0 0 0 9216 98 0 30 0 276 9
+ 12
+ 24 25 26 27 29 30 31 32 33 34 35 36
 0
 
- itm_longseax1 Broadseax Broadseax 2  Longseax1 0  Longseax1_Scabbard 3458764513820540928  2251799826350082 9223372072850292751 640 286740 1.000000 100 0 0 0 0 20480 93 0 60 0 271 20
+ itm_longseax1 Broadseax Broadseax 2  Longseax1 0  Longseax1_Scabbard 3458764513820540928  2251799826350082 9223372072850292751 640 286740 1.000000 100 0 0 0 0 20480 93 0 60 0 277 20
  8
  16 17 18 19 20 21 22 23
 0
 
- itm_longseax2 Broadseax Broadseax 2  Longseax2 0  Longseax2_Scabbard 3458764513820540928  2251799826350082 9223372072850292751 640 286740 1.000000 100 0 0 0 0 20480 93 0 60 0 271 20
+ itm_longseax2 Broadseax Broadseax 2  Longseax2 0  Longseax2_Scabbard 3458764513820540928  2251799826350082 9223372072850292751 640 286740 1.000000 100 0 0 0 0 20480 93 0 60 0 277 20
  8
  16 17 18 19 20 21 22 23
 0
 
- itm_longseax3 Broadseax Broadseax 2  Longseax3 0  Longseax3_Scabbard 3458764513820540928  2251799826350082 9223372072850292751 640 286740 1.000000 100 0 0 0 0 20480 93 0 60 0 271 20
+ itm_longseax3 Broadseax Broadseax 2  Longseax3 0  Longseax3_Scabbard 3458764513820540928  2251799826350082 9223372072850292751 640 286740 1.000000 100 0 0 0 0 20480 93 0 60 0 277 20
  8
  16 17 18 19 20 21 22 23
 0
 
- itm_longseax4 Broadseax Broadseax 2  Longseax4 0  Longseax4_Scabbard 3458764513820540928  2251799826350082 9223372072850292751 640 286740 1.000000 100 0 0 0 0 20480 93 0 60 0 271 20
+ itm_longseax4 Broadseax Broadseax 2  Longseax4 0  Longseax4_Scabbard 3458764513820540928  2251799826350082 9223372072850292751 640 286740 1.000000 100 0 0 0 0 20480 93 0 60 0 277 20
  8
  16 17 18 19 20 21 22 23
 0
 
- itm_longseax5 Broadseax Broadseax 2  Longseax5 0  Longseax5_Scabbard 3458764513820540928  2251799826350082 9223372072850292751 640 286740 1.000000 100 0 0 0 0 20480 93 0 60 0 271 20
+ itm_longseax5 Broadseax Broadseax 2  Longseax5 0  Longseax5_Scabbard 3458764513820540928  2251799826350082 9223372072850292751 640 286740 1.000000 100 0 0 0 0 20480 93 0 60 0 277 20
  8
  16 17 18 19 20 21 22 23
 0
@@ -3623,565 +3629,565 @@ itemsfile version 3
  16 17 18 19 23
 0
 
- itm_seax_1 Seax Seax 2  Seax1 0  Seax1_Scabbard 3458764513820540928  2251799826350082 9223372072850292751 380 286740 0.500000 100 0 0 0 0 10240 96 0 37 0 278 10
+ itm_seax_1 Seax Seax 2  Seax1 0  Seax1_Scabbard 3458764513820540928  2251799826350082 9223372072850292737 380 286740 0.500000 100 0 0 0 0 10240 96 0 37 0 278 10
  8
  16 17 18 19 20 21 22 23
 0
 
- itm_seax_2 Seax Seax 2  Seax2 0  Seax2_Scabbard 3458764513820540928  2251799826350082 9223372072850292751 380 286740 0.500000 100 0 0 0 0 10240 96 0 37 0 278 10
+ itm_seax_2 Seax Seax 2  Seax2 0  Seax2_Scabbard 3458764513820540928  2251799826350082 9223372072850292737 380 286740 0.500000 100 0 0 0 0 10240 96 0 37 0 278 10
  8
  16 17 18 19 20 21 22 23
 0
 
- itm_seax_3 Seax Seax 2  Seax3 0  Seax3_Scabbard 3458764513820540928  2251799826350082 9223372072850292751 380 286740 0.500000 100 0 0 0 0 10240 96 0 37 0 278 10
+ itm_seax_3 Seax Seax 2  Seax3 0  Seax3_Scabbard 3458764513820540928  2251799826350082 9223372072850292737 380 286740 0.500000 100 0 0 0 0 10240 96 0 37 0 278 10
  8
  16 17 18 19 20 21 22 23
 0
 
- itm_seax_4 Seax Seax 2  Seax4 0  Seax4_Scabbard 3458764513820540928  2251799826350082 9223372072850292751 380 286740 0.500000 100 0 0 0 0 10240 96 0 37 0 278 10
+ itm_seax_4 Seax Seax 2  Seax4 0  Seax4_Scabbard 3458764513820540928  2251799826350082 9223372072850292737 380 286740 0.500000 100 0 0 0 0 10240 96 0 37 0 278 10
  8
  16 17 18 19 20 21 22 23
 0
 
- itm_seax_5 Seax Seax 2  Seax5 0  Seax5_Scabbard 3458764513820540928  2251799826350082 9223372072850292751 380 286740 0.500000 100 0 0 0 0 10240 96 0 37 0 278 10
+ itm_seax_5 Seax Seax 2  Seax5 0  Seax5_Scabbard 3458764513820540928  2251799826350082 9223372072850292737 380 286740 0.500000 100 0 0 0 0 10240 96 0 37 0 278 10
  8
  16 17 18 19 20 21 22 23
 0
 
- itm_ragnar_seax Ragnar's_Langseax Ragnar's_Langseax 2  Sword47_Ragnar 0  Scabbard47 3458764513820540928  2251799826288642 9223372071508115471 3090 286740 1.000000 100 0 0 0 4 32768 94 0 76 0 276 32
+ itm_ragnar_seax Ragnar's_Langseax Ragnar's_Langseax 2  Sword47_Ragnar 0  Scabbard47 3458764513820540928  2251799826288642 9223372071508115471 3090 286740 0.750000 100 0 0 0 4 32768 97 0 76 0 276 32
  0
 0
 
- itm_elf_seax Elf's_Langseax Elf's_Langseax 2  Sword41elf 0  Scabbard41elf 3458764513820540928  2251799826288642 9223372071508115471 3090 286740 1.000000 100 0 0 0 4 34816 94 0 76 0 274 34
+ itm_elf_seax Elf's_Langseax Elf's_Langseax 2  Sword41elf 0  Scabbard41elf 3458764513820540928  2251799826288642 9223372071508115471 3090 286740 0.750000 100 0 0 0 4 34816 97 0 76 0 274 34
  0
 0
 
- itm_spatha Sword Sword 2  Sword02 0  Scabbard02 3458764513820540928  2251799817945090 9223388564182532111 2790 286740 1.000000 10 0 0 0 6 23552 92 0 81 0 274 23
+ itm_spatha Sword Sword 2  Sword02 0  Scabbard02 3458764513820540928  2251799817945090 9223388564182532111 2790 286740 1.000000 10 0 0 0 6 23552 92 0 81 0 280 28
  4
  20 21 22 23
 0
 
- itm_spatha_2 Sword Sword 2  Sword07 0  Scabbard07 3458764513820540928  2251799817945090 9223388564182532111 2790 286740 1.000000 10 0 0 0 6 23552 92 0 81 0 274 23
+ itm_spatha_2 Sword Sword 2  Sword07 0  Scabbard07 3458764513820540928  2251799817945090 9223388564182532111 2790 286740 1.000000 10 0 0 0 6 23552 92 0 81 0 280 28
  4
  20 21 22 23
 0
 
- itm_spatha_3 Sword Sword 2  Sword12 0  Scabbard12 3458764513820540928  2251799817945090 9223388564182532111 2790 286740 1.000000 10 0 0 0 6 23552 92 0 81 0 274 23
+ itm_spatha_3 Sword Sword 2  Sword12 0  Scabbard12 3458764513820540928  2251799817945090 9223388564182532111 2790 286740 1.000000 10 0 0 0 6 23552 92 0 81 0 280 28
  4
  20 21 22 23
 0
 
- itm_spatha_4 Sword Sword 2  Sword17 0  Scabbard17 3458764513820540928  2251799817945090 9223388564182532111 2790 286740 1.000000 10 0 0 0 6 23552 92 0 81 0 274 23
+ itm_spatha_4 Sword Sword 2  Sword17 0  Scabbard17 3458764513820540928  2251799817945090 9223388564182532111 2790 286740 1.000000 10 0 0 0 6 23552 92 0 81 0 280 28
  4
  20 21 22 23
 0
 
- itm_spatha_5 Sword Sword 2  Sword22 0  Scabbard22 3458764513820540928  2251799817945090 9223388564182532111 2790 286740 1.000000 10 0 0 0 6 23552 92 0 81 0 274 23
+ itm_spatha_5 Sword Sword 2  Sword22 0  Scabbard22 3458764513820540928  2251799817945090 9223388564182532111 2790 286740 1.000000 10 0 0 0 6 23552 92 0 81 0 280 28
  4
  20 21 22 23
 0
 
- itm_spatha_6 Sword Sword 2  Sword42 0  Scabbard42 3458764513820540928  2251799817945090 9223388564182532111 2790 286740 1.000000 10 0 0 0 6 23552 92 0 81 0 274 23
+ itm_spatha_6 Sword Sword 2  Sword42 0  Scabbard42 3458764513820540928  2251799817945090 9223388564182532111 2790 286740 1.000000 10 0 0 0 6 23552 92 0 81 0 280 28
  4
  20 21 22 23
 0
 
- itm_spatha_7 Sword Sword 2  Sword05 0  Scabbard05 3458764513820540928  2251799817945090 9223388564182532111 2790 286740 1.000000 10 0 0 0 6 25600 92 0 81 0 272 25
+ itm_spatha_7 Sword Sword 2  Sword05 0  Scabbard05 3458764513820540928  2251799817945090 9223388564182532111 2790 286740 1.000000 10 0 0 0 6 25600 92 0 81 0 278 29
  8
  16 17 18 19 20 21 22 23
 0
 
- itm_spatha_8 Sword Sword 2  Sword10 0  Scabbard10 3458764513820540928  2251799817945090 9223388564182532111 2790 286740 1.000000 10 0 0 0 6 25600 92 0 81 0 272 25
+ itm_spatha_8 Sword Sword 2  Sword10 0  Scabbard10 3458764513820540928  2251799817945090 9223388564182532111 2790 286740 1.000000 10 0 0 0 6 25600 92 0 81 0 278 29
  8
  16 17 18 19 20 21 22 23
 0
 
- itm_sword Sword Sword 2  Sword15 0  Scabbard15 3458764513820540928  2251799817945090 9223388564182532111 2790 286740 1.000000 10 0 0 0 6 25600 92 0 81 0 272 25
+ itm_sword Sword Sword 2  Sword15 0  Scabbard15 3458764513820540928  2251799817945090 9223388564182532111 2790 286740 1.000000 10 0 0 0 6 25600 92 0 81 0 278 29
  8
  16 17 18 19 20 21 22 23
 0
 
- itm_sword_2 Sword Sword 2  Sword20 0  Scabbard20 3458764513820540928  2251799817945090 9223388564182532111 2790 286740 1.000000 10 0 0 0 6 25600 92 0 81 0 272 25
+ itm_sword_2 Sword Sword 2  Sword20 0  Scabbard20 3458764513820540928  2251799817945090 9223388564182532111 2790 286740 1.000000 10 0 0 0 6 25600 92 0 81 0 278 29
  8
  16 17 18 19 20 21 22 23
 0
 
- itm_sword_3 Sword Sword 2  Sword25 0  Scabbard25 3458764513820540928  2251799817945090 9223388564182532111 2790 286740 1.000000 10 0 0 0 6 25600 92 0 81 0 272 25
+ itm_sword_3 Sword Sword 2  Sword25 0  Scabbard25 3458764513820540928  2251799817945090 9223388564182532111 2790 286740 1.000000 10 0 0 0 6 25600 92 0 81 0 278 29
  8
  16 17 18 19 20 21 22 23
 0
 
- itm_sword_4 Sword Sword 2  Sword45 0  Scabbard45 3458764513820540928  2251799817945090 9223388564182532111 2790 286740 1.000000 10 0 0 0 6 25600 92 0 81 0 272 25
+ itm_sword_4 Sword Sword 2  Sword45 0  Scabbard45 3458764513820540928  2251799817945090 9223388564182532111 2790 286740 1.000000 10 0 0 0 6 25600 92 0 81 0 278 29
  8
  16 17 18 19 20 21 22 23
 0
 
- itm_sword_5 Short_Sword Short_Sword 2  Sword04 0  Scabbard04 3458764513820540928  2251799817945090 9223388564182532111 1890 286740 1.000000 10 0 0 0 6 21504 93 0 76 0 276 21
+ itm_sword_5 Short_Sword Short_Sword 2  Sword04 0  Scabbard04 3458764513820540928  2251799817945090 9223388564182532111 1890 286740 1.000000 10 0 0 0 6 21504 93 0 76 0 282 27
  8
  16 17 18 19 20 21 22 23
 0
 
- itm_sword_6 Short_Sword Short_Sword 2  Sword09 0  Scabbard09 3458764513820540928  2251799817945090 9223388564182532111 1890 286740 1.000000 10 0 0 0 6 21504 93 0 76 0 276 21
+ itm_sword_6 Short_Sword Short_Sword 2  Sword09 0  Scabbard09 3458764513820540928  2251799817945090 9223388564182532111 1890 286740 1.000000 10 0 0 0 6 21504 93 0 76 0 282 27
  8
  16 17 18 19 20 21 22 23
 0
 
- itm_sword_7 Short_Sword Short_Sword 2  Sword14 0  Scabbard14 3458764513820540928  2251799817945090 9223388564182532111 1890 286740 1.000000 10 0 0 0 6 21504 93 0 76 0 276 21
+ itm_sword_7 Short_Sword Short_Sword 2  Sword14 0  Scabbard14 3458764513820540928  2251799817945090 9223388564182532111 1890 286740 1.000000 10 0 0 0 6 21504 93 0 76 0 282 27
  8
  16 17 18 19 20 21 22 23
 0
 
- itm_sword_8 Short_Sword Short_Sword 2  Sword19 0  Scabbard19 3458764513820540928  2251799817945090 9223388564182532111 1890 286740 1.000000 10 0 0 0 6 21504 93 0 76 0 276 21
+ itm_sword_8 Short_Sword Short_Sword 2  Sword19 0  Scabbard19 3458764513820540928  2251799817945090 9223388564182532111 1890 286740 1.000000 10 0 0 0 6 21504 93 0 76 0 282 27
  8
  16 17 18 19 20 21 22 23
 0
 
- itm_new_sword1 Short_Sword Short_Sword 2  Sword24 0  Scabbard24 3458764513820540928  2251799817945090 9223388564182532111 1890 286740 1.000000 10 0 0 0 6 18432 93 0 76 0 279 18
+ itm_new_sword1 Short_Sword Short_Sword 2  Sword24 0  Scabbard24 3458764513820540928  2251799817945090 9223388564182532111 1890 286740 1.000000 10 0 0 0 6 18432 93 0 76 0 285 26
  5
  16 17 18 19 23
 0
 
- itm_new_sword2 Short_Sword Short_Sword 2  Sword29 0  Scabbard29 3458764513820540928  2251799817945090 9223388564182532111 1890 286740 1.000000 10 0 0 0 6 18432 93 0 76 0 279 18
+ itm_new_sword2 Short_Sword Short_Sword 2  Sword29 0  Scabbard29 3458764513820540928  2251799817945090 9223388564182532111 1890 286740 1.000000 10 0 0 0 6 18432 93 0 76 0 285 26
  5
  16 17 18 19 23
 0
 
- itm_new_sword3 Short_Sword Short_Sword 2  Sword34 0  Scabbard34 3458764513820540928  2251799817945090 9223388564182532111 1890 286740 1.000000 10 0 0 0 6 18432 93 0 76 0 279 18
+ itm_new_sword3 Short_Sword Short_Sword 2  Sword34 0  Scabbard34 3458764513820540928  2251799817945090 9223388564182532111 1890 286740 1.000000 10 0 0 0 6 18432 93 0 76 0 285 26
  5
  16 17 18 19 23
 0
 
- itm_new_sword4 Short_Sword Short_Sword 2  Sword39 0  Scabbard39 3458764513820540928  2251799817945090 9223388564182532111 1890 286740 1.000000 10 0 0 0 6 18432 93 0 76 0 279 18
+ itm_new_sword4 Short_Sword Short_Sword 2  Sword39 0  Scabbard39 3458764513820540928  2251799817945090 9223388564182532111 1890 286740 1.000000 10 0 0 0 6 18432 93 0 76 0 285 26
  5
  16 17 18 19 23
 0
 
- itm_new_sword5 Short_Sword Short_Sword 2  Sword44 0  Scabbard44 3458764513820540928  2251799817945090 9223388564182532111 1890 286740 1.000000 10 0 0 0 6 18432 93 0 76 0 279 18
+ itm_new_sword5 Short_Sword Short_Sword 2  Sword44 0  Scabbard44 3458764513820540928  2251799817945090 9223388564182532111 1890 286740 1.000000 10 0 0 0 6 18432 93 0 76 0 285 26
  5
  16 17 18 19 23
 0
 
- itm_new_sword6 Sword Sword 2  Sword32 0  Scabbard32 3458764513820540928  2251799817945090 9223388564182532111 2790 286740 1.000000 10 0 0 0 6 25600 92 0 81 0 272 25
+ itm_new_sword6 Sword Sword 2  Sword32 0  Scabbard32 3458764513820540928  2251799817945090 9223388564182532111 2790 286740 1.000000 10 0 0 0 6 25600 92 0 81 0 278 29
  5
  16 17 18 19 23
 0
 
- itm_noble_sword Rich_Sword Rich_Sword 2  Sword46 0  Scabbard46 3458764513820540928  2251799817879554 9223388564182532111 4960 286740 1.000000 10 0 0 0 7 28672 92 0 81 0 276 28
+ itm_noble_sword Rich_Sword Rich_Sword 2  Sword46 0  Scabbard46 3458764513820540928  2251799817879554 9223388564182532111 4960 286740 1.000000 10 0 0 0 7 28672 92 0 81 0 282 29
  4
  20 21 22 23
 0
 
- itm_noble_sword_2 Ulfberth_Sword Ulfberth_Sword 2  Sword50_Ulfberht 0  Scabbard50 3458764513820540928  2251799817879554 9223388564182532111 6960 286740 1.000000 10 0 0 0 7 31744 92 0 90 0 278 31
+ itm_noble_sword_2 Ulfberth_Sword Ulfberth_Sword 2  Sword50_Ulfberht 0  Scabbard50 3458764513820540928  2251799817879554 9223388564182532111 6960 286740 1.000000 10 0 0 0 7 31744 92 0 90 0 284 32
  4
  20 21 22 23
 0
 
- itm_noble_sword_3 False_Ulfberth_Sword False_Ulfberth_Sword 2  Sword50_Ulfberht 0  Scabbard50 3458764513820540928  2251799817879554 9223388564182532111 4060 286740 1.000000 10 0 0 0 7 27648 92 0 90 0 275 27
+ itm_noble_sword_3 False_Ulfberth_Sword False_Ulfberth_Sword 2  Sword50_Ulfberht 0  Scabbard50 3458764513820540928  2251799817879554 9223388564182532111 4060 286740 1.000000 10 0 0 0 7 27648 92 0 90 0 281 29
  4
  20 21 22 23
 0
 
- itm_noble_sword_4 Rich_Sword Rich_Sword 2  Sword30 0  Scabbard30 3458764513820540928  2251799817879554 9223388564182532111 4960 286740 1.000000 10 0 0 0 7 30720 92 0 81 0 274 30
+ itm_noble_sword_4 Rich_Sword Rich_Sword 2  Sword30 0  Scabbard30 3458764513820540928  2251799817879554 9223388564182532111 4960 286740 1.000000 10 0 0 0 7 30720 92 0 81 0 280 30
  5
  16 17 18 19 23
 0
 
- itm_noble_sword_5 Ulfberth_Sword Ulfberth_Sword 2  Sword50_Ulfberht 0  Scabbard50 3458764513820540928  2251799817879554 9223388564182532111 6960 286740 1.000000 10 0 0 0 7 31744 92 0 90 0 278 31
+ itm_noble_sword_5 Ulfberth_Sword Ulfberth_Sword 2  Sword50_Ulfberht 0  Scabbard50 3458764513820540928  2251799817879554 9223388564182532111 6960 286740 1.000000 10 0 0 0 7 31744 92 0 90 0 284 32
  5
  16 17 18 19 23
 0
 
- itm_noble_sword_6 False_Ulfberth_Sword False_Ulfberth_Sword 2  Sword50_Ulfberht 0  Scabbard50 3458764513820540928  2251799817879554 9223388564182532111 4060 286740 1.000000 10 0 0 0 7 27648 92 0 90 0 275 27
+ itm_noble_sword_6 False_Ulfberth_Sword False_Ulfberth_Sword 2  Sword50_Ulfberht 0  Scabbard50 3458764513820540928  2251799817879554 9223388564182532111 4060 286740 1.000000 10 0 0 0 7 27648 92 0 90 0 281 29
  5
  16 17 18 19 23
 0
 
- itm_old_swordv Briton_Sword Briton_Sword 2  Sword03 0  Scabbard03 3458764513820540928  2251799817945090 9223388564182532111 2790 286740 1.250000 10 0 0 0 7 28672 90 0 91 0 269 28
+ itm_old_swordv Sword Sword 2  Sword03 0  Scabbard03 3458764513820540928  2251799817945090 9223388564182532111 2790 286740 1.000000 10 0 0 0 7 28672 90 0 91 0 275 28
  5
  24 25 26 27 28
 0
 
- itm_old_swordv2 Briton_Sword Briton_Sword 2  Sword08 0  Scabbard08 3458764513820540928  2251799817945090 9223388564182532111 2790 286740 1.250000 10 0 0 0 7 28672 90 0 91 0 269 28
+ itm_old_swordv2 Sword Sword 2  Sword08 0  Scabbard08 3458764513820540928  2251799817945090 9223388564182532111 2790 286740 1.000000 10 0 0 0 7 28672 90 0 91 0 275 28
  5
  24 25 26 27 28
 0
 
- itm_old_swordv3 Briton_Sword Briton_Sword 2  Sword13 0  Scabbard13 3458764513820540928  2251799817945090 9223388564182532111 2790 286740 1.250000 10 0 0 0 7 28672 90 0 91 0 269 28
+ itm_old_swordv3 Briton_Sword Briton_Sword 2  Sword08 0  Scabbard08 3458764513820540928  2251799817945090 9223388564182532111 2790 286740 1.000000 10 0 0 0 7 28672 90 0 91 0 275 28
  5
  24 25 26 27 28
 0
 
- itm_old_swordv4 Briton_Sword Briton_Sword 2  Sword18 0  Scabbard18 3458764513820540928  2251799817945090 9223388564182532111 2790 286740 1.250000 10 0 0 0 7 28672 90 0 91 0 269 28
+ itm_old_swordv4 Briton_Sword Briton_Sword 2  Sword18 0  Scabbard18 3458764513820540928  2251799817945090 9223388564182532111 2790 286740 1.000000 10 0 0 0 7 28672 90 0 91 0 275 28
  5
  24 25 26 27 28
 0
 
- itm_old_swordv5 Briton_Sword Briton_Sword 2  Sword23 0  Scabbard23 3458764513820540928  2251799817945090 9223388564182532111 2790 286740 1.250000 10 0 0 0 7 28672 90 0 91 0 269 28
+ itm_old_swordv5 Briton_Sword Briton_Sword 2  Sword23 0  Scabbard23 3458764513820540928  2251799817945090 9223388564182532111 2790 286740 1.000000 10 0 0 0 7 28672 90 0 91 0 275 28
  5
  24 25 26 27 28
 0
 
- itm_old_swordv6 Briton_Sword Briton_Sword 2  Sword38 0  Scabbard38 3458764513820540928  2251799817945090 9223388564182532111 2790 286740 1.250000 10 0 0 0 7 28672 90 0 91 0 269 28
+ itm_old_swordv6 Briton_Sword Briton_Sword 2  Sword13 0  Scabbard13 3458764513820540928  2251799817945090 9223388564182532111 2790 286740 1.000000 10 0 0 0 7 28672 90 0 91 0 275 28
  5
  24 25 26 27 28
 0
 
- itm_old_swordv7 Briton_Sword Briton_Sword 2  Sword43 0  Scabbard43 3458764513820540928  2251799817945090 9223388564182532111 2790 286740 1.250000 10 0 0 0 7 28672 90 0 91 0 269 28
+ itm_old_swordv7 Briton_Sword Briton_Sword 2  Sword43 0  Scabbard43 3458764513820540928  2251799817945090 9223388564182532111 2790 286740 1.000000 10 0 0 0 7 28672 90 0 91 0 275 28
  5
  24 25 26 27 28
 0
 
- itm_noble_sword_7 Rich_Briton_Sword Rich_Briton_Sword 2  Sword28 0  Scabbard28 3458764513820540928  2251799817879554 9223388564182532111 3840 286740 1.250000 10 0 0 0 7 31744 90 0 91 0 271 31
+ itm_noble_sword_7 Fine_Sword Fine_Sword 2  Sword38 0  Scabbard38 3458764513820540928  2251799817879554 9223388564182532111 3840 286740 1.000000 10 0 0 0 7 31744 90 0 91 0 277 31
  5
  24 25 26 27 28
 0
 
- itm_noble_sword_8 Rich_Briton_Sword Rich_Briton_Sword 2  Sword33 0  Scabbard33 3458764513820540928  2251799817879554 9223388564182532111 3840 286740 1.250000 10 0 0 0 7 31744 90 0 91 0 271 31
+ itm_noble_sword_8 Fine_Sword Fine_Sword 2  Sword33 0  Scabbard33 3458764513820540928  2251799817879554 9223388564182532111 3840 286740 1.000000 10 0 0 0 7 31744 90 0 91 0 277 31
  5
  24 25 26 27 28
 0
 
- itm_noble_sword_9 Rich_Briton_Sword Rich_Briton_Sword 2  Sword38 0  Scabbard38 3458764513820540928  2251799817879554 9223388564182532111 3840 286740 1.250000 10 0 0 0 7 31744 90 0 91 0 271 31
+ itm_noble_sword_9 Fine_Sword Fine_Sword 2  Sword28 0  Scabbard28 3458764513820540928  2251799817879554 9223388564182532111 3840 286740 1.000000 10 0 0 0 7 31744 90 0 91 0 277 31
  5
  24 25 26 27 28
 0
 
- itm_noble_sword_10 Rich_Briton_Sword Rich_Briton_Sword 2  Sword13 0  Scabbard13 3458764513820540928  2251799817879554 9223388564182532111 3840 286740 1.250000 10 0 0 0 7 31744 90 0 91 0 271 31
+ itm_noble_sword_10 Rich_Briton_Sword Rich_Briton_Sword 2  Sword38 0  Scabbard38 3458764513820540928  2251799817879554 9223388564182532111 3840 286740 1.000000 10 0 0 0 7 31744 90 0 91 0 277 31
  5
  24 25 26 27 28
 0
 
- itm_noble_sword_11 Rich_Briton_Sword Rich_Briton_Sword 2  Sword43 0  Scabbard43 3458764513820540928  2251799817879554 9223388564182532111 3840 286740 1.250000 10 0 0 0 7 31744 90 0 91 0 271 31
+ itm_noble_sword_11 Rich_Briton_Sword Rich_Briton_Sword 2  Sword33 0  Scabbard33 3458764513820540928  2251799817879554 9223388564182532111 3840 286740 1.000000 10 0 0 0 7 31744 90 0 91 0 277 31
  5
  24 25 26 27 28
 0
 
- itm_noble_sword_12 Rich_Briton_Sword Rich_Briton_Sword 2  Sword20 0  Scabbard20 3458764513820540928  2251799817879554 9223388564182532111 4960 286740 1.000000 10 0 0 0 7 30720 92 0 81 0 274 30
+ itm_noble_sword_12 Rich_Briton_Sword Rich_Briton_Sword 2  Sword20 0  Scabbard20 3458764513820540928  2251799817879554 9223388564182532111 4960 286740 1.000000 10 0 0 0 7 30720 92 0 81 0 280 30
  5
  24 25 26 27 28
 0
 
- itm_noble_sword_13 Rich_Briton_Sword Rich_Briton_Sword 2  Sword40 0  Scabbard40 3458764513820540928  2251799817879554 9223388564182532111 4960 286740 1.000000 10 0 0 0 7 30720 92 0 81 0 274 30
+ itm_noble_sword_13 Rich_Briton_Sword Rich_Briton_Sword 2  Sword40 0  Scabbard40 3458764513820540928  2251799817879554 9223388564182532111 4960 286740 1.000000 10 0 0 0 7 30720 92 0 81 0 280 30
  5
  24 25 26 27 28
 0
 
- itm_noble_swordv False_Ulfberth_Sword False_Ulfberth_Sword 2  Sword50_Ulfberht 0  Scabbard50 3458764513820540928  2251799817879554 9223388564182532111 4060 286740 1.000000 10 0 0 0 7 27648 92 0 90 0 275 27
+ itm_noble_swordv False_Ulfberth_Sword False_Ulfberth_Sword 2  Sword50_Ulfberht 0  Scabbard50 3458764513820540928  2251799817879554 9223388564182532111 4060 286740 1.000000 10 0 0 0 7 27648 92 0 90 0 281 29
  5
  24 25 26 27 28
 0
 
- itm_noble_swordv3 False_Ulfberth_Sword False_Ulfberth_Sword 2  Sword50_Ulfberht 0  Scabbard50 3458764513820540928  2251799817879554 9223388564182532111 4060 286740 1.000000 10 0 0 0 7 27648 92 0 90 0 275 27
+ itm_noble_swordv3 False_Ulfberth_Sword False_Ulfberth_Sword 2  Sword50_Ulfberht 0  Scabbard50 3458764513820540928  2251799817879554 9223388564182532111 4060 286740 1.000000 10 0 0 0 7 27648 92 0 90 0 281 29
  5
  24 25 26 27 28
 0
 
- itm_noble_swordv4 Ulfberth_Sword Ulfberth_Sword 2  Sword50_Ulfberht 0  Scabbard50 3458764513820540928  2251799817879554 9223388564182532111 6960 286740 1.000000 10 0 0 0 7 31744 92 0 90 0 278 31
+ itm_noble_swordv4 Ulfberth_Sword Ulfberth_Sword 2  Sword50_Ulfberht 0  Scabbard50 3458764513820540928  2251799817879554 9223388564182532111 6960 286740 1.000000 10 0 0 0 7 31744 92 0 90 0 284 32
  5
  24 25 26 27 28
 0
 
- itm_noble_swordv5 Rich_Sword Rich_Sword 2  Sword35 0  Scabbard35 3458764513820540928  2251799817879554 9223388564182532111 4960 286740 1.000000 10 0 0 0 7 30720 92 0 81 0 274 30
+ itm_noble_swordv5 Rich_Sword Rich_Sword 2  Sword35 0  Scabbard35 3458764513820540928  2251799817879554 9223388564182532111 4960 286740 1.000000 10 0 0 0 7 30720 92 0 81 0 280 30
  5
  24 25 26 27 28
 0
 
- itm_noble_swordv6 Rich_Sword Rich_Sword 2  Sword37 0  Scabbard37 3458764513820540928  2251799817879554 9223388564182532111 4960 286740 1.000000 10 0 0 0 7 30720 92 0 81 0 274 30
+ itm_noble_swordv6 Rich_Sword Rich_Sword 2  Sword37 0  Scabbard37 3458764513820540928  2251799817879554 9223388564182532111 4960 286740 1.000000 10 0 0 0 7 30720 92 0 81 0 280 30
  5
  24 25 26 27 28
 0
 
- itm_noble_swordv7 Rich_Sword Rich_Sword 2  Sword27 0  Scabbard27 3458764513820540928  2251799817879554 9223388564182532111 4960 286740 1.000000 10 0 0 0 7 30720 92 0 81 0 274 30
+ itm_noble_swordv7 Rich_Sword Rich_Sword 2  Sword27 0  Scabbard27 3458764513820540928  2251799817879554 9223388564182532111 4960 286740 1.000000 10 0 0 0 7 30720 92 0 81 0 280 30
  5
  24 25 26 27 28
 0
 
- itm_irish_long_sword1 Goidelic_Noble_Long_Sword Goidelic_Noble_Long_Sword 2  GP_swords01 0  GP_swords01_Scabbard 3458764513820540928  2251799817879554 9223388564182532111 4960 286740 1.250000 10 0 0 0 8 35840 89 0 94 0 269 35
+ itm_irish_long_sword1 Goidelic_Noble_Long_Sword Goidelic_Noble_Long_Sword 2  GP_swords01 0  GP_swords01_Scabbard 3458764513820540928  2251799817879554 9223388564182532111 5260 286740 1.000000 10 0 0 0 8 35840 86 0 94 0 278 30
  8
  29 30 31 32 33 34 35 36
 0
 
- itm_irish_long_sword2 Goidelic_Noble_Long_Sword Goidelic_Noble_Long_Sword 2  GP_swords10 0  GP_swords10_Scabbard 3458764513820540928  2251799817879554 9223388564182532111 4960 286740 1.750000 10 0 0 0 9 33792 87 0 100 0 269 33
+ itm_irish_long_sword2 Goidelic_Noble_Long_Sword Goidelic_Noble_Long_Sword 2  GP_swords10 0  GP_swords10_Scabbard 3458764513820540928  2251799817879554 9223388564182532111 5860 286740 1.000000 10 0 0 0 9 33792 82 0 100 0 278 31
  8
  29 30 31 32 33 34 35 36
 0
 
- itm_irish_long_sword3 Goidelic_Long_Sword Goidelic_Long_Sword 2  GP_swords02 0  GP_swords02_Scabbard 3458764513820540928  2251799817945090 9223388564182532111 4790 286740 1.250000 10 0 0 0 9 33792 87 0 100 0 267 33
+ itm_irish_long_sword3 Goidelic_Long_Sword Goidelic_Long_Sword 2  GP_swords02 0  GP_swords02_Scabbard 3458764513820540928  2251799817945090 9223388564182532111 4990 286740 1.000000 10 0 0 0 9 33792 82 0 100 0 276 30
  8
  29 30 31 32 33 34 35 36
 0
 
- itm_irish_long_sword4 Goidelic_Long_Sword Goidelic_Long_Sword 2  GP_swords03 0  GP_swords03_Scabbard 3458764513820540928  2251799817945090 9223388564182532111 4790 286740 1.250000 10 0 0 0 8 30720 89 0 94 0 267 30
+ itm_irish_long_sword4 Goidelic_Long_Sword Goidelic_Long_Sword 2  GP_swords03 0  GP_swords03_Scabbard 3458764513820540928  2251799817945090 9223388564182532111 4790 286740 1.000000 10 0 0 0 8 30720 86 0 94 0 276 29
  8
  29 30 31 32 33 34 35 36
 0
 
- itm_irish_long_sword5 Goidelic_Long_Sword Goidelic_Long_Sword 2  GP_swords05 0  GP_swords05_Scabbard 3458764513820540928  2251799817945090 9223388564182532111 4790 286740 1.250000 10 0 0 0 8 30720 89 0 94 0 267 30
+ itm_irish_long_sword5 Goidelic_Long_Sword Goidelic_Long_Sword 2  GP_swords05 0  GP_swords05_Scabbard 3458764513820540928  2251799817945090 9223388564182532111 4790 286740 1.000000 10 0 0 0 8 30720 86 0 94 0 276 29
  8
  29 30 31 32 33 34 35 36
 0
 
- itm_irish_long_sword6 Goidelic_Long_Sword Goidelic_Long_Sword 2  GP_swords06 0  GP_swords06_Scabbard 3458764513820540928  2251799817945090 9223388564182532111 4790 286740 1.250000 10 0 0 0 9 33792 87 0 100 0 267 33
+ itm_irish_long_sword6 Goidelic_Long_Sword Goidelic_Long_Sword 2  GP_swords06 0  GP_swords06_Scabbard 3458764513820540928  2251799817945090 9223388564182532111 4990 286740 1.000000 10 0 0 0 9 33792 82 0 100 0 276 30
  8
  29 30 31 32 33 34 35 36
 0
 
- itm_irish_long_sword7 Goidelic_Long_Sword Goidelic_Long_Sword 2  GP_swords07 0  GP_swords07_Scabbard 3458764513820540928  2251799817945090 9223388564182532111 4790 286740 1.250000 10 0 0 0 8 30720 89 0 94 0 267 30
+ itm_irish_long_sword7 Goidelic_Long_Sword Goidelic_Long_Sword 2  GP_swords07 0  GP_swords07_Scabbard 3458764513820540928  2251799817945090 9223388564182532111 4790 286740 1.000000 10 0 0 0 8 30720 86 0 94 0 276 29
  8
  29 30 31 32 33 34 35 36
 0
 
- itm_irish_long_sword8 Goidelic_Long_Sword Goidelic_Long_Sword 2  GP_swords08 0  GP_swords08_Scabbard 3458764513820540928  2251799817945090 9223388564182532111 4790 286740 1.250000 10 0 0 0 8 30720 89 0 94 0 267 30
+ itm_irish_long_sword8 Goidelic_Long_Sword Goidelic_Long_Sword 2  GP_swords08 0  GP_swords08_Scabbard 3458764513820540928  2251799817945090 9223388564182532111 4790 286740 1.000000 10 0 0 0 8 30720 86 0 94 0 276 29
  8
  29 30 31 32 33 34 35 36
 0
 
- itm_irish_short_sword1 Goidelic_Short_Sword Goidelic_Short_Sword 2  short_swords01 0  short_swords01_Scabbard 3458764513820540928  2251799817961474 9223372071508115471 2790 286740 1.000000 100 0 0 0 4 13312 92 0 70 0 288 13
+ itm_irish_short_sword1 Goidelic_Short_Sword Goidelic_Short_Sword 2  short_swords01 0  short_swords01_Scabbard 3458764513820540928  2251799817945090 9223388564182532111 2790 286740 1.000000 100 0 0 0 4 13312 92 0 70 0 291 17
  8
  29 30 31 32 33 34 35 36
 0
 
- itm_irish_short_sword2 Goidelic_Short_Sword Goidelic_Short_Sword 2  short_swords05 0  short_swords05_Scabbard 3458764513820540928  2251799817961474 9223372071508115471 2790 286740 1.000000 100 0 0 0 4 13312 92 0 70 0 288 13
+ itm_irish_short_sword2 Goidelic_Short_Sword Goidelic_Short_Sword 2  short_swords05 0  short_swords05_Scabbard 3458764513820540928  2251799817945090 9223388564182532111 3090 286740 1.000000 100 0 0 0 4 13312 92 0 70 0 291 18
  8
  29 30 31 32 33 34 35 36
 0
 
- itm_irish_short_sword3 Goidelic_Short_Sword Goidelic_Short_Sword 2  short_swords10 0  short_swords10_Scabbard 3458764513820540928  2251799817961474 9223372071508115471 2790 286740 1.000000 100 0 0 0 4 13312 92 0 70 0 288 13
+ itm_irish_short_sword3 Goidelic_Short_Sword Goidelic_Short_Sword 2  short_swords10 0  short_swords10_Scabbard 3458764513820540928  2251799817945090 9223388564182532111 2790 286740 1.000000 100 0 0 0 4 13312 92 0 70 0 291 17
  8
  29 30 31 32 33 34 35 36
 0
 
- itm_championsword1 Goidelic_Champion_Sword Goidelic_Champion_Sword 2  GP_swords04 0  GP_swords04_Scabbard 3458764513820540928  2251800220598275 9223635954298781951 5030 286740 1.500000 10 0 0 0 11 38912 86 0 120 0 269 38
+ itm_championsword1 Goidelic_Champion_Sword Goidelic_Champion_Sword 2  GP_swords04 0  GP_swords04_Scabbard 3458764513820540928  2251800220598275 9223635954298781951 5030 286740 2.000000 10 0 0 0 11 38912 85 0 120 0 282 42
  7
  29 30 31 32 33 34 36
 0
 
- itm_championsword2 Goidelic_Champion_Sword Goidelic_Champion_Sword 2  GP_swords09 0  GP_swords09_Scabbard 3458764513820540928  2251800220532739 9223635954298781951 5030 286740 1.500000 10 0 0 0 11 38912 86 0 120 0 269 38
+ itm_championsword2 Goidelic_Champion_Sword Goidelic_Champion_Sword 2  GP_swords09 0  GP_swords09_Scabbard 3458764513820540928  2251800220532739 9223635954298781951 5030 286740 2.000000 10 0 0 0 11 38912 85 0 120 0 282 42
  7
  29 30 31 32 33 34 36
 0
 
- itm_widow_maker Widow_Maker Widow_Maker 2  Sword50_Ulfberht 0  Scabbard50 3458764513820540928  2251799817879554 9223388564182532111 8360 286740 1.250000 10 0 0 0 9 33792 90 0 90 0 274 33
+ itm_widow_maker Widow_Maker Widow_Maker 2  Sword50_Ulfberht 0  Scabbard50 3458764513820540928  2251799817879554 9223388564182532111 8360 286740 1.000000 10 0 0 0 9 33792 91 0 90 0 280 33
  0
 0
 
- itm_suttonhoosword2 Bandit_King_Sword Bandit_King_Sword 2  Sword50_Ulfberht 0  Scabbard50 3458764513820540928  2251799817879554 9223388564182532111 8960 286740 1.250000 100 0 0 0 7 34816 90 0 90 0 272 34
+ itm_suttonhoosword2 Bandit_King_Sword Bandit_King_Sword 2  Sword50_Ulfberht 0  Scabbard50 3458764513820540928  2251799817879554 9223388564182532111 8960 286740 1.000000 100 0 0 0 7 34816 90 0 90 0 278 34
  0
 0
 
- itm_siren_song Laufi Laufi 2  Sword49_Laufi 0  Scabbard49 3458764513820540928  2251799817879554 9223388564182532111 8960 286740 1.250000 100 0 0 0 9 30720 86 0 86 0 275 30
+ itm_siren_song Laufi Laufi 2  Sword49_Laufi 0  Scabbard49 3458764513820540928  2251799817879554 9223388564182532111 8960 286740 1.000000 100 0 0 0 9 30720 92 0 86 0 281 34
  0
 0
 
- itm_sword_of_war Olvir's_Sword Olvir's_Sword 2  Sword52_Runesword 0  Scabbard52 3458764513820540928  2251799817879554 9223388564182532111 8960 286740 1.250000 100 0 0 0 7 28672 92 0 81 0 278 28
+ itm_sword_of_war Olvir's_Sword Olvir's_Sword 2  Sword52_Runesword 0  Scabbard52 3458764513820540928  2251799817879554 9223388564182532111 8960 286740 1.000000 100 0 0 0 7 28672 95 0 81 0 284 30
  0
 0
 
- itm_sword_premium1 Nad Nad 2  Sword51 0  Scabbard51 3458764513820540928  2251799817879554 9223388564182532111 8960 286740 1.250000 100 0 0 0 7 34816 89 0 96 0 270 34
+ itm_sword_premium1 Nad Nad 2  Sword51 0  Scabbard51 3458764513820540928  2251799817879554 9223388564182532111 8960 286740 1.000000 100 0 0 0 7 34816 87 0 96 0 276 34
  0
 0
 
- itm_sword_premium2 Draguandil Draguandil 2  Sword52_Runesword 0  Scabbard52 3458764513820540928  2251799817879554 9223388564182532111 8960 286740 1.250000 100 0 0 0 7 28672 92 0 81 0 278 28
+ itm_sword_premium2 Draguandil Draguandil 2  Sword52_Runesword 0  Scabbard52 3458764513820540928  2251799817879554 9223388564182532111 8960 286740 1.000000 100 0 0 0 7 28672 97 0 81 0 284 33
  0
 0
 
- itm_sword_premium3 Blynjubitr Blynjubitr 2  Sword48_Brynjubitr 0  Scabbard48 3458764513820540928  2251799817879554 9223388564182532111 8960 286740 1.250000 100 0 0 0 7 29696 92 0 81 0 277 29
+ itm_sword_premium3 Blynjubitr Blynjubitr 2  Sword48_Brynjubitr 0  Scabbard48 3458764513820540928  2251799817879554 9223388564182532111 8960 286740 1.000000 100 0 0 0 7 29696 95 0 81 0 286 33
  0
 0
 
- itm_hatchet Axe Axe 1  Axt01-1 0  2251799893704706 9223388530091229198 370 262164 1.000000 100 0 0 0 6 26624 91 0 67 0 256 26
+ itm_hatchet Axe Axe 1  Axt01-1 0  2251799893704706 9223388530091229198 370 262164 1.000000 100 0 0 0 6 26624 86 0 67 0 256 26
  13
  16 17 18 19 20 21 22 23 24 25 26 27 28
 0
 
- itm_axe Axe Axe 1  Axt01-2 0  2251799893704706 9223388530091229198 370 262164 1.000000 100 0 0 0 6 25600 92 0 62 0 256 25
+ itm_axe Axe Axe 1  Axt01-2 0  2251799893704706 9223388530091229198 370 262164 1.000000 100 0 0 0 6 25600 87 0 62 0 256 25
  13
  16 17 18 19 20 21 22 23 24 25 26 27 28
 0
 
- itm_axe_2 Short_Axe Short_Axe 1  Axt01-3 0  2251799893704706 9223388530091229198 370 262164 1.000000 100 0 0 0 6 23552 94 0 52 0 256 23
+ itm_axe_2 Short_Axe Short_Axe 1  Axt01-3 0  2251799893704706 9223388530091229198 370 262164 1.000000 100 0 0 0 6 23552 89 0 52 0 256 23
  13
  16 17 18 19 20 21 22 23 24 25 26 27 28
 0
 
- itm_hand_axe Short_Axe Short_Axe 1  Axt01-4 0  2251799893704706 9223388530091229198 370 262164 1.000000 100 0 0 0 6 23552 94 0 52 0 256 23
+ itm_hand_axe Short_Axe Short_Axe 1  Axt01-4 0  2251799893704706 9223388530091229198 370 262164 1.000000 100 0 0 0 6 23552 89 0 52 0 256 23
  13
  16 17 18 19 20 21 22 23 24 25 26 27 28
 0
 
- itm_axe_3 Long_Axe Long_Axe 1  Axt03-5 0  2251800287969283 9223635923965575406 480 262164 1.500000 100 0 0 0 9 30720 85 0 83 0 256 30
+ itm_axe_3 Long_Axe Long_Axe 1  Axt03-5 0  2251800296357891 9227594165825572366 480 262164 1.500000 100 0 0 0 9 30720 88 0 83 0 256 39
  13
  16 17 18 19 20 21 22 23 24 25 26 27 28
 0
 
- itm_axe_4 Long_Axe Long_Axe 1  Axt03-6 0  2251800287969283 9223635923965575406 480 262164 1.500000 100 0 0 0 9 30720 85 0 83 0 256 30
+ itm_axe_4 Long_Axe Long_Axe 1  Axt03-6 0  2251800296357891 9227594165825572366 480 262164 1.500000 100 0 0 0 9 30720 88 0 83 0 256 39
  13
  16 17 18 19 20 21 22 23 24 25 26 27 28
 0
 
- itm_one_handed_war_axe_a Short_Battle_Axe Short_Battle_Axe 1  Axt02-1 0  2251799893704706 9223388530091229199 440 262164 1.500000 100 0 0 0 7 25600 92 0 61 0 271 25
+ itm_one_handed_war_axe_a Short_Battle_Axe Short_Battle_Axe 1  Axt02-1 0  2251799893704706 9223388530091229198 440 262164 1.500000 100 0 0 0 7 25600 87 0 61 0 256 26
  8
  16 17 18 19 20 21 22 23
 0
 
- itm_one_handed_war_axe_b Short_Battle_Axe Short_Battle_Axe 1  Axt02-2 0  2251799893704706 9223388530091229199 440 262164 1.500000 100 0 0 0 7 25600 92 0 61 0 271 25
+ itm_one_handed_war_axe_b Short_Battle_Axe Short_Battle_Axe 1  Axt02-2 0  2251799893704706 9223388530091229198 440 262164 1.500000 100 0 0 0 7 25600 87 0 61 0 256 26
  8
  16 17 18 19 20 21 22 23
 0
 
- itm_one_handed_war_axe_c Short_Battle_Axe Short_Battle_Axe 1  Axt02-3 0  2251799893704706 9223388530091229199 440 262164 1.250000 100 0 0 0 7 24576 93 0 56 0 271 24
+ itm_one_handed_war_axe_c Short_Battle_Axe Short_Battle_Axe 1  Axt02-3 0  2251799893704706 9223388530091229198 440 262164 1.250000 100 0 0 0 7 24576 88 0 56 0 256 25
  8
  16 17 18 19 20 21 22 23
 0
 
- itm_one_handed_war_axe_d Short_Battle_Axe Short_Battle_Axe 1  Axt02-4 0  2251799893704706 9223388530091229199 440 262164 1.250000 100 0 0 0 7 23552 94 0 51 0 271 23
+ itm_one_handed_war_axe_d Short_Battle_Axe Short_Battle_Axe 1  Axt02-4 0  2251799893704706 9223388530091229198 440 262164 1.250000 100 0 0 0 7 23552 89 0 51 0 256 24
  8
  16 17 18 19 20 21 22 23
 0
 
- itm_one_handed_war_axe_e Long_Battle_Axe Long_Battle_Axe 1  Axt02-5 0  2251800287969283 9223635923965575423 480 262164 1.750000 20 0 0 0 9 31744 85 0 81 0 274 31
+ itm_one_handed_war_axe_e Long_Battle_Axe Long_Battle_Axe 1  Axt02-5 0  2251800296357891 9227594165825572366 1080 262164 1.750000 20 0 0 0 9 31744 89 0 81 0 256 43
  8
  16 17 18 19 20 21 22 23
 0
 
- itm_one_handed_war_axe_f Long_Battle_Axe Long_Battle_Axe 1  Axt02-6 0  2251800287969283 9223635923965575423 520 262164 1.750000 20 0 0 0 9 32768 84 0 83 0 274 32
+ itm_one_handed_war_axe_f Long_Battle_Axe Long_Battle_Axe 1  Axt02-6 0  2251800296357891 9227594165825572366 1120 262164 1.750000 20 0 0 0 9 32768 87 0 83 0 256 43
  8
  16 17 18 19 20 21 22 23
 0
 
- itm_axe_5 Long_Hand_Axe Long_Hand_Axe 1  Axt03-1 0  2251799893704706 9223388530091229198 390 262164 1.250000 100 0 0 0 7 27648 91 0 67 0 256 27
+ itm_axe_5 Long_Hand_Axe Long_Hand_Axe 1  Axt03-1 0  2251799893704706 9223388530091229198 390 262164 1.250000 100 0 0 0 7 27648 86 0 67 0 256 28
  8
  16 17 18 19 20 21 22 23
 0
 
- itm_axe_6 Hand_Axe Hand_Axe 1  Axt03-2 0  2251799893704706 9223388530091229198 370 262164 1.250000 100 0 0 0 7 25600 92 0 62 0 256 25
+ itm_axe_6 Hand_Axe Hand_Axe 1  Axt03-2 0  2251799893704706 9223388530091229198 370 262164 1.250000 100 0 0 0 7 25600 87 0 62 0 256 26
  8
  16 17 18 19 20 21 22 23
 0
 
- itm_axe_7 Short_Hand_Axe Short_Hand_Axe 1  Axt03-3 0  2251799893704706 9223388530091229198 360 262164 1.250000 100 0 0 0 7 24576 93 0 57 0 256 24
+ itm_axe_7 Short_Hand_Axe Short_Hand_Axe 1  Axt03-3 0  2251799893704706 9223388530091229198 360 262164 1.250000 100 0 0 0 7 24576 88 0 57 0 256 25
  8
  16 17 18 19 20 21 22 23
 0
 
- itm_axe_8 Short_Hand_Axe Short_Hand_Axe 1  Axt03-4 0  2251799893704706 9223388530091229198 360 262164 1.250000 100 0 0 0 7 23552 94 0 52 0 256 23
+ itm_axe_8 Short_Hand_Axe Short_Hand_Axe 1  Axt03-4 0  2251799893704706 9223388530091229198 360 262164 1.250000 100 0 0 0 7 23552 89 0 52 0 256 24
  8
  16 17 18 19 20 21 22 23
 0
 
- itm_axe_9 Hand_Axe Hand_Axe 1  Axt03-5A 0  2251799893704706 9223388530091229198 380 262164 1.250000 100 0 0 0 7 25600 92 0 62 0 256 25
+ itm_axe_9 Hand_Axe Hand_Axe 1  Axt03-5A 0  2251799893704706 9223388530091229198 380 262164 1.250000 100 0 0 0 7 25600 87 0 62 0 256 26
  8
  16 17 18 19 20 21 22 23
 0
 
- itm_axe_10 Big_Hand_Axe Big_Hand_Axe 1  Axt03-5B 0  2251799893704706 9223388530091229198 390 262164 1.250000 40 0 0 0 7 27648 91 0 67 0 256 27
+ itm_axe_10 Big_Hand_Axe Big_Hand_Axe 1  Axt03-5B 0  2251799893704706 9223388530091229198 390 262164 1.250000 40 0 0 0 7 27648 86 0 67 0 256 28
  8
  16 17 18 19 20 21 22 23
 0
 
- itm_pictish_hatchet Goidelic_Axe Goidelic_Axe 1  Axt04-1 0  2251799893704706 9223388530091229198 420 262164 1.250000 100 0 0 0 7 28672 91 0 64 0 256 28
+ itm_pictish_hatchet Goidelic_Axe Goidelic_Axe 1  Axt04-1 0  2251799893704706 9223388530091229198 420 262164 1.250000 100 0 0 0 7 28672 86 0 64 0 256 27
  8
  29 30 31 32 33 34 35 36
 0
 
- itm_pictish_hatchet2 Goidelic_Axe Goidelic_Axe 1  Axt04-4 0  2251799893704706 9223388530091229198 420 262164 1.000000 100 0 0 0 6 24576 94 0 54 0 256 24
+ itm_pictish_hatchet2 Goidelic_Axe Goidelic_Axe 1  Axt04-4 0  2251799893704706 9223388530091229198 420 262164 1.000000 100 0 0 0 6 24576 89 0 54 0 256 23
  8
  29 30 31 32 33 34 35 36
 0
 
- itm_pictish_hatchet3 Goidelic_Long_Axe Goidelic_Long_Axe 1  Axt04-5 0  2251800296357891 9223635923965575406 460 262164 1.500000 20 0 0 0 9 33792 87 0 84 0 256 33
+ itm_pictish_hatchet3 Long_Axe Long_Axe 1  Axt04-5 0  2251800296357891 9227594165825572366 730 262164 1.750000 20 0 0 0 9 33792 88 0 84 0 256 40
  8
  29 30 31 32 33 34 35 36
 0
 
- itm_pictish_hatchet4 Goidelic_Long_Axe Goidelic_Long_Axe 1  Axt04-6 0  2251800296357891 9223635923965575406 460 262164 1.500000 20 0 0 0 9 33792 87 0 84 0 256 33
+ itm_pictish_hatchet4 Long_Axe Long_Axe 1  Axt04-6 0  2251800296357891 9227594165825572366 710 262164 1.750000 20 0 0 0 9 33792 88 0 84 0 256 40
  8
  29 30 31 32 33 34 35 36
 0
 
- itm_pictish_hatchet5 Pictish_Axe Pictish_Axe 1  Axt05-1 0  2251799893704706 9223388530091229198 390 262164 1.500000 100 0 0 0 9 29696 90 0 68 0 256 29
+ itm_pictish_hatchet5 Pictish_Axe Pictish_Axe 1  Axt05-1 0  2251799893704706 9223388530091229198 390 262164 1.500000 100 0 0 0 9 29696 85 0 68 0 256 28
  8
  29 30 31 32 33 34 35 36
 0
 
- itm_pictish_hatchet6 Pictish_Axe Pictish_Axe 1  Axt05-2 0  2251799893704706 9223388530091229198 390 262164 1.500000 100 0 0 0 9 28672 91 0 64 0 256 28
+ itm_pictish_hatchet6 Pictish_Axe Pictish_Axe 1  Axt05-2 0  2251799893704706 9223388530091229198 390 262164 1.500000 100 0 0 0 9 28672 86 0 64 0 256 27
  8
  29 30 31 32 33 34 35 36
 0
 
- itm_pictish_hatchet7 Pictish_Axe Pictish_Axe 1  Axt05-3 0  2251799893704706 9223388530091229198 390 262164 1.250000 100 0 0 0 8 26624 92 0 59 0 256 26
+ itm_pictish_hatchet7 Pictish_Axe Pictish_Axe 1  Axt05-3 0  2251799893704706 9223388530091229198 390 262164 1.250000 100 0 0 0 8 26624 87 0 59 0 256 25
  8
  29 30 31 32 33 34 35 36
 0
 
- itm_pictish_hatchet8 Short_Pictish_Axe Short_Pictish_Axe 1  Axt05-4 0  2251799893704706 9223388530091229198 390 262164 1.250000 100 0 0 0 8 24576 93 0 54 0 256 24
+ itm_pictish_hatchet8 Short_Pictish_Axe Short_Pictish_Axe 1  Axt05-4 0  2251799893704706 9223388530091229198 390 262164 1.250000 100 0 0 0 8 24576 88 0 54 0 256 23
  8
  29 30 31 32 33 34 35 36
 0
 
- itm_pictish_hatchet9 Big_Pictish_Axe Big_Pictish_Axe 1  Axt05-5 0  2251799893704706 9223388533849325582 420 262164 2.000000 40 0 0 0 9 32768 87 0 73 0 256 32
+ itm_pictish_hatchet9 Norse_Axe Norse_Axe 1  Axt05-5 0  2251799893704706 9223388533849325582 1820 262164 2.000000 10 0 0 0 9 32768 82 0 73 0 256 32
+ 5
+ 16 17 18 19 23
+0
+
+ itm_pictish_hatchet10 Big_Pictish_Axe Big_Pictish_Axe 1  Axt05-6 0  2251799893704706 9223388533849325582 420 262164 2.000000 40 0 0 0 9 29696 83 0 64 0 256 28
  8
  29 30 31 32 33 34 35 36
 0
 
- itm_pictish_hatchet10 Big_Pictish_Axe Big_Pictish_Axe 1  Axt05-6 0  2251799893704706 9223388533849325582 420 262164 2.000000 40 0 0 0 9 29696 88 0 64 0 256 29
+ itm_pictish_hatchet11 Goidelic_Hatchet Goidelic_Hatchet 1  Axt06-1 0  2251799893704706 9223388530091229198 370 262164 1.000000 100 0 0 0 5 26624 86 0 68 0 256 26
  8
  29 30 31 32 33 34 35 36
 0
 
- itm_pictish_hatchet11 Goidelic_Hatchet Goidelic_Hatchet 1  Axt06-1 0  2251799893704706 9223388530091229198 370 262164 1.000000 100 0 0 0 5 26624 91 0 68 0 256 26
+ itm_pictish_hatchet12 Goidelic_Hatchet Goidelic_Hatchet 1  Axt06-2 0  2251799893704706 9223388530091229198 370 262164 1.000000 100 0 0 0 4 25600 87 0 63 0 256 25
  8
  29 30 31 32 33 34 35 36
 0
 
- itm_pictish_hatchet12 Goidelic_Hatchet Goidelic_Hatchet 1  Axt06-2 0  2251799893704706 9223388530091229198 370 262164 1.000000 100 0 0 0 4 25600 92 0 63 0 256 25
+ itm_pictish_hatchet13 Short_Goidelic_Hatchet Short_Goidelic_Hatchet 1  Axt06-3 0  2251799893704706 9223388530091229198 370 262164 1.000000 100 0 0 0 4 23552 89 0 53 0 256 23
  8
  29 30 31 32 33 34 35 36
 0
 
- itm_pictish_hatchet13 Short_Goidelic_Hatchet Short_Goidelic_Hatchet 1  Axt06-3 0  2251799893704706 9223388530091229198 370 262164 1.000000 100 0 0 0 4 23552 94 0 53 0 256 23
+ itm_pictish_hatchet14 Short_Goidelic_Hatchet Short_Goidelic_Hatchet 1  Axt06-4 0  2251799893704706 9223388530091229198 370 262164 1.000000 100 0 0 0 4 23552 89 0 53 0 256 23
  8
  29 30 31 32 33 34 35 36
 0
 
- itm_pictish_hatchet14 Short_Goidelic_Hatchet Short_Goidelic_Hatchet 1  Axt06-4 0  2251799893704706 9223388530091229198 370 262164 1.000000 100 0 0 0 4 23552 94 0 53 0 256 23
+ itm_pictish_hatchet15 Long_Hatchet Long_Hatchet 1  Axt06-5 0  2251800296357891 9227594165825572366 390 262164 1.750000 20 0 0 0 9 31744 89 0 84 0 256 38
  8
  29 30 31 32 33 34 35 36
 0
 
- itm_pictish_hatchet15 Goidelic_Long_Hatchet Goidelic_Long_Hatchet 1  Axt06-5 0  2251800296357891 9223635923965575406 390 262164 1.750000 20 0 0 0 9 31744 87 0 84 0 256 31
+ itm_pictish_hatchet16 Long_Hatchet Long_Hatchet 1  Axt06-6 0  2251800296357891 9227594165825572366 390 262164 1.750000 20 0 0 0 9 31744 89 0 84 0 256 38
  8
  29 30 31 32 33 34 35 36
 0
 
- itm_pictish_hatchet16 Goidelic_Long_Hatchet Goidelic_Long_Hatchet 1  Axt06-6 0  2251800296357891 9223635923965575406 390 262164 1.750000 20 0 0 0 9 31744 87 0 84 0 256 31
+ itm_pictish_hatchet17 Engraved_Axe Engraved_Axe 1  Axt04-2 0  2251799893639170 9223388530091229198 1720 262164 1.250000 100 0 0 0 7 28672 86 0 65 0 256 31
  8
  29 30 31 32 33 34 35 36
 0
 
- itm_pictish_hatchet17 Noble_Goidelic_Axe Noble_Goidelic_Axe 1  Axt04-2 0  2251799893639170 9223388530091229198 420 262164 1.250000 100 0 0 0 7 28672 91 0 65 0 256 28
+ itm_pictish_hatchet18 Engraved_Axe Engraved_Axe 1  Axt04-3 0  2251799893639170 9223388530091229198 1620 262164 1.250000 100 0 0 0 7 27648 89 0 60 0 256 30
  8
  29 30 31 32 33 34 35 36
 0
 
- itm_pictish_hatchet18 Noble_Goidelic_Axe Noble_Goidelic_Axe 1  Axt04-3 0  2251799893639170 9223388530091229198 420 262164 1.250000 100 0 0 0 7 27648 92 0 60 0 256 27
- 8
- 29 30 31 32 33 34 35 36
-0
-
- itm_long_axe_b Woodcutter Woodcutter 1  Axt07 0  2251800164171779 9223635923965575406 820 262164 3.500000 100 0 0 0 11 43008 75 0 110 0 256 42
+ itm_long_axe_b Dane_Axe Dane_Axe 1  Axt07 0  2251804450750467 9227594165825572352 1520 262164 2.500000 100 0 0 0 14 43008 84 0 110 0 256 48
  0
 0
 
- itm_frankish_axe Frankish_Battle_Axe Frankish_Battle_Axe 1  Axt02-5 0  2251800296292355 9223635923965575423 1380 262164 1.750000 100 0 0 0 9 34816 86 0 81 0 274 34
+ itm_frankish_axe Long_Battle_Axe Long_Battle_Axe 1  Axt02-5 0  2251800296292355 9227594165825572366 1200 262164 1.750000 100 0 0 0 9 34816 89 0 81 0 256 43
  0
 0
 
- itm_staff Staff Staff 1  wooden_staff 0  2251801034686468 4222124851990272 60 8202 3.250000 100 0 0 0 0 16384 85 0 167 0 523 528
+ itm_staff Staff Staff 1  wooden_staff 0  2251801034686468 4222124851990272 60 8202 3.250000 100 0 0 0 0 16384 85 0 167 0 528 528
  0
 0
 
- itm_quarter_staff Short_Staff Short_Staff 1  quarter_staff 0  2251801034686468 4222124851990272 70 8202 3.000000 100 0 0 0 0 18432 85 0 151 0 524 530
+ itm_quarter_staff Short_Staff Short_Staff 1  quarter_staff 0  2251801034686468 4222124851990272 70 8202 3.000000 100 0 0 0 0 18432 85 0 151 0 530 530
  0
 0
 
@@ -4193,88 +4199,88 @@ itemsfile version 3
  0
 0
 
- itm_light_spear1 Light_Spear Light_Spear 1  Spear_S_01 0  2251800900337668 31243728790228224 380 8202 2.250000 100 0 0 0 6 16384 95 0 113 0 284 528
+ itm_light_spear1 Light_Spear Light_Spear 1  Spear_S_01 0  2251800900337668 31243728790228224 380 8202 2.250000 100 0 0 0 6 10384 95 0 113 0 288 528
  0
 0
 
- itm_light_spear2 Light_Spear Light_Spear 1  Spear_S_05 0  2251800900337668 31243728790228224 380 8202 2.250000 100 0 0 0 6 16384 95 0 121 0 284 528
+ itm_light_spear2 Light_Spear Light_Spear 1  Spear_S_05 0  2251800900337668 31243728790228224 380 8202 2.250000 100 0 0 0 6 10384 95 0 121 0 288 528
  0
 0
 
- itm_light_spear3 Light_Spear Light_Spear 1  Spear_S_03 0  2251800900337668 31243728790228224 380 8202 2.250000 100 0 0 0 6 16384 95 0 107 0 284 528
+ itm_light_spear3 Light_Spear Light_Spear 1  Spear_S_03 0  2251800900337668 31243728790228224 380 8202 2.250000 100 0 0 0 6 10384 95 0 107 0 288 528
  0
 0
 
- itm_light_spear4 Light_Spear Light_Spear 1  Spear_S_04 0  2251800900337668 31243728790228224 380 8202 2.250000 100 0 0 0 6 16384 95 0 107 0 284 528
+ itm_light_spear4 Light_Spear Light_Spear 1  Spear_S_04 0  2251800900337668 31243728790228224 380 8202 2.250000 100 0 0 0 6 10384 95 0 107 0 288 528
  0
 0
 
- itm_war_spear1 War_Spear War_Spear 1  Spear_M_01 0  2251800900337668 31243722616212736 420 8202 2.250000 80 0 0 0 6 18432 93 0 153 0 285 530
+ itm_war_spear1 War_Spear War_Spear 1  Spear_M_01 0  2251800900337668 31243722616212736 420 8202 2.250000 80 0 0 0 6 12384 93 0 153 0 289 530
  0
 0
 
- itm_war_spear2 War_Spear War_Spear 1  Spear_M_03 0  2251800900337668 31243722616212736 420 8202 2.250000 80 0 0 0 6 18432 93 0 146 0 285 530
+ itm_war_spear2 War_Spear War_Spear 1  Spear_M_03 0  2251800900337668 31243722616212736 420 8202 2.250000 80 0 0 0 6 12384 93 0 146 0 289 530
  0
 0
 
- itm_war_spear3 War_Spear War_Spear 1  Spear_M_05 0  2251800900337668 31243722616212736 420 8202 2.250000 80 0 0 0 6 18432 93 0 162 0 285 530
+ itm_war_spear3 War_Spear War_Spear 1  Spear_M_05 0  2251800900337668 31243722616212736 420 8202 2.250000 80 0 0 0 6 12384 93 0 162 0 289 530
  0
 0
 
- itm_heavy_spear1 Heavy_Spear Heavy_Spear 1  Spear_M_02 0  2251800900272132 31243722616212736 460 8202 2.750000 60 0 0 0 8 20480 90 0 161 0 286 532
+ itm_heavy_spear1 Heavy_Spear Heavy_Spear 1  Spear_M_02 0  2251800900337668 31243722616212736 460 8202 2.750000 60 0 0 0 8 14384 90 0 161 0 290 532
  0
 0
 
- itm_heavy_spear2 Heavy_Spear Heavy_Spear 1  Spear_M_04 0  2251800900272132 31243722616212736 460 8202 2.750000 60 0 0 0 8 20480 90 0 153 0 286 532
+ itm_heavy_spear2 Heavy_Spear Heavy_Spear 1  Spear_M_04 0  2251800900337668 31243722616212736 460 8202 2.750000 60 0 0 0 8 14384 90 0 153 0 290 532
  0
 0
 
- itm_heavy_spear3 Heavy_Spear Heavy_Spear 1  Spear_M_06 0  2251800900272132 31243722616212736 460 8202 2.750000 60 0 0 0 8 20480 90 0 171 0 286 532
+ itm_heavy_spear3 Heavy_Spear Heavy_Spear 1  Spear_M_06 0  2251800900337668 31243722616212736 460 8202 2.750000 60 0 0 0 8 14384 90 0 171 0 290 532
  0
 0
 
- itm_long_light_spear1 Light_Long_Spear Light_Long_Spear 1  Spear_L_01 0  2251800900337668 31243722616212736 400 8202 3.000000 100 0 0 0 6 16384 93 0 174 0 282 528
+ itm_long_light_spear1 Light_Long_Spear Light_Long_Spear 1  Spear_L_01 0  2251800900337668 31243722616212736 400 8202 2.750000 100 0 0 0 6 13384 93 0 174 0 286 528
  0
 0
 
- itm_long_light_spear2 Light_Long_Spear Light_Long_Spear 1  Spear_L_04 0  2251800900337668 31243722616212736 400 8202 3.000000 100 0 0 0 6 16384 93 0 167 0 282 528
+ itm_long_light_spear2 Light_Long_Spear Light_Long_Spear 1  Spear_L_04 0  2251800900337668 31243722616212736 400 8202 2.750000 100 0 0 0 6 13384 93 0 167 0 286 528
  0
 0
 
- itm_long_war_spear1 Long_War_Spear Long_War_Spear 1  Spear_L_02 0  2251800900337668 31243722616212736 440 8202 3.500000 80 0 0 0 6 18432 91 0 193 0 284 530
+ itm_long_war_spear1 Long_War_Spear Long_War_Spear 1  Spear_L_02 0  2251800900337668 31243722616212736 440 8202 3.500000 80 0 0 0 6 16384 91 0 193 0 289 530
  0
 0
 
- itm_long_war_spear2 Long_War_Spear Long_War_Spear 1  Spear_L_05 0  2251801034555396 31243722616212736 440 8202 3.500000 80 0 0 0 6 18432 91 0 203 0 284 530
+ itm_long_war_spear2 Long_War_Spear Long_War_Spear 1  Spear_L_05 0  2251800900337668 31243722616212736 440 8202 3.500000 80 0 0 0 6 16384 91 0 203 0 288 530
  0
 0
 
- itm_long_heavy_spear1 Heavy_Long_Spear Heavy_Long_Spear 1  Spear_L_03 0  2251800900272132 31243722616212736 480 8202 4.000000 40 0 0 0 10 20480 88 0 205 0 286 532
+ itm_long_heavy_spear1 Heavy_Long_Spear Heavy_Long_Spear 1  Spear_L_03 0  2251800900337668 31243722616212736 1180 8202 4.000000 10 0 0 0 10 18384 88 0 205 0 290 532
  0
 0
 
- itm_long_heavy_spear2 Heavy_Long_Spear Heavy_Long_Spear 1  Spear_L_06 0  2251800900272132 31243722616212736 480 8202 4.000000 40 0 0 0 10 20480 88 0 188 0 286 532
+ itm_long_heavy_spear2 Heavy_Long_Spear Heavy_Long_Spear 1  Spear_L_06 0  2251800900337668 31243722616212736 1180 8202 4.000000 10 0 0 0 10 18384 88 0 188 0 291 532
  0
 0
 
- itm_new_mace Ray Ray 1  Spear_L_05A 0  2251800900272132 31243722616212736 1480 8202 4.000000 40 0 0 0 10 21504 88 0 220 0 287 533
+ itm_new_mace Ray Ray 1  Spear_L_05A 0  2251800900272132 31243722616212736 1480 8202 4.000000 40 0 0 0 10 18884 88 0 220 0 289 532
  0
 0
 
- itm_premium_spear1 Gungnir Gungnir 1  Spear_L_05B 0  2251800900272132 31243722616212736 1480 8202 4.000000 40 0 0 0 10 21504 88 0 220 0 287 533
+ itm_premium_spear1 Runed_Spear Runed_Spear 1  Spear_L_05B 0  2251800900272132 31243722616212736 2780 8202 4.000000 40 0 0 0 10 30504 88 0 220 0 290 533
  0
 0
 
  itm_standard Army_Standard Army_Standard 1  standard_to_add_mesh 0  274792451 9223635919737716976 780 0 4.250000 15 0 0 0 2 16384 72 0 247 0 528 528
  0
 1
--50.000000  3 2071 1 1224979098644774912 2072 1 1224979098644774913 1 3 936748722493063560 1224979098644774912 1224979098644774913 
+-50.000000  3 2071 1 1224979098644774912 2072 1 1224979098644774913 1 3 936748722493063562 1224979098644774912 1224979098644774913 
 
  itm_standard_dragon Dragon_Standard Dragon_Standard 1  standard_dragon2 0  274792451 9223635919737716976 780 0 4.250000 5 0 0 0 2 16384 85 0 220 0 528 528
  0
 0
 
- itm_horn Horn Horn 1  horn_multi 0  4210690 0 1000 0 2.000000 100 0 0 0 0 0 0 0 0 0 0 0
+ itm_horn Horn Horn 1  horn_multi 0  4276226 0 1000 0 2.000000 100 0 0 0 0 0 0 0 0 0 0 0
  0
 0
 
@@ -4528,137 +4534,137 @@ itemsfile version 3
  itm_tab_shield_round_c Painted_Convex_Shield Painted_Convex_Shield 1  Convexshield_11_tab_nodevice 0  327687 5100273664 580 167772194 4.000000 100 0 17 0 0 340 90 0 35 0 0 0
  0
 1
--50.000000  3 2071 1 1224979098644774912 2072 1 1224979098644774913 1 4 936748722493063558 1729382256910270511 1224979098644774912 1224979098644774913 
+-50.000000  3 2071 1 1224979098644774912 2072 1 1224979098644774913 1 4 936748722493063560 1729382256910270511 1224979098644774912 1224979098644774913 
 
  itm_tab_shield_round_01_device Painted_Round_Shield Painted_Round_Shield 1  Roundshield_01_tab_device 0  327687 5100273664 510 167772194 4.000000 100 0 18 0 0 310 90 0 38 0 0 0
  0
 1
--50.000000  3 2071 1 1224979098644774912 2072 1 1224979098644774913 1 4 936748722493063558 1729382256910270490 1224979098644774912 1224979098644774913 
+-50.000000  3 2071 1 1224979098644774912 2072 1 1224979098644774913 1 4 936748722493063560 1729382256910270490 1224979098644774912 1224979098644774913 
 
  itm_tab_shield_round_01_nodevice Painted_Round_Shield Painted_Round_Shield 1  Roundshield_01_tab_nodevice 0  262151 5100273664 510 167772194 4.000000 100 0 18 0 0 310 90 0 38 0 0 0
  0
 1
--50.000000  3 2071 1 1224979098644774912 2072 1 1224979098644774913 1 4 936748722493063558 1729382256910270491 1224979098644774912 1224979098644774913 
+-50.000000  3 2071 1 1224979098644774912 2072 1 1224979098644774913 1 4 936748722493063560 1729382256910270491 1224979098644774912 1224979098644774913 
 
  itm_tab_shield_round_02_device Painted_Round_Shield Painted_Round_Shield 1  Roundshield_02_tab_device 0  327687 5100273664 510 167772194 4.000000 100 0 18 0 0 310 90 0 38 0 0 0
  0
 1
--50.000000  3 2071 1 1224979098644774912 2072 1 1224979098644774913 1 4 936748722493063558 1729382256910270492 1224979098644774912 1224979098644774913 
+-50.000000  3 2071 1 1224979098644774912 2072 1 1224979098644774913 1 4 936748722493063560 1729382256910270492 1224979098644774912 1224979098644774913 
 
  itm_tab_shield_round_02_nodevice Painted_Round_Shield Painted_Round_Shield 1  Roundshield_02_tab_nodevice 0  262151 5100273664 510 167772194 4.000000 100 0 18 0 0 310 90 0 38 0 0 0
  0
 1
--50.000000  3 2071 1 1224979098644774912 2072 1 1224979098644774913 1 4 936748722493063558 1729382256910270493 1224979098644774912 1224979098644774913 
+-50.000000  3 2071 1 1224979098644774912 2072 1 1224979098644774913 1 4 936748722493063560 1729382256910270493 1224979098644774912 1224979098644774913 
 
  itm_tab_shield_round_03_device Painted_Round_Shield Painted_Round_Shield 1  Roundshield_03_tab_device 0  262151 5100273664 510 167772194 4.000000 100 0 18 0 0 310 90 0 38 0 0 0
  0
 1
--50.000000  3 2071 1 1224979098644774912 2072 1 1224979098644774913 1 4 936748722493063558 1729382256910270494 1224979098644774912 1224979098644774913 
+-50.000000  3 2071 1 1224979098644774912 2072 1 1224979098644774913 1 4 936748722493063560 1729382256910270494 1224979098644774912 1224979098644774913 
 
  itm_tab_shield_round_03_nodevice Painted_Round_Shield Painted_Round_Shield 1  Roundshield_03_tab_nodevice 0  262151 5100273664 510 167772194 4.000000 100 0 18 0 0 310 90 0 38 0 0 0
  0
 1
--50.000000  3 2071 1 1224979098644774912 2072 1 1224979098644774913 1 4 936748722493063558 1729382256910270495 1224979098644774912 1224979098644774913 
+-50.000000  3 2071 1 1224979098644774912 2072 1 1224979098644774913 1 4 936748722493063560 1729382256910270495 1224979098644774912 1224979098644774913 
 
  itm_tab_shield_round_04_device Painted_Round_Shield Painted_Round_Shield 1  Roundshield_04_tab_device 0  262151 5100273664 530 167772194 4.500000 100 0 20 0 0 310 85 0 43 0 0 0
  0
 1
--50.000000  3 2071 1 1224979098644774912 2072 1 1224979098644774913 1 4 936748722493063558 1729382256910270496 1224979098644774912 1224979098644774913 
+-50.000000  3 2071 1 1224979098644774912 2072 1 1224979098644774913 1 4 936748722493063560 1729382256910270496 1224979098644774912 1224979098644774913 
 
  itm_tab_shield_round_04_nodevice Painted_Round_Shield Painted_Round_Shield 1  Roundshield_04_tab_nodevice 0  262151 5100273664 530 167772194 4.500000 100 0 20 0 0 310 85 0 43 0 0 0
  0
 1
--50.000000  3 2071 1 1224979098644774912 2072 1 1224979098644774913 1 4 936748722493063558 1729382256910270497 1224979098644774912 1224979098644774913 
+-50.000000  3 2071 1 1224979098644774912 2072 1 1224979098644774913 1 4 936748722493063560 1729382256910270497 1224979098644774912 1224979098644774913 
 
  itm_tab_shield_round_05_device Painted_Convex_Shield Painted_Convex_Shield 1  Convexshield_05_tab_device 0  327687 5100273664 580 167772194 4.000000 100 0 17 0 0 340 90 0 35 0 0 0
  4
  20 21 22 23
 1
--50.000000  3 2071 1 1224979098644774912 2072 1 1224979098644774913 1 4 936748722493063558 1729382256910270498 1224979098644774912 1224979098644774913 
+-50.000000  3 2071 1 1224979098644774912 2072 1 1224979098644774913 1 4 936748722493063560 1729382256910270498 1224979098644774912 1224979098644774913 
 
  itm_tab_shield_round_05_nodevice Painted_Convex_Shield Painted_Convex_Shield 1  Convexshield_05_tab_nodevice 0  262151 5100273664 580 167772194 4.000000 100 0 17 0 0 340 90 0 35 0 0 0
  4
  20 21 22 23
 1
--50.000000  3 2071 1 1224979098644774912 2072 1 1224979098644774913 1 4 936748722493063558 1729382256910270499 1224979098644774912 1224979098644774913 
+-50.000000  3 2071 1 1224979098644774912 2072 1 1224979098644774913 1 4 936748722493063560 1729382256910270499 1224979098644774912 1224979098644774913 
 
  itm_tab_shield_round_06_device Painted_Convex_Shield Painted_Convex_Shield 1  Convexshield_06_tab_device 0  327687 5100273664 580 167772194 4.000000 100 0 17 0 0 340 90 0 35 0 0 0
  4
  20 21 22 23
 1
--50.000000  3 2071 1 1224979098644774912 2072 1 1224979098644774913 1 4 936748722493063558 1729382256910270500 1224979098644774912 1224979098644774913 
+-50.000000  3 2071 1 1224979098644774912 2072 1 1224979098644774913 1 4 936748722493063560 1729382256910270500 1224979098644774912 1224979098644774913 
 
  itm_tab_shield_round_06_nodevice Painted_Convex_Shield Painted_Convex_Shield 1  Convexshield_06_tab_nodevice 0  262151 5100273664 580 167772194 4.000000 100 0 17 0 0 340 90 0 35 0 0 0
  4
  20 21 22 23
 1
--50.000000  3 2071 1 1224979098644774912 2072 1 1224979098644774913 1 4 936748722493063558 1729382256910270501 1224979098644774912 1224979098644774913 
+-50.000000  3 2071 1 1224979098644774912 2072 1 1224979098644774913 1 4 936748722493063560 1729382256910270501 1224979098644774912 1224979098644774913 
 
  itm_tab_shield_round_07_device Painted_Round_Shield Painted_Round_Shield 1  Roundshield_07_tab_device 0  262151 5100273664 530 167772194 4.500000 100 0 20 0 0 310 85 0 43 0 0 0
  0
 1
--50.000000  3 2071 1 1224979098644774912 2072 1 1224979098644774913 1 4 936748722493063558 1729382256910270502 1224979098644774912 1224979098644774913 
+-50.000000  3 2071 1 1224979098644774912 2072 1 1224979098644774913 1 4 936748722493063560 1729382256910270502 1224979098644774912 1224979098644774913 
 
  itm_tab_shield_round_07_nodevice Painted_Round_Shield Painted_Round_Shield 1  Roundshield_07_tab_nodevice 0  262151 5100273664 530 167772194 4.500000 100 0 20 0 0 310 85 0 43 0 0 0
  0
 1
--50.000000  3 2071 1 1224979098644774912 2072 1 1224979098644774913 1 4 936748722493063558 1729382256910270503 1224979098644774912 1224979098644774913 
+-50.000000  3 2071 1 1224979098644774912 2072 1 1224979098644774913 1 4 936748722493063560 1729382256910270503 1224979098644774912 1224979098644774913 
 
  itm_tab_shield_round_08_device Painted_Convex_Shield Painted_Convex_Shield 1  Convexshield_08_tab_device 0  262151 5100273664 580 167772194 4.000000 100 0 17 0 0 340 90 0 35 0 0 0
  4
  20 21 22 23
 1
--50.000000  3 2071 1 1224979098644774912 2072 1 1224979098644774913 1 4 936748722493063558 1729382256910270504 1224979098644774912 1224979098644774913 
+-50.000000  3 2071 1 1224979098644774912 2072 1 1224979098644774913 1 4 936748722493063560 1729382256910270504 1224979098644774912 1224979098644774913 
 
  itm_tab_shield_round_08_nodevice Painted_Convex_Shield Painted_Convex_Shield 1  Convexshield_08_tab_nodevice 0  262151 5100273664 580 167772194 4.000000 100 0 17 0 0 340 90 0 35 0 0 0
  4
  20 21 22 23
 1
--50.000000  3 2071 1 1224979098644774912 2072 1 1224979098644774913 1 4 936748722493063558 1729382256910270505 1224979098644774912 1224979098644774913 
+-50.000000  3 2071 1 1224979098644774912 2072 1 1224979098644774913 1 4 936748722493063560 1729382256910270505 1224979098644774912 1224979098644774913 
 
  itm_tab_shield_round_09_device Painted_Round_Shield Painted_Round_Shield 1  Roundshield_09_tab_device 0  262151 5100273664 530 167772194 4.500000 100 0 20 0 0 310 85 0 43 0 0 0
  0
 1
--50.000000  3 2071 1 1224979098644774912 2072 1 1224979098644774913 1 4 936748722493063558 1729382256910270506 1224979098644774912 1224979098644774913 
+-50.000000  3 2071 1 1224979098644774912 2072 1 1224979098644774913 1 4 936748722493063560 1729382256910270506 1224979098644774912 1224979098644774913 
 
  itm_tab_shield_round_09_nodevice Painted_Round_Shield Painted_Round_Shield 1  Roundshield_09_tab_nodevice 0  262151 5100273664 530 167772194 4.500000 100 0 20 0 0 310 85 0 43 0 0 0
  0
 1
--50.000000  3 2071 1 1224979098644774912 2072 1 1224979098644774913 1 4 936748722493063558 1729382256910270507 1224979098644774912 1224979098644774913 
+-50.000000  3 2071 1 1224979098644774912 2072 1 1224979098644774913 1 4 936748722493063560 1729382256910270507 1224979098644774912 1224979098644774913 
 
  itm_tab_shield_round_10_device Painted_Convex_Shield Painted_Convex_Shield 1  Convexshield_10_tab_device 0  262151 5100273664 580 167772194 4.000000 100 0 17 0 0 340 90 0 35 0 0 0
  4
  20 21 22 23
 1
--50.000000  3 2071 1 1224979098644774912 2072 1 1224979098644774913 1 4 936748722493063558 1729382256910270508 1224979098644774912 1224979098644774913 
+-50.000000  3 2071 1 1224979098644774912 2072 1 1224979098644774913 1 4 936748722493063560 1729382256910270508 1224979098644774912 1224979098644774913 
 
  itm_tab_shield_round_10_nodevice Painted_Convex_Shield Painted_Convex_Shield 1  Convexshield_10_tab_nodevice 0  262151 5100273664 580 167772194 4.000000 100 0 17 0 0 340 90 0 35 0 0 0
  4
  20 21 22 23
 1
--50.000000  3 2071 1 1224979098644774912 2072 1 1224979098644774913 1 4 936748722493063558 1729382256910270509 1224979098644774912 1224979098644774913 
+-50.000000  3 2071 1 1224979098644774912 2072 1 1224979098644774913 1 4 936748722493063560 1729382256910270509 1224979098644774912 1224979098644774913 
 
  itm_tab_shield_round_11_device Painted_Convex_Shield Painted_Convex_Shield 1  Convexshield_11_tab_device 0  262151 5100273664 580 167772194 4.000000 100 0 17 0 0 340 90 0 35 0 0 0
  4
  20 21 22 23
 1
--50.000000  3 2071 1 1224979098644774912 2072 1 1224979098644774913 1 4 936748722493063558 1729382256910270510 1224979098644774912 1224979098644774913 
+-50.000000  3 2071 1 1224979098644774912 2072 1 1224979098644774913 1 4 936748722493063560 1729382256910270510 1224979098644774912 1224979098644774913 
 
  itm_tab_shield_round_11_nodevice Painted_Convex_Shield Painted_Convex_Shield 1  Convexshield_11_tab_nodevice 0  327687 5100273664 580 167772194 4.000000 100 0 17 0 0 340 90 0 35 0 0 0
  4
  20 21 22 23
 1
--50.000000  3 2071 1 1224979098644774912 2072 1 1224979098644774913 1 4 936748722493063558 1729382256910270511 1224979098644774912 1224979098644774913 
+-50.000000  3 2071 1 1224979098644774912 2072 1 1224979098644774913 1 4 936748722493063560 1729382256910270511 1224979098644774912 1224979098644774913 
 
  itm_tab_shield_round_12_device Painted_Round_Shield Painted_Round_Shield 1  Roundshield_12_tab_device 0  327687 5100273664 530 167772194 4.500000 100 0 20 0 0 310 85 0 43 0 0 0
  0
 1
--50.000000  3 2071 1 1224979098644774912 2072 1 1224979098644774913 1 4 936748722493063558 1729382256910270512 1224979098644774912 1224979098644774913 
+-50.000000  3 2071 1 1224979098644774912 2072 1 1224979098644774913 1 4 936748722493063560 1729382256910270512 1224979098644774912 1224979098644774913 
 
  itm_tab_shield_round_12_nodevice Painted_Round_Shield Painted_Round_Shield 1  Roundshield_12_tab_nodevice 0  262151 5100273664 530 167772194 4.500000 100 0 20 0 0 310 85 0 43 0 0 0
  0
 1
--50.000000  3 2071 1 1224979098644774912 2072 1 1224979098644774913 1 4 936748722493063558 1729382256910270513 1224979098644774912 1224979098644774913 
+-50.000000  3 2071 1 1224979098644774912 2072 1 1224979098644774913 1 4 936748722493063560 1729382256910270513 1224979098644774912 1224979098644774913 
 
  itm_tab_shield_small_round_c Small_Round_Shield Small_Round_Shield 1  round_small_01 0  327687 5100273664 320 167772194 1.500000 100 0 13 0 0 200 98 0 25 0 0 0
  8
@@ -4755,60 +4761,60 @@ itemsfile version 3
  35
 0
 
- itm_darts Simple_Javelins Simple_Javelins 2  javelin 0  javelin_carry 3458764513820540928  616562698 36507484160 200 4398046781450 2.000000 100 0 0 99 1 0 85 28 65 4 271 0
- 8
- 35 32 34 32 33 34 25 26
+ itm_darts Franciscas Franciscas 1  francisca2 0  616562698 196608 760 4398046781450 2.000000 10 0 0 99 2 0 99 12 53 2 38 0
+ 1
+ 19
 0
 
- itm_darts_melee Simple_Javelins Simple_Javelins 1  javelin 0  2251799826530308 13229324106730752 200 8202 1.000000 100 0 0 0 0 11264 90 0 65 0 271 523
+ itm_darts_melee Francisca Francisca 1  francisca2 0  79691778 9223388529554358286 760 8202 1.000000 100 0 0 0 2 26624 89 0 53 0 0 26
  0
 0
 
- itm_javelin Javelins Javelins 2  javelin 0  javelin_carry 3458764513820540928  616628234 36507484160 200 4398046781450 1.000000 100 0 0 99 1 0 90 28 65 4 272 0
+ itm_javelin Javelins Javelins 2  javelin 0  javelin_carry 3458764513820540928  549519370 36507484160 200 4398046781450 1.500000 100 0 0 99 1 0 90 28 65 4 280 0
  0
 0
 
- itm_javelin_melee Javelin Javelin 1  javelin 0  2251799826530308 13229324106730752 200 8202 1.000000 100 0 0 0 0 11264 90 0 65 0 273 523
+ itm_javelin_melee Javelin Javelin 1  javelin 0  2251799826530308 13229324106730752 200 8202 1.500000 100 0 0 0 0 11264 90 0 65 0 274 523
  0
 0
 
- itm_javelin_skirmishes Skirmish_Javelins Skirmish_Javelins 2  javelin 0  javelin_carry 3458764513820540928  616562698 36507484160 250 4398046781450 2.000000 100 0 0 99 1 0 90 28 65 6 274 0
+ itm_javelin_skirmishes Skirmish_Javelins Skirmish_Javelins 2  javelin 0  javelin_carry 3458764513820540928  549453834 36507484160 250 4398046781450 2.000000 100 0 0 99 1 0 90 30 65 6 276 0
  0
 0
 
- itm_javelin_skirmishes_melee Skirmish_Javelin Skirmish_Javelin 1  javelin 0  2251799826530308 13229324106730752 250 8202 2.000000 100 0 0 0 0 11264 90 0 65 0 273 523
+ itm_javelin_skirmishes_melee Skirmish_Javelin Skirmish_Javelin 1  javelin 0  2251799826530308 13229324106730752 250 8202 2.000000 100 0 0 0 0 11264 90 0 65 0 274 523
  0
 0
 
- itm_javelin_skirmishesel Heavy_Javelins Heavy_Javelins 2  javelin2 0  javelin2_carry 3458764513820540928  616562698 36507484160 350 4398046781450 3.000000 100 0 0 99 1 0 90 28 65 8 276 0
+ itm_javelin_skirmishesel Heavy_Javelins Heavy_Javelins 2  javelin2 0  javelin2_carry 3458764513820540928  549453834 36507484160 350 4398046781450 3.000000 100 0 0 99 1 0 90 28 65 8 278 0
  0
 0
 
- itm_javelin_skirmishesel_melee Heavy_Javelin Heavy_Javelin 1  javelin2 0  2251799826530308 13229324106730752 350 8202 3.000000 100 0 0 0 0 11264 90 0 65 0 273 523
+ itm_javelin_skirmishesel_melee Heavy_Javelin Heavy_Javelin 1  javelin2 0  2251799826530308 13229324106730752 350 8202 3.000000 100 0 0 0 0 11264 90 0 65 0 274 523
  0
 0
 
- itm_javelin_jinetes Horsemen_Javelins Horsemen_Javelins 2  javelin2 0  javelin2_carry 3458764513820540928  616562698 36507484160 400 4398046781450 4.000000 100 0 0 99 1 0 90 28 65 12 274 0
+ itm_javelin_jinetes Light_Javelins Light_Javelins 2  javelin2 0  javelin2_carry 3458764513820540928  549453834 36507484160 400 4398046781450 4.000000 100 0 0 99 1 0 90 30 65 12 274 0
  0
 0
 
- itm_javelin_jinetes_melee Horseman_Javelin Horseman_Javelin 1  javelin2 0  2251799826530308 13229324106730752 400 8202 4.000000 100 0 0 0 0 11264 90 0 65 0 273 523
+ itm_javelin_jinetes_melee Horseman_Javelin Horseman_Javelin 1  javelin2 0  2251799826530308 13229324106730752 400 8202 4.000000 100 0 0 0 0 11264 90 0 65 0 274 523
  0
 0
 
- itm_throwing_spears Throwing_Spears Throwing_Spears 1  Spear_S_02 0  616628234 262144 425 4398046781450 2.000000 100 0 0 99 2 0 85 18 113 2 283 0
+ itm_throwing_spears Throwing_Spears Throwing_Spears 1  Spear_S_02 0  549519370 262144 425 4398046781450 2.000000 100 0 0 99 2 0 88 18 113 2 296 0
  0
 0
 
- itm_throwing_spear_melee Throwing_Spear Throwing_Spear 1  Spear_S_02 0  2251799826530308 13229324106730752 425 4398046781450 2.000000 100 0 0 0 2 10240 85 0 113 0 280 522
+ itm_throwing_spear_melee Throwing_Spear Throwing_Spear 1  Spear_S_02 0  2251799826530308 13229324106730752 425 4398046781450 2.000000 100 0 0 0 2 10240 88 0 113 0 284 524
  0
 0
 
- itm_throwing_spears2 Throwing_Spears Throwing_Spears 1  Spear_S_06 0  616628234 262144 425 4398046781450 2.000000 100 0 0 99 2 0 88 18 110 2 283 0
+ itm_throwing_spears2 Throwing_Spears Throwing_Spears 1  Spear_S_06 0  549519370 262144 425 4398046781450 2.000000 100 0 0 99 2 0 88 18 110 2 296 0
  0
 0
 
- itm_throwing_spear2_melee Throwing_Spear Throwing_Spear 1  Spear_S_06 0  2251799826530308 13229324106730752 425 4398046781450 2.000000 100 0 0 0 2 10240 88 0 110 0 280 522
+ itm_throwing_spear2_melee Throwing_Spear Throwing_Spear 1  Spear_S_06 0  2251799826530308 13229324106730752 425 4398046781450 2.000000 100 0 0 0 2 10240 88 0 110 0 284 524
  0
 0
 
@@ -4816,70 +4822,70 @@ itemsfile version 3
  0
 0
 
- itm_long_bow Long_Bow Long_Bow 2  LongBow 0  LongBow_carry 3458764513820540928  283181064 5905584128 630 524298 1.000000 60 0 0 95 2 0 65 55 0 0 24 0
+ itm_long_bow Long_Bow Long_Bow 2  LongBow 0  LongBow_carry 3458764513820540928  283181064 5905584128 630 524298 1.000000 60 0 0 95 3 0 65 55 0 0 24 0
  0
 0
 
- itm_long_bow2 Elite_Long_Bow Elite_Long_Bow 2  LongBow150 0  LongBow150_carry 3458764513820540928  283181064 5905584128 830 524298 1.250000 20 0 0 95 3 0 62 58 0 0 27 0
+ itm_long_bow2 Elite_Long_Bow Elite_Long_Bow 2  LongBow150 0  LongBow150_carry 3458764513820540928  283181064 5905584128 1030 524298 1.250000 20 0 0 95 3 0 62 58 0 0 27 0
  0
 0
 
- itm_long_bow3 Featured_Long_Bow Featured_Long_Bow 2  LongBow200 0  LongBow200_carry 3458764513820540928  283115528 5905584128 930 524298 1.250000 100 0 0 95 4 0 60 61 0 0 28 0
+ itm_long_bow3 Featured_Long_Bow Featured_Long_Bow 2  LongBow200 0  LongBow200_carry 3458764513820540928  283115528 5905584128 1330 524298 1.250000 20 0 0 95 4 0 60 61 0 0 28 0
  0
 0
 
- itm_hunting_crossbow Pictish_Crossbow Pictish_Crossbow 1  crossbow 0  283181065 5637160960 750 10 2.250000 40 0 0 85 0 0 45 66 0 1 311 0
+ itm_hunting_crossbow Pictish_Crossbow Pictish_Crossbow 1  crossbow 0  283181065 5637160960 750 10 2.250000 40 0 0 85 0 0 45 66 0 1 55 0
  1
  35
 0
 
- itm_strong_bow Dark_Hunter Dark_Hunter 2  LongBow200 0  LongBow200_carry 3458764513820540928  283115528 5905584128 1230 524298 1.250000 100 0 0 95 5 0 55 63 0 0 31 0
+ itm_strong_bow Dark_Hunter Dark_Hunter 2  LongBow200 0  LongBow200_carry 3458764513820540928  283115528 5905584128 4000 524298 1.250000 100 0 0 95 5 0 55 63 0 0 31 0
  0
 0
 
- itm_war_bow Eye-popping Eye-popping 2  LongBow200 0  LongBow200_carry 3458764513820540928  283115528 5905584128 1230 524298 1.250000 100 0 0 95 5 0 55 63 0 0 31 0
+ itm_war_bow War_Bow War_Bow 2  LongBow200 0  LongBow200_carry 3458764513820540928  283115528 5905584128 1900 524298 1.250000 100 0 0 95 6 0 55 63 0 0 31 0
  0
 0
 
- itm_sling_rock1 Sling_Rocks Sling_Rocks 2  throwing_stone 0  throwing_stone 2305843009213693952  98322 0 15 4398046511104 0.500000 90 0 0 0 0 0 0 0 3 30 513 0
+ itm_sling_rock1 Sling_Rocks Sling_Rocks 2  throwing_stone 0  throwing_stone 2305843009213693952  98322 0 15 4398046511104 1.500000 90 0 0 0 0 0 0 0 3 40 513 0
  0
 0
 
- itm_sling_lead Sling_Lead Sling_Lead 2  throwing_stone 0  throwing_stone 2305843009213693952  65554 0 650 4398046511104 0.500000 13 0 0 0 0 0 0 0 3 20 522 0
+ itm_sling_lead Sling_Lead Sling_Lead 2  throwing_stone 0  throwing_stone 2305843009213693952  65554 0 650 4398046511104 1.500000 13 0 0 0 0 0 0 0 3 40 522 0
  0
 0
 
- itm_sling Sling Sling 1  Sling4 0  281083920 458752 50 0 0.500000 100 0 0 90 0 0 85 55 0 1 536 0
+ itm_sling Sling Sling 1  Sling4 0  281083920 458752 50 0 0.500000 100 0 0 93 0 0 65 55 0 1 536 0
  0
 1
 -51.000000  1 600 1 1152921504606847022 
 
- itm_sling2 Sling Sling 1  Sling 0  281083920 458752 50 0 0.500000 100 0 0 90 0 0 85 55 0 1 536 0
+ itm_sling2 Sling Sling 1  Sling 0  281083920 458752 50 0 0.500000 100 0 0 93 0 0 65 55 0 1 536 0
  0
 1
 -51.000000  1 600 1 1152921504606847022 
 
- itm_sling3 Sling Sling 1  Sling3 0  281083920 458752 50 0 0.500000 100 0 0 90 0 0 85 55 0 1 536 0
+ itm_sling3 Sling Sling 1  Sling3 0  281083920 458752 50 0 0.500000 100 0 0 93 0 0 65 55 0 1 536 0
  0
 1
 -51.000000  1 600 1 1152921504606847022 
 
- itm_sling_militar Military_Sling Military_Sling 1  Sling2 0  281083920 458752 140 0 0.500000 10 0 0 92 0 0 87 57 0 1 537 0
+ itm_sling_militar Military_Sling Military_Sling 1  Sling2 0  281083920 458752 140 0 0.500000 10 0 0 95 0 0 75 58 0 1 539 0
  0
 1
 -51.000000  1 600 1 1152921504606847022 
 
- itm_fustibalus1 Fustibalus Fustibalus 1  Staf_Sling_fustibalus_1 0  281083920 524288 180 0 1.000000 50 0 0 90 0 0 80 58 0 1 539 0
+ itm_fustibalus1 Fustibalus Fustibalus 1  Staf_Sling_fustibalus_1 0  281083920 524288 180 0 1.000000 50 0 0 85 0 0 50 58 0 1 539 0
  0
 1
 -51.000000  1 600 1 1152921504606847022 
 
- itm_fustibalus2 Fustibalus Fustibalus 1  Staf_Sling_fustibalus_2 0  281083920 524288 180 0 1.000000 50 0 0 90 0 0 80 58 0 1 539 0
+ itm_fustibalus2 Fustibalus Fustibalus 1  Staf_Sling_fustibalus_2 0  281083920 524288 180 0 1.000000 50 0 0 85 0 0 50 58 0 1 539 0
  0
 1
 -51.000000  1 600 1 1152921504606847022 
 
- itm_fustibalus_military Military_Fustibalus Military_Fustibalus 1  Staf_Sling_fustibalus_3 0  281083920 524288 430 0 1.000000 10 0 0 90 0 0 85 62 0 1 541 0
+ itm_fustibalus_military Military_Fustibalus Military_Fustibalus 1  Staf_Sling_fustibalus_3 0  281083920 524288 430 0 1.000000 10 0 0 87 0 0 60 62 0 1 543 0
  0
 1
 -51.000000  1 600 1 1152921504606847022 
@@ -4942,15 +4948,15 @@ itemsfile version 3
  0
 0
 
- itm_bride_shoes Bride_Shoes Bride_Shoes 1  bride_shoes 0  536874766 0 30 56623232 1.000000 100 0 0 8 0 0 0 0 0 0 0 0
+ itm_bride_shoes Bride_Shoes Bride_Shoes 1  bride_shoes 0  536874766 0 30 56623232 1.000000 100 0 0 1 0 0 0 0 0 0 0 0
  0
 0
 
- itm_practice_bow_2 Long_Bow Long_Bow 2  LongBow 0  LongBow_carry 3458764513820540928  6291464 5905584128 530 524298 1.000000 100 0 0 99 0 0 90 50 0 0 276 0
+ itm_practice_bow_2 Long_Bow Long_Bow 2  LongBow 0  LongBow_carry 3458764513820540928  6291464 5905584128 530 524298 1.000000 100 0 0 99 0 0 90 50 0 0 26 0
  0
 0
 
- itm_practice_arrows_2 Arrows Arrows 3  arrow 0  flying_arrow 2305843009213693952  quiver3 3458764513820540928  32773 2952790016 100 4398046511112 2.000000 110 0 0 0 0 0 0 0 95 40 257 0
+ itm_practice_arrows_2 Arrows Arrows 3  arrow 0  flying_arrow 2305843009213693952  quiver3 3458764513820540928  32773 2952790016 100 4398046511112 2.000000 110 0 0 0 0 0 0 0 95 40 1 0
  0
 0
 
@@ -4967,27 +4973,27 @@ itemsfile version 3
  0
 0
 
- itm_thors_helmet Thor's_Helmet Thor's_Helmet 1  Broa 0  1073741836 0 2000 0 1.500000 100 45 0 0 0 0 0 0 0 0 0 0
+ itm_thors_helmet Thor's_Helmet Thor's_Helmet 1  Broa 0  1073741836 0 2000 0 1.500000 100 65 0 0 0 0 0 0 0 0 0 0
  0
 0
 
- itm_thors_armor Thor's_Armor Thor's_Armor 1  thor_armor 0  553648141 0 5000 0 15.000000 100 0 60 25 0 0 0 0 0 0 0 0
+ itm_thors_armor Thor's_Armor Thor's_Armor 1  thor_armor 0  553648141 0 5000 0 15.000000 100 0 70 25 0 0 0 0 0 0 0 0
  0
 0
 
- itm_thors_boots Thor's_Boots Thor's_Boots 1  Trouser38 0  3854 0 2000 0 1.000000 100 0 0 25 0 0 0 0 0 0 0 0
+ itm_thors_boots Thor's_Boots Thor's_Boots 1  Trouser38 0  3854 0 2000 0 1.000000 100 0 0 35 0 0 0 0 0 0 0 0
  0
 0
 
- itm_thors_hammer Thor's_Hammer Thor's_Hammer 1  thor_hammer 0  137510256642 9223388530091229198 3000 0 1.500000 100 0 0 0 0 1024 90 0 60 0 0 577
+ itm_thors_hammer Thor's_Hammer Thor's_Hammer 1  thor_hammer 0  137510256642 9223388530091229198 3000 0 3.500000 100 0 0 0 0 28672 90 0 60 0 0 577
  0
 0
 
- itm_deadly_bow Deadly_Bow Deadly_Bow 2  LongBow200 0  LongBow200_carry 3458764513820540928  6291464 5905584128 0 0 1.000000 100 0 0 99 0 0 80 50 0 0 276 0
+ itm_deadly_bow Deadly_Bow Deadly_Bow 2  LongBow200 0  LongBow200_carry 3458764513820540928  6291464 5905584128 0 0 1.000000 100 0 0 99 0 0 80 50 0 0 26 0
  0
 0
 
- itm_deadly_arrows Deadly_Arrows Deadly_Arrows 3  arrow 0  flying_arrow 2305843009213693952  quiver3 3458764513820540928  5 2952790016 0 0 1.000000 100 0 0 0 0 0 0 0 95 40 257 0
+ itm_deadly_arrows Deadly_Arrows Deadly_Arrows 3  arrow 0  flying_arrow 2305843009213693952  quiver3 3458764513820540928  5 2952790016 0 0 1.000000 100 0 0 0 0 0 0 0 95 40 1 0
  0
 0
 
@@ -5075,15 +5081,15 @@ itemsfile version 3
  0
 0
 
- itm_work_axe Axe Axe 1  Axt06-6 0  4194307 4294967392 5 0 1.750000 100 0 0 0 0 25600 65 0 89 0 0 25
+ itm_work_axe Axe Axe 1  Axt06-6 0  4194307 4294967392 5 0 1.750000 100 0 0 0 0 15360 65 0 89 0 0 15
  0
 0
 
- itm_work_pickaxe Pickaxe Pickaxe 1  pickaxe 0  4194307 4294967328 5 0 1.750000 100 0 0 0 0 25600 55 0 62 0 0 281
+ itm_work_pickaxe Pickaxe Pickaxe 1  pickaxe 0  4194307 4294967328 5 0 1.750000 100 0 0 0 0 15360 55 0 62 0 0 271
  0
 0
 
- itm_work_pitchfork Pitchfork Pitchfork 1  pitchfork 0  4194308 256 5 0 3.500000 100 0 0 0 0 0 60 0 157 0 281 0
+ itm_work_pitchfork Pitchfork Pitchfork 1  pitchfork 0  4194308 256 5 0 3.500000 100 0 0 0 0 0 60 0 157 0 271 0
  0
 0
 
@@ -5096,31 +5102,31 @@ itemsfile version 3
 1
 -50.000000  6 1955 3 22 37 -5 1965 1 1008806316530991179 1965 1 1008806316530991118 1955 3 28 39 -6 1950 3 150 130 70 1960 2 10 30 
 
- itm_animal_boar Boar Boar 2  animal_boar 0  animal_boar_2 2  18014398509481984 0 10 119185342464 0.000000 10 0 0 0 0 25 150 55 75 0 136 0
+ itm_animal_boar Boar Boar 2  animal_boar 0  animal_boar_2 2  18014398509481984 0 10 119185342464 0.000000 10 0 0 0 0 25 150 55 70 0 136 0
  0
 0
 
- itm_animal_pig Pig Pig 2  animal_pig 0  animal_pig_2 2  18014398509481984 0 10 119185342464 0.000000 10 0 0 0 0 25 5 5 65 0 0 0
+ itm_animal_pig Pig Pig 2  animal_pig 0  animal_pig_2 2  18014398509481984 0 10 119185342464 0.000000 10 0 0 0 0 25 5 5 60 0 0 0
  0
 0
 
- itm_animal_piglet Piglet Piglet 2  animal_pig 0  animal_pig_2 2  18014398509481984 0 10 119185342464 0.000000 10 0 0 0 0 25 5 10 37 0 0 0
+ itm_animal_piglet Piglet Piglet 2  animal_pig 0  animal_pig_2 2  18014398509481984 0 10 119185342464 0.000000 10 0 0 0 0 25 5 10 32 0 0 0
  0
 0
 
- itm_animal_sheep Sheep Sheep 4  animal_sheep_a_1 0  animal_sheep_a_2 2  animal_sheep_a_3 4  animal_sheep_a_4 8  18014398509481984 0 10 119185342464 0.000000 10 0 0 0 0 25 5 5 75 0 0 0
+ itm_animal_sheep Sheep Sheep 4  animal_sheep_a_1 0  animal_sheep_a_2 2  animal_sheep_a_3 4  animal_sheep_a_4 8  18014398509481984 0 10 119185342464 0.000000 10 0 0 0 0 25 5 5 70 0 0 0
  0
 0
 
- itm_animal_sheep_b Sheep Sheep 4  animal_sheep_b_1 0  animal_sheep_b_2 2  animal_sheep_b_3 4  animal_sheep_b_4 8  18014398509481984 0 10 119185342464 0.000000 10 0 0 0 0 25 5 5 75 0 0 0
+ itm_animal_sheep_b Sheep Sheep 4  animal_sheep_b_1 0  animal_sheep_b_2 2  animal_sheep_b_3 4  animal_sheep_b_4 8  18014398509481984 0 10 119185342464 0.000000 10 0 0 0 0 25 5 5 70 0 0 0
  0
 0
 
- itm_animal_dog Dog Dog 2  animal_dog 0  animal_dog_2 2  18014398509481984 0 10 0 0.000000 100 0 0 0 0 25 70 19 55 0 0 0
+ itm_animal_dog Dog Dog 2  animal_dog 0  animal_dog_2 2  18014398509481984 0 10 0 0.000000 100 0 0 0 0 25 70 19 50 0 0 0
  0
 0
 
- itm_dog_companion_horse Dog Dog 1  animal_dog 0  18014398509481985 0 10 0 0.000000 100 0 0 0 0 350 90 30 60 0 0 0
+ itm_dog_companion_horse Dog Dog 1  animal_dog 0  18014398509481985 0 10 0 0.000000 100 0 0 0 0 350 90 30 55 0 0 0
  0
 0
 
@@ -5140,23 +5146,23 @@ itemsfile version 3
  0
 0
 
- itm_addon_mail4 Bear_Byrnie Bear_Byrnie 1  Chain_Bear_01 0  553648141 0 15000 167772196 23.000000 10 13 47 25 14 0 0 0 0 0 0 0
+ itm_addon_mail4 Bear_Byrnie Bear_Byrnie 1  Chain_Bear_01 0  553648141 0 11000 167772196 25.000000 10 13 54 25 14 0 0 0 0 0 0 0
  0
 0
 
- itm_addon_mail5 Wolf_Byrnie Wolf_Byrnie 1  Chain_Wolf_01 0  553648141 0 13500 167772196 21.750000 10 12 46 24 13 0 0 0 0 0 0 0
+ itm_addon_mail5 Wolf_Byrnie Wolf_Byrnie 1  Chain_Wolf_01 0  553648141 0 13500 167772196 25.000000 10 12 55 27 13 0 0 0 0 0 0 0
  0
 0
 
- itm_addon_mail6 Bear_Lorica Bear_Lorica 1  Chain_Bear_02 0  553648141 0 16500 167772196 24.000000 10 13 48 26 14 0 0 0 0 0 0 0
+ itm_addon_mail6 Bear_Lorica Bear_Lorica 1  Chain_Bear_02 0  553648141 0 16500 167772196 29.000000 10 13 59 29 14 0 0 0 0 0 0 0
  0
 0
 
- itm_addon_mail7 Wolf_Lorica Wolf_Lorica 1  Chain_Wolf_02 0  553648141 0 15000 167772196 23.000000 10 12 47 25 14 0 0 0 0 0 0 0
+ itm_addon_mail7 Wolf_Lorica Wolf_Lorica 1  Chain_Wolf_02 0  553648141 0 15000 167772196 26.500000 10 12 57 29 14 0 0 0 0 0 0 0
  0
 0
 
- itm_lamellar_armor2 Scale_Lorica Scale_Lorica 1  Scalemail02 0  553648141 0 12000 167772196 16.000000 10 0 46 27 9 0 0 0 0 0 0 0
+ itm_lamellar_armor2 Scale_Lorica Scale_Lorica 1  Scalemail02 0  553648141 0 15500 167772196 16.000000 10 0 50 22 9 0 0 0 0 0 0 0
  0
 0
 
@@ -5231,19 +5237,15 @@ itemsfile version 3
  0
 0
 
- itm_crossbow_mp Pictish_Crossbow Pictish_Crossbow 1  crossbow 0  283115529 5637160960 750 10 2.250000 100 0 0 80 0 0 35 66 0 1 296 0
+ itm_crossbow_mp Pictish_Crossbow Pictish_Crossbow 1  crossbow 0  283115529 5637160960 750 10 2.250000 100 0 0 80 0 0 35 66 0 1 40 0
  0
 0
 
- itm_bolts_mp Bolts Bolts 4  bolt 0  flying_bolt 2305843009213693952  boltQuiver1 3458764513820540928  boltQuiver1 3458768911867052032  16777222 2952790016 250 4398046511112 1.000000 100 0 0 0 0 0 0 0 63 30 257 0
+ itm_bolts_mp Bolts Bolts 4  bolt 0  flying_bolt 2305843009213693952  boltQuiver1 3458764513820540928  boltQuiver1 3458768911867052032  16777222 2952790016 250 4398046511112 1.000000 100 0 0 0 0 0 0 0 63 30 1 0
  0
 0
 
  itm_items_end Items_End Items_End 1  velvet 0  0 0 1 0 0.000000 100 0 0 0 0 0 0 0 0 0 0 0
- 0
-0
-
- itm_noswing_club_troll Troll's_Axe Troll's_Axe 1  Axt08 0  2251800155787267 9223635924032684048 1570 262164 4.000000 100 0 0 0 21 0 70 0 120 0 522 0
  0
 0
 
@@ -5272,27 +5274,27 @@ itemsfile version 3
  24 25 26 27 26 29 30 31 32 33 34 35 36
 0
 
- itm_noswing_longseax1 Broadseax Broadseax 2  Longseax1 0  Longseax1_Scabbard 3458764513820540928  2251799826284546 9223372072850292737 640 286740 1.000000 100 0 0 0 0 0 93 0 60 0 271 0
+ itm_noswing_longseax1 Broadseax Broadseax 2  Longseax1 0  Longseax1_Scabbard 3458764513820540928  2251799826284546 9223372072850292737 640 286740 1.000000 100 0 0 0 0 0 93 0 60 0 277 0
  8
  16 17 18 19 20 21 22 23
 0
 
- itm_noswing_longseax2 Broadseax Broadseax 2  Longseax2 0  Longseax2_Scabbard 3458764513820540928  2251799826284546 9223372072850292737 640 286740 1.000000 100 0 0 0 0 0 93 0 60 0 271 0
+ itm_noswing_longseax2 Broadseax Broadseax 2  Longseax2 0  Longseax2_Scabbard 3458764513820540928  2251799826284546 9223372072850292737 640 286740 1.000000 100 0 0 0 0 0 93 0 60 0 277 0
  8
  16 17 18 19 20 21 22 23
 0
 
- itm_noswing_longseax3 Broadseax Broadseax 2  Longseax3 0  Longseax3_Scabbard 3458764513820540928  2251799826284546 9223372072850292737 640 286740 1.000000 100 0 0 0 0 0 93 0 60 0 271 0
+ itm_noswing_longseax3 Broadseax Broadseax 2  Longseax3 0  Longseax3_Scabbard 3458764513820540928  2251799826284546 9223372072850292737 640 286740 1.000000 100 0 0 0 0 0 93 0 60 0 277 0
  8
  16 17 18 19 20 21 22 23
 0
 
- itm_noswing_longseax4 Broadseax Broadseax 2  Longseax4 0  Longseax4_Scabbard 3458764513820540928  2251799826284546 9223372072850292737 640 286740 1.000000 100 0 0 0 0 0 93 0 60 0 271 0
+ itm_noswing_longseax4 Broadseax Broadseax 2  Longseax4 0  Longseax4_Scabbard 3458764513820540928  2251799826284546 9223372072850292737 640 286740 1.000000 100 0 0 0 0 0 93 0 60 0 277 0
  8
  16 17 18 19 20 21 22 23
 0
 
- itm_noswing_longseax5 Broadseax Broadseax 2  Longseax5 0  Longseax5_Scabbard 3458764513820540928  2251799826284546 9223372072850292737 640 286740 1.000000 100 0 0 0 0 0 93 0 60 0 271 0
+ itm_noswing_longseax5 Broadseax Broadseax 2  Longseax5 0  Longseax5_Scabbard 3458764513820540928  2251799826284546 9223372072850292737 640 286740 1.000000 100 0 0 0 0 0 93 0 60 0 277 0
  8
  16 17 18 19 20 21 22 23
 0
@@ -5347,378 +5349,344 @@ itemsfile version 3
  16 17 18 19 20 21 22 23
 0
 
- itm_noswing_ragnar_seax Ragnar's_Langseax Ragnar's_Langseax 2  Sword47_Ragnar 0  Scabbard47 3458764513820540928  2251799826288642 9223372071508115457 3090 286740 1.000000 100 0 0 0 4 0 94 0 76 0 276 0
+ itm_noswing_ragnar_seax Ragnar's_Langseax Ragnar's_Langseax 2  Sword47_Ragnar 0  Scabbard47 3458764513820540928  2251799826288642 9223372071508115457 3090 286740 0.750000 100 0 0 0 4 0 97 0 76 0 276 0
  0
 0
 
- itm_noswing_elf_seax Elf's_Langseax Elf's_Langseax 2  Sword41elf 0  Scabbard41elf 3458764513820540928  2251799826288642 9223372071508115457 3090 286740 1.000000 100 0 0 0 4 0 94 0 76 0 274 0
+ itm_noswing_elf_seax Elf's_Langseax Elf's_Langseax 2  Sword41elf 0  Scabbard41elf 3458764513820540928  2251799826288642 9223372071508115457 3090 286740 0.750000 100 0 0 0 4 0 97 0 76 0 274 0
  0
 0
 
- itm_noswing_spatha Sword Sword 2  Sword02 0  Scabbard02 3458764513820540928  2251799817879554 9223388564182532097 2790 286740 1.000000 10 0 0 0 6 0 92 0 81 0 274 0
+ itm_noswing_spatha Sword Sword 2  Sword02 0  Scabbard02 3458764513820540928  2251799817879554 9223388564182532097 2790 286740 1.000000 10 0 0 0 6 0 92 0 81 0 280 0
  4
  20 21 22 23
 0
 
- itm_noswing_spatha_2 Sword Sword 2  Sword07 0  Scabbard07 3458764513820540928  2251799817879554 9223388564182532097 2790 286740 1.000000 10 0 0 0 6 0 92 0 81 0 274 0
+ itm_noswing_spatha_2 Sword Sword 2  Sword07 0  Scabbard07 3458764513820540928  2251799817879554 9223388564182532097 2790 286740 1.000000 10 0 0 0 6 0 92 0 81 0 280 0
  4
  20 21 22 23
 0
 
- itm_noswing_spatha_3 Sword Sword 2  Sword12 0  Scabbard12 3458764513820540928  2251799817879554 9223388564182532097 2790 286740 1.000000 10 0 0 0 6 0 92 0 81 0 274 0
+ itm_noswing_spatha_3 Sword Sword 2  Sword12 0  Scabbard12 3458764513820540928  2251799817879554 9223388564182532097 2790 286740 1.000000 10 0 0 0 6 0 92 0 81 0 280 0
  4
  20 21 22 23
 0
 
- itm_noswing_spatha_4 Sword Sword 2  Sword17 0  Scabbard17 3458764513820540928  2251799817879554 9223388564182532097 2790 286740 1.000000 10 0 0 0 6 0 92 0 81 0 274 0
+ itm_noswing_spatha_4 Sword Sword 2  Sword17 0  Scabbard17 3458764513820540928  2251799817879554 9223388564182532097 2790 286740 1.000000 10 0 0 0 6 0 92 0 81 0 280 0
  4
  20 21 22 23
 0
 
- itm_noswing_spatha_5 Sword Sword 2  Sword22 0  Scabbard22 3458764513820540928  2251799817879554 9223388564182532097 2790 286740 1.000000 10 0 0 0 6 0 92 0 81 0 274 0
+ itm_noswing_spatha_5 Sword Sword 2  Sword22 0  Scabbard22 3458764513820540928  2251799817879554 9223388564182532097 2790 286740 1.000000 10 0 0 0 6 0 92 0 81 0 280 0
  4
  20 21 22 23
 0
 
- itm_noswing_spatha_6 Sword Sword 2  Sword42 0  Scabbard42 3458764513820540928  2251799817879554 9223388564182532097 2790 286740 1.000000 10 0 0 0 6 0 92 0 81 0 274 0
+ itm_noswing_spatha_6 Sword Sword 2  Sword42 0  Scabbard42 3458764513820540928  2251799817879554 9223388564182532097 2790 286740 1.000000 10 0 0 0 6 0 92 0 81 0 280 0
  4
  20 21 22 23
 0
 
- itm_noswing_spatha_7 Sword Sword 2  Sword05 0  Scabbard05 3458764513820540928  2251799817879554 9223388564182532097 2790 286740 1.000000 10 0 0 0 6 0 92 0 81 0 272 0
+ itm_noswing_spatha_7 Sword Sword 2  Sword05 0  Scabbard05 3458764513820540928  2251799817879554 9223388564182532097 2790 286740 1.000000 10 0 0 0 6 0 92 0 81 0 278 0
  8
  16 17 18 19 20 21 22 23
 0
 
- itm_noswing_spatha_8 Sword Sword 2  Sword10 0  Scabbard10 3458764513820540928  2251799817879554 9223388564182532097 2790 286740 1.000000 10 0 0 0 6 0 92 0 81 0 272 0
+ itm_noswing_spatha_8 Sword Sword 2  Sword10 0  Scabbard10 3458764513820540928  2251799817879554 9223388564182532097 2790 286740 1.000000 10 0 0 0 6 0 92 0 81 0 278 0
  8
  16 17 18 19 20 21 22 23
 0
 
- itm_noswing_sword Sword Sword 2  Sword15 0  Scabbard15 3458764513820540928  2251799817879554 9223388564182532097 2790 286740 1.000000 10 0 0 0 6 0 92 0 81 0 272 0
+ itm_noswing_sword Sword Sword 2  Sword15 0  Scabbard15 3458764513820540928  2251799817879554 9223388564182532097 2790 286740 1.000000 10 0 0 0 6 0 92 0 81 0 278 0
  8
  16 17 18 19 20 21 22 23
 0
 
- itm_noswing_sword_2 Sword Sword 2  Sword20 0  Scabbard20 3458764513820540928  2251799817879554 9223388564182532097 2790 286740 1.000000 10 0 0 0 6 0 92 0 81 0 272 0
+ itm_noswing_sword_2 Sword Sword 2  Sword20 0  Scabbard20 3458764513820540928  2251799817879554 9223388564182532097 2790 286740 1.000000 10 0 0 0 6 0 92 0 81 0 278 0
  8
  16 17 18 19 20 21 22 23
 0
 
- itm_noswing_sword_3 Sword Sword 2  Sword25 0  Scabbard25 3458764513820540928  2251799817879554 9223388564182532097 2790 286740 1.000000 10 0 0 0 6 0 92 0 81 0 272 0
+ itm_noswing_sword_3 Sword Sword 2  Sword25 0  Scabbard25 3458764513820540928  2251799817879554 9223388564182532097 2790 286740 1.000000 10 0 0 0 6 0 92 0 81 0 278 0
  8
  16 17 18 19 20 21 22 23
 0
 
- itm_noswing_sword_4 Sword Sword 2  Sword45 0  Scabbard45 3458764513820540928  2251799817879554 9223388564182532097 2790 286740 1.000000 10 0 0 0 6 0 92 0 81 0 272 0
+ itm_noswing_sword_4 Sword Sword 2  Sword45 0  Scabbard45 3458764513820540928  2251799817879554 9223388564182532097 2790 286740 1.000000 10 0 0 0 6 0 92 0 81 0 278 0
  8
  16 17 18 19 20 21 22 23
 0
 
- itm_noswing_sword_5 Short_Sword Short_Sword 2  Sword04 0  Scabbard04 3458764513820540928  2251799817879554 9223388564182532097 1890 286740 1.000000 10 0 0 0 6 0 93 0 76 0 276 0
+ itm_noswing_sword_5 Short_Sword Short_Sword 2  Sword04 0  Scabbard04 3458764513820540928  2251799817879554 9223388564182532097 1890 286740 1.000000 10 0 0 0 6 0 93 0 76 0 282 0
  8
  16 17 18 19 20 21 22 23
 0
 
- itm_noswing_sword_6 Short_Sword Short_Sword 2  Sword09 0  Scabbard09 3458764513820540928  2251799817879554 9223388564182532097 1890 286740 1.000000 10 0 0 0 6 0 93 0 76 0 276 0
+ itm_noswing_sword_6 Short_Sword Short_Sword 2  Sword09 0  Scabbard09 3458764513820540928  2251799817879554 9223388564182532097 1890 286740 1.000000 10 0 0 0 6 0 93 0 76 0 282 0
  8
  16 17 18 19 20 21 22 23
 0
 
- itm_noswing_sword_7 Short_Sword Short_Sword 2  Sword14 0  Scabbard14 3458764513820540928  2251799817879554 9223388564182532097 1890 286740 1.000000 10 0 0 0 6 0 93 0 76 0 276 0
+ itm_noswing_sword_7 Short_Sword Short_Sword 2  Sword14 0  Scabbard14 3458764513820540928  2251799817879554 9223388564182532097 1890 286740 1.000000 10 0 0 0 6 0 93 0 76 0 282 0
  8
  16 17 18 19 20 21 22 23
 0
 
- itm_noswing_sword_8 Short_Sword Short_Sword 2  Sword19 0  Scabbard19 3458764513820540928  2251799817879554 9223388564182532097 1890 286740 1.000000 10 0 0 0 6 0 93 0 76 0 276 0
+ itm_noswing_sword_8 Short_Sword Short_Sword 2  Sword19 0  Scabbard19 3458764513820540928  2251799817879554 9223388564182532097 1890 286740 1.000000 10 0 0 0 6 0 93 0 76 0 282 0
  8
  16 17 18 19 20 21 22 23
 0
 
- itm_noswing_new_sword1 Short_Sword Short_Sword 2  Sword24 0  Scabbard24 3458764513820540928  2251799817879554 9223388564182532097 1890 286740 1.000000 10 0 0 0 6 0 93 0 76 0 279 0
+ itm_noswing_new_sword1 Short_Sword Short_Sword 2  Sword24 0  Scabbard24 3458764513820540928  2251799817879554 9223388564182532097 1890 286740 1.000000 10 0 0 0 6 0 93 0 76 0 285 0
  5
  16 17 18 19 23
 0
 
- itm_noswing_new_sword2 Short_Sword Short_Sword 2  Sword29 0  Scabbard29 3458764513820540928  2251799817879554 9223388564182532097 1890 286740 1.000000 10 0 0 0 6 0 93 0 76 0 279 0
+ itm_noswing_new_sword2 Short_Sword Short_Sword 2  Sword29 0  Scabbard29 3458764513820540928  2251799817879554 9223388564182532097 1890 286740 1.000000 10 0 0 0 6 0 93 0 76 0 285 0
  5
  16 17 18 19 23
 0
 
- itm_noswing_new_sword3 Short_Sword Short_Sword 2  Sword34 0  Scabbard34 3458764513820540928  2251799817879554 9223388564182532097 1890 286740 1.000000 10 0 0 0 6 0 93 0 76 0 279 0
+ itm_noswing_new_sword3 Short_Sword Short_Sword 2  Sword34 0  Scabbard34 3458764513820540928  2251799817879554 9223388564182532097 1890 286740 1.000000 10 0 0 0 6 0 93 0 76 0 285 0
  5
  16 17 18 19 23
 0
 
- itm_noswing_new_sword4 Short_Sword Short_Sword 2  Sword39 0  Scabbard39 3458764513820540928  2251799817879554 9223388564182532097 1890 286740 1.000000 10 0 0 0 6 0 93 0 76 0 279 0
+ itm_noswing_new_sword4 Short_Sword Short_Sword 2  Sword39 0  Scabbard39 3458764513820540928  2251799817879554 9223388564182532097 1890 286740 1.000000 10 0 0 0 6 0 93 0 76 0 285 0
  5
  16 17 18 19 23
 0
 
- itm_noswing_new_sword5 Short_Sword Short_Sword 2  Sword44 0  Scabbard44 3458764513820540928  2251799817879554 9223388564182532097 1890 286740 1.000000 10 0 0 0 6 0 93 0 76 0 279 0
+ itm_noswing_new_sword5 Short_Sword Short_Sword 2  Sword44 0  Scabbard44 3458764513820540928  2251799817879554 9223388564182532097 1890 286740 1.000000 10 0 0 0 6 0 93 0 76 0 285 0
  5
  16 17 18 19 23
 0
 
- itm_noswing_new_sword6 Sword Sword 2  Sword32 0  Scabbard32 3458764513820540928  2251799817879554 9223388564182532097 2790 286740 1.000000 10 0 0 0 6 0 92 0 81 0 272 0
+ itm_noswing_new_sword6 Sword Sword 2  Sword32 0  Scabbard32 3458764513820540928  2251799817879554 9223388564182532097 2790 286740 1.000000 10 0 0 0 6 0 92 0 81 0 278 0
  5
  16 17 18 19 23
 0
 
- itm_noswing_noble_sword Rich_Sword Rich_Sword 2  Sword46 0  Scabbard46 3458764513820540928  2251799817879554 9223388564182532097 4960 286740 1.000000 10 0 0 0 7 0 92 0 81 0 276 0
+ itm_noswing_noble_sword Rich_Sword Rich_Sword 2  Sword46 0  Scabbard46 3458764513820540928  2251799817879554 9223388564182532097 4960 286740 1.000000 10 0 0 0 7 0 92 0 81 0 282 0
  4
  20 21 22 23
 0
 
- itm_noswing_noble_sword_2 Ulfberth_Sword Ulfberth_Sword 2  Sword50_Ulfberht 0  Scabbard50 3458764513820540928  2251799817879554 9223388564182532097 6960 286740 1.000000 10 0 0 0 7 0 92 0 90 0 278 0
+ itm_noswing_noble_sword_2 Ulfberth_Sword Ulfberth_Sword 2  Sword50_Ulfberht 0  Scabbard50 3458764513820540928  2251799817879554 9223388564182532097 6960 286740 1.000000 10 0 0 0 7 0 92 0 90 0 284 0
  4
  20 21 22 23
 0
 
- itm_noswing_noble_sword_3 False_Ulfberth_Sword False_Ulfberth_Sword 2  Sword50_Ulfberht 0  Scabbard50 3458764513820540928  2251799817879554 9223388564182532097 4060 286740 1.000000 10 0 0 0 7 0 92 0 90 0 275 0
+ itm_noswing_noble_sword_3 False_Ulfberth_Sword False_Ulfberth_Sword 2  Sword50_Ulfberht 0  Scabbard50 3458764513820540928  2251799817879554 9223388564182532097 4060 286740 1.000000 10 0 0 0 7 0 92 0 90 0 281 0
  4
  20 21 22 23
 0
 
- itm_noswing_noble_sword_4 Rich_Sword Rich_Sword 2  Sword30 0  Scabbard30 3458764513820540928  2251799817879554 9223388564182532097 4960 286740 1.000000 10 0 0 0 7 0 92 0 81 0 274 0
+ itm_noswing_noble_sword_4 Rich_Sword Rich_Sword 2  Sword30 0  Scabbard30 3458764513820540928  2251799817879554 9223388564182532097 4960 286740 1.000000 10 0 0 0 7 0 92 0 81 0 280 0
  5
  16 17 18 19 23
 0
 
- itm_noswing_noble_sword_5 Ulfberth_Sword Ulfberth_Sword 2  Sword50_Ulfberht 0  Scabbard50 3458764513820540928  2251799817879554 9223388564182532097 6960 286740 1.000000 10 0 0 0 7 0 92 0 90 0 278 0
+ itm_noswing_noble_sword_5 Ulfberth_Sword Ulfberth_Sword 2  Sword50_Ulfberht 0  Scabbard50 3458764513820540928  2251799817879554 9223388564182532097 6960 286740 1.000000 10 0 0 0 7 0 92 0 90 0 284 0
  5
  16 17 18 19 23
 0
 
- itm_noswing_noble_sword_6 False_Ulfberth_Sword False_Ulfberth_Sword 2  Sword50_Ulfberht 0  Scabbard50 3458764513820540928  2251799817879554 9223388564182532097 4060 286740 1.000000 10 0 0 0 7 0 92 0 90 0 275 0
+ itm_noswing_noble_sword_6 False_Ulfberth_Sword False_Ulfberth_Sword 2  Sword50_Ulfberht 0  Scabbard50 3458764513820540928  2251799817879554 9223388564182532097 4060 286740 1.000000 10 0 0 0 7 0 92 0 90 0 281 0
  5
  16 17 18 19 23
 0
 
- itm_noswing_old_swordv Briton_Sword Briton_Sword 2  Sword03 0  Scabbard03 3458764513820540928  2251799817879554 9223388564182532097 2790 286740 1.250000 10 0 0 0 7 0 90 0 91 0 269 0
+ itm_noswing_old_swordv Briton_Sword Briton_Sword 2  Sword03 0  Scabbard03 3458764513820540928  2251799817879554 9223388564182532097 2790 286740 1.000000 10 0 0 0 7 0 90 0 91 0 275 0
  5
  24 25 26 27 28
 0
 
- itm_noswing_old_swordv2 Briton_Sword Briton_Sword 2  Sword08 0  Scabbard08 3458764513820540928  2251799817879554 9223388564182532097 2790 286740 1.250000 10 0 0 0 7 0 90 0 91 0 269 0
+ itm_noswing_old_swordv2 Briton_Sword Briton_Sword 2  Sword08 0  Scabbard08 3458764513820540928  2251799817879554 9223388564182532097 2790 286740 1.000000 10 0 0 0 7 0 90 0 91 0 275 0
  5
  24 25 26 27 28
 0
 
- itm_noswing_old_swordv3 Briton_Sword Briton_Sword 2  Sword13 0  Scabbard13 3458764513820540928  2251799817879554 9223388564182532097 2790 286740 1.250000 10 0 0 0 7 0 90 0 91 0 269 0
+ itm_noswing_old_swordv3 Briton_Sword Briton_Sword 2  Sword13 0  Scabbard13 3458764513820540928  2251799817879554 9223388564182532097 2790 286740 1.000000 10 0 0 0 7 0 90 0 91 0 275 0
  5
  24 25 26 27 28
 0
 
- itm_noswing_old_swordv4 Briton_Sword Briton_Sword 2  Sword18 0  Scabbard18 3458764513820540928  2251799817879554 9223388564182532097 2790 286740 1.250000 10 0 0 0 7 0 90 0 91 0 269 0
+ itm_noswing_old_swordv4 Briton_Sword Briton_Sword 2  Sword18 0  Scabbard18 3458764513820540928  2251799817879554 9223388564182532097 2790 286740 1.000000 10 0 0 0 7 0 90 0 91 0 275 0
  5
  24 25 26 27 28
 0
 
- itm_noswing_old_swordv5 Briton_Sword Briton_Sword 2  Sword23 0  Scabbard23 3458764513820540928  2251799817879554 9223388564182532097 2790 286740 1.250000 10 0 0 0 7 0 90 0 91 0 269 0
+ itm_noswing_old_swordv5 Briton_Sword Briton_Sword 2  Sword23 0  Scabbard23 3458764513820540928  2251799817879554 9223388564182532097 2790 286740 1.000000 10 0 0 0 7 0 90 0 91 0 275 0
  5
  24 25 26 27 28
 0
 
- itm_noswing_old_swordv6 Briton_Sword Briton_Sword 2  Sword38 0  Scabbard38 3458764513820540928  2251799817879554 9223388564182532097 2790 286740 1.250000 10 0 0 0 7 0 90 0 91 0 269 0
+ itm_noswing_old_swordv6 Briton_Sword Briton_Sword 2  Sword38 0  Scabbard38 3458764513820540928  2251799817879554 9223388564182532097 2790 286740 1.000000 10 0 0 0 7 0 90 0 91 0 275 0
  5
  24 25 26 27 28
 0
 
- itm_noswing_old_swordv7 Briton_Sword Briton_Sword 2  Sword43 0  Scabbard43 3458764513820540928  2251799817879554 9223388564182532097 2790 286740 1.250000 10 0 0 0 7 0 90 0 91 0 269 0
+ itm_noswing_old_swordv7 Briton_Sword Briton_Sword 2  Sword43 0  Scabbard43 3458764513820540928  2251799817879554 9223388564182532097 2790 286740 1.000000 10 0 0 0 7 0 90 0 91 0 275 0
  5
  24 25 26 27 28
 0
 
- itm_noswing_noble_sword_7 Rich_Briton_Sword Rich_Briton_Sword 2  Sword28 0  Scabbard28 3458764513820540928  2251799817879554 9223388564182532097 3840 286740 1.250000 10 0 0 0 7 0 90 0 91 0 271 0
+ itm_noswing_noble_sword_7 Rich_Briton_Sword Rich_Briton_Sword 2  Sword28 0  Scabbard28 3458764513820540928  2251799817879554 9223388564182532097 3840 286740 1.000000 10 0 0 0 7 0 90 0 91 0 277 0
  5
  24 25 26 27 28
 0
 
- itm_noswing_noble_sword_8 Rich_Briton_Sword Rich_Briton_Sword 2  Sword33 0  Scabbard33 3458764513820540928  2251799817879554 9223388564182532097 3840 286740 1.250000 10 0 0 0 7 0 90 0 91 0 271 0
+ itm_noswing_noble_sword_8 Rich_Briton_Sword Rich_Briton_Sword 2  Sword33 0  Scabbard33 3458764513820540928  2251799817879554 9223388564182532097 3840 286740 1.000000 10 0 0 0 7 0 90 0 91 0 277 0
  5
  24 25 26 27 28
 0
 
- itm_noswing_noble_sword_9 Rich_Briton_Sword Rich_Briton_Sword 2  Sword38 0  Scabbard38 3458764513820540928  2251799817879554 9223388564182532097 3840 286740 1.250000 10 0 0 0 7 0 90 0 91 0 271 0
+ itm_noswing_noble_sword_9 Rich_Briton_Sword Rich_Briton_Sword 2  Sword38 0  Scabbard38 3458764513820540928  2251799817879554 9223388564182532097 3840 286740 1.000000 10 0 0 0 7 0 90 0 91 0 277 0
  5
  24 25 26 27 28
 0
 
- itm_noswing_noble_sword_10 Rich_Briton_Sword Rich_Briton_Sword 2  Sword13 0  Scabbard13 3458764513820540928  2251799817879554 9223388564182532097 3840 286740 1.250000 10 0 0 0 7 0 90 0 91 0 271 0
+ itm_noswing_noble_sword_10 Rich_Briton_Sword Rich_Briton_Sword 2  Sword13 0  Scabbard13 3458764513820540928  2251799817879554 9223388564182532097 3840 286740 1.000000 10 0 0 0 7 0 90 0 91 0 277 0
  5
  24 25 26 27 28
 0
 
- itm_noswing_noble_sword_11 Rich_Briton_Sword Rich_Briton_Sword 2  Sword43 0  Scabbard43 3458764513820540928  2251799817879554 9223388564182532097 3840 286740 1.250000 10 0 0 0 7 0 90 0 91 0 271 0
+ itm_noswing_noble_sword_11 Rich_Briton_Sword Rich_Briton_Sword 2  Sword43 0  Scabbard43 3458764513820540928  2251799817879554 9223388564182532097 3840 286740 1.000000 10 0 0 0 7 0 90 0 91 0 277 0
  5
  24 25 26 27 28
 0
 
- itm_noswing_noble_sword_12 Rich_Briton_Sword Rich_Briton_Sword 2  Sword20 0  Scabbard20 3458764513820540928  2251799817879554 9223388564182532097 4960 286740 1.000000 10 0 0 0 7 0 92 0 81 0 274 0
+ itm_noswing_noble_sword_12 Rich_Briton_Sword Rich_Briton_Sword 2  Sword20 0  Scabbard20 3458764513820540928  2251799817879554 9223388564182532097 4960 286740 1.000000 10 0 0 0 7 0 92 0 81 0 280 0
  5
  24 25 26 27 28
 0
 
- itm_noswing_noble_sword_13 Rich_Briton_Sword Rich_Briton_Sword 2  Sword40 0  Scabbard40 3458764513820540928  2251799817879554 9223388564182532097 4960 286740 1.000000 10 0 0 0 7 0 92 0 81 0 274 0
+ itm_noswing_noble_sword_13 Rich_Briton_Sword Rich_Briton_Sword 2  Sword40 0  Scabbard40 3458764513820540928  2251799817879554 9223388564182532097 4960 286740 1.000000 10 0 0 0 7 0 92 0 81 0 280 0
  5
  24 25 26 27 28
 0
 
- itm_noswing_noble_swordv False_Ulfberth_Sword False_Ulfberth_Sword 2  Sword50_Ulfberht 0  Scabbard50 3458764513820540928  2251799817879554 9223388564182532097 4060 286740 1.000000 10 0 0 0 7 0 92 0 90 0 275 0
+ itm_noswing_noble_swordv False_Ulfberth_Sword False_Ulfberth_Sword 2  Sword50_Ulfberht 0  Scabbard50 3458764513820540928  2251799817879554 9223388564182532097 4060 286740 1.000000 10 0 0 0 7 0 92 0 90 0 281 0
  5
  24 25 26 27 28
 0
 
- itm_noswing_noble_swordv3 False_Ulfberth_Sword False_Ulfberth_Sword 2  Sword50_Ulfberht 0  Scabbard50 3458764513820540928  2251799817879554 9223388564182532097 4060 286740 1.000000 10 0 0 0 7 0 92 0 90 0 275 0
+ itm_noswing_noble_swordv3 False_Ulfberth_Sword False_Ulfberth_Sword 2  Sword50_Ulfberht 0  Scabbard50 3458764513820540928  2251799817879554 9223388564182532097 4060 286740 1.000000 10 0 0 0 7 0 92 0 90 0 281 0
  5
  24 25 26 27 28
 0
 
- itm_noswing_noble_swordv4 Ulfberth_Sword Ulfberth_Sword 2  Sword50_Ulfberht 0  Scabbard50 3458764513820540928  2251799817879554 9223388564182532097 6960 286740 1.000000 10 0 0 0 7 0 92 0 90 0 278 0
+ itm_noswing_noble_swordv4 Ulfberth_Sword Ulfberth_Sword 2  Sword50_Ulfberht 0  Scabbard50 3458764513820540928  2251799817879554 9223388564182532097 6960 286740 1.000000 10 0 0 0 7 0 92 0 90 0 284 0
  5
  24 25 26 27 28
 0
 
- itm_noswing_noble_swordv5 Rich_Sword Rich_Sword 2  Sword35 0  Scabbard35 3458764513820540928  2251799817879554 9223388564182532097 4960 286740 1.000000 10 0 0 0 7 0 92 0 81 0 274 0
+ itm_noswing_noble_swordv5 Rich_Sword Rich_Sword 2  Sword35 0  Scabbard35 3458764513820540928  2251799817879554 9223388564182532097 4960 286740 1.000000 10 0 0 0 7 0 92 0 81 0 280 0
  5
  24 25 26 27 28
 0
 
- itm_noswing_noble_swordv6 Rich_Sword Rich_Sword 2  Sword37 0  Scabbard37 3458764513820540928  2251799817879554 9223388564182532097 4960 286740 1.000000 10 0 0 0 7 0 92 0 81 0 274 0
+ itm_noswing_noble_swordv6 Rich_Sword Rich_Sword 2  Sword37 0  Scabbard37 3458764513820540928  2251799817879554 9223388564182532097 4960 286740 1.000000 10 0 0 0 7 0 92 0 81 0 280 0
  5
  24 25 26 27 28
 0
 
- itm_noswing_noble_swordv7 Rich_Sword Rich_Sword 2  Sword27 0  Scabbard27 3458764513820540928  2251799817879554 9223388564182532097 4960 286740 1.000000 10 0 0 0 7 0 92 0 81 0 274 0
+ itm_noswing_noble_swordv7 Rich_Sword Rich_Sword 2  Sword27 0  Scabbard27 3458764513820540928  2251799817879554 9223388564182532097 4960 286740 1.000000 10 0 0 0 7 0 92 0 81 0 280 0
  5
  24 25 26 27 28
 0
 
- itm_noswing_irish_long_sword1 Goidelic_Noble_Long_Sword Goidelic_Noble_Long_Sword 2  GP_swords01 0  GP_swords01_Scabbard 3458764513820540928  2251799817879554 9223388564182532097 4960 286740 1.250000 10 0 0 0 8 0 89 0 94 0 269 0
+ itm_noswing_irish_long_sword1 Goidelic_Noble_Long_Sword Goidelic_Noble_Long_Sword 2  GP_swords01 0  GP_swords01_Scabbard 3458764513820540928  2251799817879554 9223388564182532097 4960 286740 1.000000 10 0 0 0 8 0 86 0 94 0 278 0
  8
  29 30 31 32 33 34 35 36
 0
 
- itm_noswing_irish_long_sword2 Goidelic_Noble_Long_Sword Goidelic_Noble_Long_Sword 2  GP_swords10 0  GP_swords10_Scabbard 3458764513820540928  2251799817879554 9223388564182532097 4960 286740 1.750000 10 0 0 0 9 0 87 0 100 0 269 0
+ itm_noswing_irish_long_sword2 Goidelic_Noble_Long_Sword Goidelic_Noble_Long_Sword 2  GP_swords10 0  GP_swords10_Scabbard 3458764513820540928  2251799817879554 9223388564182532097 4960 286740 1.000000 10 0 0 0 9 0 82 0 100 0 278 0
  8
  29 30 31 32 33 34 35 36
 0
 
- itm_noswing_irish_long_sword3 Goidelic_Long_Sword Goidelic_Long_Sword 2  GP_swords02 0  GP_swords02_Scabbard 3458764513820540928  2251799817879554 9223388564182532097 4790 286740 1.250000 10 0 0 0 9 0 87 0 100 0 267 0
+ itm_noswing_irish_long_sword3 Goidelic_Long_Sword Goidelic_Long_Sword 2  GP_swords02 0  GP_swords02_Scabbard 3458764513820540928  2251799817879554 9223388564182532097 4790 286740 1.000000 10 0 0 0 9 0 82 0 100 0 276 0
  8
  29 30 31 32 33 34 35 36
 0
 
- itm_noswing_irish_long_sword4 Goidelic_Long_Sword Goidelic_Long_Sword 2  GP_swords03 0  GP_swords03_Scabbard 3458764513820540928  2251799817879554 9223388564182532097 4790 286740 1.250000 10 0 0 0 8 0 89 0 94 0 267 0
+ itm_noswing_irish_long_sword4 Goidelic_Long_Sword Goidelic_Long_Sword 2  GP_swords03 0  GP_swords03_Scabbard 3458764513820540928  2251799817879554 9223388564182532097 4790 286740 1.000000 10 0 0 0 8 0 86 0 94 0 276 0
  8
  29 30 31 32 33 34 35 36
 0
 
- itm_noswing_irish_long_sword5 Goidelic_Long_Sword Goidelic_Long_Sword 2  GP_swords05 0  GP_swords05_Scabbard 3458764513820540928  2251799817879554 9223388564182532097 4790 286740 1.250000 10 0 0 0 8 0 89 0 94 0 267 0
+ itm_noswing_irish_long_sword5 Goidelic_Long_Sword Goidelic_Long_Sword 2  GP_swords05 0  GP_swords05_Scabbard 3458764513820540928  2251799817879554 9223388564182532097 4790 286740 1.000000 10 0 0 0 8 0 86 0 94 0 276 0
  8
  29 30 31 32 33 34 35 36
 0
 
- itm_noswing_irish_long_sword6 Goidelic_Long_Sword Goidelic_Long_Sword 2  GP_swords06 0  GP_swords06_Scabbard 3458764513820540928  2251799817879554 9223388564182532097 4790 286740 1.250000 10 0 0 0 9 0 87 0 100 0 267 0
+ itm_noswing_irish_long_sword6 Goidelic_Long_Sword Goidelic_Long_Sword 2  GP_swords06 0  GP_swords06_Scabbard 3458764513820540928  2251799817879554 9223388564182532097 4790 286740 1.000000 10 0 0 0 9 0 82 0 100 0 276 0
  8
  29 30 31 32 33 34 35 36
 0
 
- itm_noswing_irish_long_sword7 Goidelic_Long_Sword Goidelic_Long_Sword 2  GP_swords07 0  GP_swords07_Scabbard 3458764513820540928  2251799817879554 9223388564182532097 4790 286740 1.250000 10 0 0 0 8 0 89 0 94 0 267 0
+ itm_noswing_irish_long_sword7 Goidelic_Long_Sword Goidelic_Long_Sword 2  GP_swords07 0  GP_swords07_Scabbard 3458764513820540928  2251799817879554 9223388564182532097 4790 286740 1.000000 10 0 0 0 8 0 86 0 94 0 276 0
  8
  29 30 31 32 33 34 35 36
 0
 
- itm_noswing_irish_long_sword8 Goidelic_Long_Sword Goidelic_Long_Sword 2  GP_swords08 0  GP_swords08_Scabbard 3458764513820540928  2251799817879554 9223388564182532097 4790 286740 1.250000 10 0 0 0 8 0 89 0 94 0 267 0
+ itm_noswing_irish_long_sword8 Goidelic_Long_Sword Goidelic_Long_Sword 2  GP_swords08 0  GP_swords08_Scabbard 3458764513820540928  2251799817879554 9223388564182532097 4790 286740 1.000000 10 0 0 0 8 0 86 0 94 0 276 0
  8
  29 30 31 32 33 34 35 36
 0
 
- itm_noswing_irish_short_sword1 Goidelic_Short_Sword Goidelic_Short_Sword 2  short_swords01 0  short_swords01_Scabbard 3458764513820540928  2251799817895938 9223372071508115457 2790 286740 1.000000 100 0 0 0 4 0 92 0 70 0 288 0
+ itm_noswing_irish_short_sword1 Goidelic_Short_Sword Goidelic_Short_Sword 2  short_swords01 0  short_swords01_Scabbard 3458764513820540928  2251799817879554 9223388564182532097 2790 286740 1.000000 100 0 0 0 4 0 92 0 70 0 291 0
  8
  29 30 31 32 33 34 35 36
 0
 
- itm_noswing_irish_short_sword2 Goidelic_Short_Sword Goidelic_Short_Sword 2  short_swords05 0  short_swords05_Scabbard 3458764513820540928  2251799817895938 9223372071508115457 2790 286740 1.000000 100 0 0 0 4 0 92 0 70 0 288 0
+ itm_noswing_irish_short_sword2 Goidelic_Short_Sword Goidelic_Short_Sword 2  short_swords05 0  short_swords05_Scabbard 3458764513820540928  2251799817879554 9223388564182532097 3090 286740 1.000000 100 0 0 0 4 0 92 0 70 0 291 0
  8
  29 30 31 32 33 34 35 36
 0
 
- itm_noswing_irish_short_sword3 Goidelic_Short_Sword Goidelic_Short_Sword 2  short_swords10 0  short_swords10_Scabbard 3458764513820540928  2251799817895938 9223372071508115457 2790 286740 1.000000 100 0 0 0 4 0 92 0 70 0 288 0
+ itm_noswing_irish_short_sword3 Goidelic_Short_Sword Goidelic_Short_Sword 2  short_swords10 0  short_swords10_Scabbard 3458764513820540928  2251799817879554 9223388564182532097 2790 286740 1.000000 100 0 0 0 4 0 92 0 70 0 291 0
  8
  29 30 31 32 33 34 35 36
 0
 
- itm_noswing_championsword1 Goidelic_Champion_Sword Goidelic_Champion_Sword 2  GP_swords04 0  GP_swords04_Scabbard 3458764513820540928  2251800220532739 9223635954298781713 5030 286740 1.500000 10 0 0 0 11 0 86 0 120 0 269 0
+ itm_noswing_championsword1 Goidelic_Champion_Sword Goidelic_Champion_Sword 2  GP_swords04 0  GP_swords04_Scabbard 3458764513820540928  2251800220532739 9223635954298781713 5030 286740 2.000000 10 0 0 0 11 0 85 0 120 0 282 0
  7
  29 30 31 32 33 34 36
 0
 
- itm_noswing_championsword2 Goidelic_Champion_Sword Goidelic_Champion_Sword 2  GP_swords09 0  GP_swords09_Scabbard 3458764513820540928  2251800220532739 9223635954298781713 5030 286740 1.500000 10 0 0 0 11 0 86 0 120 0 269 0
+ itm_noswing_championsword2 Goidelic_Champion_Sword Goidelic_Champion_Sword 2  GP_swords09 0  GP_swords09_Scabbard 3458764513820540928  2251800220532739 9223635954298781713 5030 286740 2.000000 10 0 0 0 11 0 85 0 120 0 282 0
  7
  29 30 31 32 33 34 36
 0
 
- itm_noswing_widow_maker Widow_Maker Widow_Maker 2  Sword50_Ulfberht 0  Scabbard50 3458764513820540928  2251799817879554 9223388564182532097 8360 286740 1.250000 10 0 0 0 9 0 90 0 90 0 274 0
+ itm_noswing_widow_maker Widow_Maker Widow_Maker 2  Sword50_Ulfberht 0  Scabbard50 3458764513820540928  2251799817879554 9223388564182532097 8360 286740 1.000000 10 0 0 0 9 0 91 0 90 0 280 0
  0
 0
 
- itm_noswing_suttonhoosword2 Bandit_King_Sword Bandit_King_Sword 2  Sword50_Ulfberht 0  Scabbard50 3458764513820540928  2251799817879554 9223388564182532097 8960 286740 1.250000 100 0 0 0 7 0 90 0 90 0 272 0
+ itm_noswing_suttonhoosword2 Bandit_King_Sword Bandit_King_Sword 2  Sword50_Ulfberht 0  Scabbard50 3458764513820540928  2251799817879554 9223388564182532097 8960 286740 1.000000 100 0 0 0 7 0 90 0 90 0 278 0
  0
 0
 
- itm_noswing_siren_song Laufi Laufi 2  Sword49_Laufi 0  Scabbard49 3458764513820540928  2251799817879554 9223388564182532097 8960 286740 1.250000 100 0 0 0 9 0 86 0 86 0 275 0
+ itm_noswing_siren_song Laufi Laufi 2  Sword49_Laufi 0  Scabbard49 3458764513820540928  2251799817879554 9223388564182532097 8960 286740 1.000000 100 0 0 0 9 0 92 0 86 0 281 0
  0
 0
 
- itm_noswing_sword_of_war Olvir's_Sword Olvir's_Sword 2  Sword52_Runesword 0  Scabbard52 3458764513820540928  2251799817879554 9223388564182532097 8960 286740 1.250000 100 0 0 0 7 0 92 0 81 0 278 0
+ itm_noswing_sword_of_war Olvir's_Sword Olvir's_Sword 2  Sword52_Runesword 0  Scabbard52 3458764513820540928  2251799817879554 9223388564182532097 8960 286740 1.000000 100 0 0 0 7 0 95 0 81 0 284 0
  0
 0
 
- itm_noswing_sword_premium1 Nad Nad 2  Sword51 0  Scabbard51 3458764513820540928  2251799817879554 9223388564182532097 8960 286740 1.250000 100 0 0 0 7 0 89 0 96 0 270 0
+ itm_noswing_sword_premium1 Nad Nad 2  Sword51 0  Scabbard51 3458764513820540928  2251799817879554 9223388564182532097 8960 286740 1.000000 100 0 0 0 7 0 87 0 96 0 276 0
  0
 0
 
- itm_noswing_sword_premium2 Draguandil Draguandil 2  Sword52_Runesword 0  Scabbard52 3458764513820540928  2251799817879554 9223388564182532097 8960 286740 1.250000 100 0 0 0 7 0 92 0 81 0 278 0
+ itm_noswing_sword_premium2 Draguandil Draguandil 2  Sword52_Runesword 0  Scabbard52 3458764513820540928  2251799817879554 9223388564182532097 8960 286740 1.000000 100 0 0 0 7 0 97 0 81 0 284 0
  0
 0
 
- itm_noswing_sword_premium3 Blynjubitr Blynjubitr 2  Sword48_Brynjubitr 0  Scabbard48 3458764513820540928  2251799817879554 9223388564182532097 8960 286740 1.250000 100 0 0 0 7 0 92 0 81 0 277 0
- 0
-0
-
- itm_noswing_one_handed_war_axe_a Short_Battle_Axe Short_Battle_Axe 1  Axt02-1 0  2251799893639170 9223388530091229185 440 262164 1.500000 100 0 0 0 7 0 92 0 61 0 271 0
- 8
- 16 17 18 19 20 21 22 23
-0
-
- itm_noswing_one_handed_war_axe_b Short_Battle_Axe Short_Battle_Axe 1  Axt02-2 0  2251799893639170 9223388530091229185 440 262164 1.500000 100 0 0 0 7 0 92 0 61 0 271 0
- 8
- 16 17 18 19 20 21 22 23
-0
-
- itm_noswing_one_handed_war_axe_c Short_Battle_Axe Short_Battle_Axe 1  Axt02-3 0  2251799893639170 9223388530091229185 440 262164 1.250000 100 0 0 0 7 0 93 0 56 0 271 0
- 8
- 16 17 18 19 20 21 22 23
-0
-
- itm_noswing_one_handed_war_axe_d Short_Battle_Axe Short_Battle_Axe 1  Axt02-4 0  2251799893639170 9223388530091229185 440 262164 1.250000 100 0 0 0 7 0 94 0 51 0 271 0
- 8
- 16 17 18 19 20 21 22 23
-0
-
- itm_noswing_one_handed_war_axe_e Long_Battle_Axe Long_Battle_Axe 1  Axt02-5 0  2251800287903747 9223635923965575185 480 262164 1.750000 20 0 0 0 9 0 85 0 81 0 274 0
- 8
- 16 17 18 19 20 21 22 23
-0
-
- itm_noswing_one_handed_war_axe_f Long_Battle_Axe Long_Battle_Axe 1  Axt02-6 0  2251800287903747 9223635923965575185 520 262164 1.750000 20 0 0 0 9 0 84 0 83 0 274 0
- 8
- 16 17 18 19 20 21 22 23
-0
-
- itm_noswing_frankish_axe Frankish_Battle_Axe Frankish_Battle_Axe 1  Axt02-5 0  2251800296292355 9223635923965575185 1380 262164 1.750000 100 0 0 0 9 0 86 0 81 0 274 0
+ itm_noswing_sword_premium3 Blynjubitr Blynjubitr 2  Sword48_Brynjubitr 0  Scabbard48 3458764513820540928  2251799817879554 9223388564182532097 8960 286740 1.000000 100 0 0 0 7 0 95 0 81 0 286 0
  0
 0
 
@@ -5738,112 +5706,108 @@ itemsfile version 3
  0
 0
 
- itm_noswing_light_spear1 Light_Spear Light_Spear 1  Spear_S_01 0  2251800900272132 31243728790225153 380 8202 2.250000 100 0 0 0 6 0 95 0 113 0 284 0
+ itm_noswing_light_spear1 Light_Spear Light_Spear 1  Spear_S_01 0  2251800900272132 31243728790225153 380 8202 2.250000 100 0 0 0 6 0 95 0 113 0 288 0
  0
 0
 
- itm_noswing_light_spear2 Light_Spear Light_Spear 1  Spear_S_05 0  2251800900272132 31243728790225153 380 8202 2.250000 100 0 0 0 6 0 95 0 121 0 284 0
+ itm_noswing_light_spear2 Light_Spear Light_Spear 1  Spear_S_05 0  2251800900272132 31243728790225153 380 8202 2.250000 100 0 0 0 6 0 95 0 121 0 288 0
  0
 0
 
- itm_noswing_light_spear3 Light_Spear Light_Spear 1  Spear_S_03 0  2251800900272132 31243728790225153 380 8202 2.250000 100 0 0 0 6 0 95 0 107 0 284 0
+ itm_noswing_light_spear3 Light_Spear Light_Spear 1  Spear_S_03 0  2251800900272132 31243728790225153 380 8202 2.250000 100 0 0 0 6 0 95 0 107 0 288 0
  0
 0
 
- itm_noswing_light_spear4 Light_Spear Light_Spear 1  Spear_S_04 0  2251800900272132 31243728790225153 380 8202 2.250000 100 0 0 0 6 0 95 0 107 0 284 0
+ itm_noswing_light_spear4 Light_Spear Light_Spear 1  Spear_S_04 0  2251800900272132 31243728790225153 380 8202 2.250000 100 0 0 0 6 0 95 0 107 0 288 0
  0
 0
 
- itm_noswing_war_spear1 War_Spear War_Spear 1  Spear_M_01 0  2251800900272132 31243722616209665 420 8202 2.250000 80 0 0 0 6 0 93 0 153 0 285 0
+ itm_noswing_war_spear1 War_Spear War_Spear 1  Spear_M_01 0  2251800900272132 31243722616209665 420 8202 2.250000 80 0 0 0 6 0 93 0 153 0 289 0
  0
 0
 
- itm_noswing_war_spear2 War_Spear War_Spear 1  Spear_M_03 0  2251800900272132 31243722616209665 420 8202 2.250000 80 0 0 0 6 0 93 0 146 0 285 0
+ itm_noswing_war_spear2 War_Spear War_Spear 1  Spear_M_03 0  2251800900272132 31243722616209665 420 8202 2.250000 80 0 0 0 6 0 93 0 146 0 289 0
  0
 0
 
- itm_noswing_war_spear3 War_Spear War_Spear 1  Spear_M_05 0  2251800900272132 31243722616209665 420 8202 2.250000 80 0 0 0 6 0 93 0 162 0 285 0
+ itm_noswing_war_spear3 War_Spear War_Spear 1  Spear_M_05 0  2251800900272132 31243722616209665 420 8202 2.250000 80 0 0 0 6 0 93 0 162 0 289 0
  0
 0
 
- itm_noswing_heavy_spear1 Heavy_Spear Heavy_Spear 1  Spear_M_02 0  2251800900272132 31243722616209665 460 8202 2.750000 60 0 0 0 8 0 90 0 161 0 286 0
+ itm_noswing_heavy_spear1 Heavy_Spear Heavy_Spear 1  Spear_M_02 0  2251800900272132 31243722616209665 460 8202 2.750000 60 0 0 0 8 0 90 0 161 0 290 0
  0
 0
 
- itm_noswing_heavy_spear2 Heavy_Spear Heavy_Spear 1  Spear_M_04 0  2251800900272132 31243722616209665 460 8202 2.750000 60 0 0 0 8 0 90 0 153 0 286 0
+ itm_noswing_heavy_spear2 Heavy_Spear Heavy_Spear 1  Spear_M_04 0  2251800900272132 31243722616209665 460 8202 2.750000 60 0 0 0 8 0 90 0 153 0 290 0
  0
 0
 
- itm_noswing_heavy_spear3 Heavy_Spear Heavy_Spear 1  Spear_M_06 0  2251800900272132 31243722616209665 460 8202 2.750000 60 0 0 0 8 0 90 0 171 0 286 0
+ itm_noswing_heavy_spear3 Heavy_Spear Heavy_Spear 1  Spear_M_06 0  2251800900272132 31243722616209665 460 8202 2.750000 60 0 0 0 8 0 90 0 171 0 290 0
  0
 0
 
- itm_noswing_long_light_spear1 Light_Long_Spear Light_Long_Spear 1  Spear_L_01 0  2251800900272132 31243722616209665 400 8202 3.000000 100 0 0 0 6 0 93 0 174 0 282 0
+ itm_noswing_long_light_spear1 Light_Long_Spear Light_Long_Spear 1  Spear_L_01 0  2251800900272132 31243722616209665 400 8202 3.000000 100 0 0 0 6 0 93 0 174 0 286 0
  0
 0
 
- itm_noswing_long_light_spear2 Light_Long_Spear Light_Long_Spear 1  Spear_L_04 0  2251800900272132 31243722616209665 400 8202 3.000000 100 0 0 0 6 0 93 0 167 0 282 0
+ itm_noswing_long_light_spear2 Light_Long_Spear Light_Long_Spear 1  Spear_L_04 0  2251800900272132 31243722616209665 400 8202 3.000000 100 0 0 0 6 0 93 0 167 0 286 0
  0
 0
 
- itm_noswing_long_war_spear1 Long_War_Spear Long_War_Spear 1  Spear_L_02 0  2251800900272132 31243722616209665 440 8202 3.500000 80 0 0 0 6 0 91 0 193 0 284 0
+ itm_noswing_long_war_spear1 Long_War_Spear Long_War_Spear 1  Spear_L_02 0  2251800900272132 31243722616209665 440 8202 3.500000 80 0 0 0 6 0 91 0 193 0 289 0
  0
 0
 
- itm_noswing_long_war_spear2 Long_War_Spear Long_War_Spear 1  Spear_L_05 0  2251801034489860 31243722616209665 440 8202 3.500000 80 0 0 0 6 0 91 0 203 0 284 0
+ itm_noswing_long_war_spear2 Long_War_Spear Long_War_Spear 1  Spear_L_05 0  2251800900272132 31243722616209665 440 8202 3.500000 80 0 0 0 6 0 91 0 203 0 288 0
  0
 0
 
- itm_noswing_long_heavy_spear1 Heavy_Long_Spear Heavy_Long_Spear 1  Spear_L_03 0  2251800900272132 31243722616209665 480 8202 4.000000 40 0 0 0 10 0 88 0 205 0 286 0
+ itm_noswing_long_heavy_spear1 Heavy_Long_Spear Heavy_Long_Spear 1  Spear_L_03 0  2251800900272132 31243722616209665 480 8202 4.000000 40 0 0 0 10 0 88 0 205 0 290 0
  0
 0
 
- itm_noswing_long_heavy_spear2 Heavy_Long_Spear Heavy_Long_Spear 1  Spear_L_06 0  2251800900272132 31243722616209665 480 8202 4.000000 40 0 0 0 10 0 88 0 188 0 286 0
+ itm_noswing_long_heavy_spear2 Heavy_Long_Spear Heavy_Long_Spear 1  Spear_L_06 0  2251800900272132 31243722616209665 480 8202 4.000000 40 0 0 0 10 0 88 0 188 0 291 0
  0
 0
 
- itm_noswing_new_mace Ray Ray 1  Spear_L_05A 0  2251800900272132 31243722616209665 1480 8202 4.000000 40 0 0 0 10 0 88 0 220 0 287 0
+ itm_noswing_new_mace Ray Ray 1  Spear_L_05A 0  2251800900272132 31243722616209665 1480 8202 4.000000 40 0 0 0 10 0 88 0 220 0 289 0
  0
 0
 
- itm_noswing_premium_spear1 Gungnir Gungnir 1  Spear_L_05B 0  2251800900272132 31243722616209665 1480 8202 4.000000 40 0 0 0 10 0 88 0 220 0 287 0
+ itm_noswing_premium_spear1 Runed_Spear Runed_Spear 1  Spear_L_05B 0  2251800900272132 31243722616209665 1480 8202 4.000000 40 0 0 0 10 0 88 0 220 0 290 0
  0
 0
 
  itm_noswing_standard Army_Standard Army_Standard 1  standard_to_add_mesh 0  274726915 9223635919737716752 780 0 4.250000 15 0 0 0 2 0 72 0 247 0 528 0
  0
 1
--50.000000  3 2071 1 1224979098644774912 2072 1 1224979098644774913 1 3 936748722493063560 1224979098644774912 1224979098644774913 
+-50.000000  3 2071 1 1224979098644774912 2072 1 1224979098644774913 1 3 936748722493063562 1224979098644774912 1224979098644774913 
 
  itm_noswing_standard_dragon Dragon_Standard Dragon_Standard 1  standard_dragon2 0  274726915 9223635919737716752 780 0 4.250000 5 0 0 0 2 0 85 0 220 0 528 0
  0
 0
 
- itm_noswing_darts_melee Simple_Javelins Simple_Javelins 1  javelin 0  2251799826530308 13229324106727681 200 8202 1.000000 100 0 0 0 0 0 90 0 65 0 271 0
+ itm_noswing_javelin_melee Javelin Javelin 1  javelin 0  2251799826530308 13229324106727681 200 8202 1.500000 100 0 0 0 0 0 90 0 65 0 274 0
  0
 0
 
- itm_noswing_javelin_melee Javelin Javelin 1  javelin 0  2251799826530308 13229324106727681 200 8202 1.000000 100 0 0 0 0 0 90 0 65 0 273 0
+ itm_noswing_javelin_skirmishes_melee Skirmish_Javelin Skirmish_Javelin 1  javelin 0  2251799826530308 13229324106727681 250 8202 2.000000 100 0 0 0 0 0 90 0 65 0 274 0
  0
 0
 
- itm_noswing_javelin_skirmishes_melee Skirmish_Javelin Skirmish_Javelin 1  javelin 0  2251799826530308 13229324106727681 250 8202 2.000000 100 0 0 0 0 0 90 0 65 0 273 0
+ itm_noswing_javelin_skirmishesel_melee Heavy_Javelin Heavy_Javelin 1  javelin2 0  2251799826530308 13229324106727681 350 8202 3.000000 100 0 0 0 0 0 90 0 65 0 274 0
  0
 0
 
- itm_noswing_javelin_skirmishesel_melee Heavy_Javelin Heavy_Javelin 1  javelin2 0  2251799826530308 13229324106727681 350 8202 3.000000 100 0 0 0 0 0 90 0 65 0 273 0
+ itm_noswing_javelin_jinetes_melee Horseman_Javelin Horseman_Javelin 1  javelin2 0  2251799826530308 13229324106727681 400 8202 4.000000 100 0 0 0 0 0 90 0 65 0 274 0
  0
 0
 
- itm_noswing_javelin_jinetes_melee Horseman_Javelin Horseman_Javelin 1  javelin2 0  2251799826530308 13229324106727681 400 8202 4.000000 100 0 0 0 0 0 90 0 65 0 273 0
+ itm_noswing_throwing_spear_melee Throwing_Spear Throwing_Spear 1  Spear_S_02 0  2251799826530308 13229324106727681 425 4398046781450 2.000000 100 0 0 0 2 0 85 0 113 0 284 0
  0
 0
 
- itm_noswing_throwing_spear_melee Throwing_Spear Throwing_Spear 1  Spear_S_02 0  2251799826530308 13229324106727681 425 4398046781450 2.000000 100 0 0 0 2 0 85 0 113 0 280 0
- 0
-0
-
- itm_noswing_throwing_spear2_melee Throwing_Spear Throwing_Spear 1  Spear_S_06 0  2251799826530308 13229324106727681 425 4398046781450 2.000000 100 0 0 0 2 0 88 0 110 0 280 0
+ itm_noswing_throwing_spear2_melee Throwing_Spear Throwing_Spear 1  Spear_S_06 0  2251799826530308 13229324106727681 425 4398046781450 2.000000 100 0 0 0 2 0 88 0 110 0 284 0
  0
 0
 
@@ -5852,7 +5816,7 @@ itemsfile version 3
 1
 -50.000000  5 1955 3 0 60 0 1965 1 1008806316530991115 1965 1 1008806316530991118 1950 3 225 195 105 1960 2 10 30 
 
- itm_noswing_work_pitchfork Pitchfork Pitchfork 1  pitchfork 0  4194308 257 5 0 3.500000 100 0 0 0 0 0 60 0 157 0 281 0
+ itm_noswing_work_pitchfork Pitchfork Pitchfork 1  pitchfork 0  4194308 257 5 0 3.500000 100 0 0 0 0 0 60 0 157 0 271 0
  0
 0
 
