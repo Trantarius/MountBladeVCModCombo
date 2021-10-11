@@ -856,7 +856,7 @@
  strike3_chest_front 1024 176160848  1
   0.800000 strikes3_chest 3 27 4 0 0.0 0.0 0.0 0.0 
  strike3_abdomen_left 1024 176160848  1
-  0.900000 strikes3_abdomen 105 150 4 0 0.000000 -0.000000 0.000000  0.0 
+  0.900000 strikes3_abdomen 105 150 4 0 0.000000 0.000000 0.000000  0.0 
  strike3_abdomen_right 1024 176160848  1
   0.900000 strikes3_abdomen 63 98 4 0 0.000000 0.000000 0.000000  0.0 
  strike3_abdomen_front 1024 176160848  1
